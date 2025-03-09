@@ -1,41 +1,36 @@
 Multi-modal Data Analysis
-This repository contains six Jupyter notebooks, each designed for different data collection and analysis tasks.
-
-🚀 Scalable Data Collection
+Scalable Data Collection
 📷 Image_Dataset.ipynb
+This notebook contains an automated script to download 50 images for 20 different categories. These categories are specified within the notebook. It also includes a use case of the generated data, which is assessing the feature representation capability of a model.
 
-Automates downloading 50 images for 20 different categories.
-Assesses the feature representation capability of a model using the generated dataset.
 📝 Text_Dataset.ipynb
+This notebook contains code to implement a web crawler to extract relevant text for different categories. It also explores how different models capture semantics in text and how they cluster closer sectors based on textual data.
 
-Implements a web crawler to extract relevant text across different categories.
-Uses pre-trained models to analyze semantic similarity and clustering based on textual data.
 🎙 Audio_Dataset.ipynb
+This notebook contains an automated script to record and store audio streams for a given duration (30–90 seconds). Then, it demonstrates Automated Speech Recognition (ASR) to transcribe the audio files, showcasing the strength of LLMs.
 
-Automates recording and storing audio streams (30–90 seconds).
-Applies Automated Speech Recognition (ASR) to transcribe audio and evaluate LLMs' performance.
 🌦 Weather_Dataset.ipynb
+This notebook uses the Open-Meteo API for historical weather data collection. It also includes various techniques to visualize time-series data.
 
-Fetches historical weather data using the Open-Meteo API.
-Demonstrates time-series visualization techniques for analyzing weather trends.
-🌍 Analyzing_India_with_Data.ipynb
+🇮🇳 Analyzing_India_with_Data.ipynb
+This notebook focuses on Air Quality analysis in India. The data is extracted from a government website and used for in-depth analysis.
 
-Analyzes air quality in India using government-sourced data.
-Explores insights through data visualization and statistical methods.
-🎵 Analyzing Flags & Anthems
+Analyzing Flags and Anthems
 📜 Data Collection
+We use BeautifulSoup to collect data from nationalanthems.info.
 
-Uses BeautifulSoup to scrape national anthems from nationalanthems.info.
 🎨 Visual Analysis
+This section focuses on:
 
-Examines flag aspect ratios, color distributions, and correlations between flags.
+Different flag aspect ratios
+Number of colors in different flags
+Correlation between flags
 📖 Textual Analysis
+Using pre-trained text embeddings, we analyze and cluster textual data to find correlations.
 
-Extracts text embeddings (pre-trained models) and clusters national anthems to find relationships.
 🎶 Audio Analysis
+Extracting audio features from each anthem and exploring correlations.
 
-Extracts acoustic features from anthems and explores similarities between countries.
-🔗 Multimodal Correlation
+🔄 Multimodal Correlation
+We attempt to match anthems (audio) with written versions, analyzing multimodal correlations.
 
-Combines audio and text representations to analyze correlations between written and sung anthems.
-This repository showcases multi-modal data collection and analysis, integrating images, text, audio, and structured data to uncover hidden insights! 🚀✨
