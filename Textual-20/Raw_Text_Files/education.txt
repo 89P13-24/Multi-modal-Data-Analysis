@@ -1,0 +1,622 @@
+TITLE: 10 Essential IT Certifications for 2025
+DATE: 
+URL: https://www.coursera.org/articles/essential-it-certifications-entry-level-and-beginner
+CONTENT:
+Whether youâre just starting out or are established in your career, IT certifications have their benefits. Here are 10 prominent entry-level IT certifications.
+An IT certification demonstrates your skills by verifying that you've passed an exam. Depending on the role, some employers may ask for them by name. Certifications arenât the only way to enter the industry; you can also prepare for an entry-level IT job by completing a certificate program. Use the following article to compare 10 employer-recognized IT certifications. If you're ready to obtain specialized training from an industry leader while earning credentials for your resume, consider enrolling to earn the Google IT Support Professional Certificate today.
+Read more: How to Get a Job in IT: 7 Steps
+Research suggests that certifications are linked to higher incomes. IT professionals who received a raise due to earning a new certification saw an average salary increase of $13,000 [2]. Additional benefits of earning a certification include stronger job performance and increased competitiveness in the job market. An IT certification on your resume can also be a quick way for hiring managers to gauge your abilities.
+The following IT certifications are designed to prepare you for entry-to-mid-level roles in IT. Entry-level certifications are broad enough to introduce you to industry-standard tools and skills. Mid-level certifications require some existing experience and expose you to the concepts and technologies required for professional development or to pursue a specialization such as cloud computing or artificial intelligence (AI).
+Did you know that nearly every US industry has seen an increase in AI-related job postings [1]? Learn to apply AI in your field productively and responsibly by enrolling in Googleâs IT Support Professional Certificate program.
+Read more: IT Certification Roadmap: A Guide
+CompTIA A+ is widely considered one of the go-to certificates for a well-rounded entry-level introduction to IT. Those who pass the certification exams will be qualified to solve basic issues in networking, operating systems, security, and mobile devices. The CompTIA A+ certification requires two exams.
+The CompTIA A+ provides a general introduction to a range of topics in the IT world. From there, many IT professionals can go on to specialize in a specific field of IT, like networks, security, or cloud computing, either by building experience or gaining relevant certifications.
+
+Cost: $253 per exam
+
+Potential jobs: Service desk analyst, technical support specialist, associate network engineer, desktop support administrator, system support specialist
+
+Requirements: Two certification exams are required. The exams do not have prerequisites, but CompTIA recommends nine to 12 months of hands-on experience.
+
+Certification path: After the CompTIA A+, candidates can go on to take other CompTIA certifications like Security+ or Network+, or certifications from other providers like the CCNA.
+You can study for the CompTIA A+ exam with expert-level guidance from IBM by enrolling in the Preparation for CompTIA A+ Certification Specialization:
+
+
+
+
+
+Read more: What is the CompTIA A+ Certification? A Certification to Start Your IT Career
+The CCNA certification is an associate-level certification that covers the fundamentals of IT networking issues. This includes network access, IP connectivity, and IP services. Though itâs not a vendor neutral certificationâmeaning itâll test you exclusively on Cisco products and toolsâitâs popular among network professionals because of Ciscoâs dominance in the networking market. One exam is required to get the CCNA certification.
+
+Cost: $300 to take the exam
+
+Potential jobs: Network specialist, network administrator, systems administrator, network engineer
+
+Requirements: One certification exam is required. The exam has no prerequisites, but Cisco recommends having a year of training and experience with computer networks.
+
+Certification path: After the CCNA, candidates can pursue more advanced network certifications, such as the Cisco Certified Network Professional (CCNP) or the Juniper Networks Certified Associate - Junos (JNCIA-Junos).
+
+Read more: 6 Network Certifications for Your IT Career
+The CompTIA Security+ certification will equip you with the skills to perform basic security functions. The certification will cover subjects like encryption, physical security, and wireless security. It requires one exam. If youâre interested in becoming an IT security specialist, you can go on to take more advanced security certifications like the Certified Information Systems Auditor (CISA) or the advanced Certified Information Systems Security Professional (CISSP).
+Security is a growing field, employing 4.7 million people globally, according to the 2022 (ISC)Â² Cybersecurity Workforce Study. On top of this large global workforce, the study also identified a "worldwide gap of 3.4 million cybersecurity workers" [3]. If youâre interested in pursuing an entry-level position in cybersecurity, check out 8 Popular Cybersecurity Certifications [2024 Updated].
+
+Cost: $404 to take the exam
+
+Potential jobs: Security administrator, security specialist, security consultant, security engineer, network administrator, security analyst
+
+Requirements: Requires one certification exam. There are no prerequisites, but CompTIA recommends having the CompTIA Network+ certification and two years of experience in IT administration.
+
+Certification path: After the Security+, candidates can go on to take other security certifications like the ISC2 Systems Security Certified Practitioner (SSCP) or ISACA Certified Information Systems Auditor (CISA).
+Need to build fundamental cybersecurity skills while you earn credentials? Enroll in the Google Cybersecurity Professional Certificate to familiarize yourself with entry-level skills and tools like Linux, SQL, and Python programming. No previous experience is required.
+
+
+
+
+
+The Microsoft fundamentals certifications test core technology skills, making them good entry-level qualifications for those who are expected to work with Microsoft products. Knowing your way around Microsoft products is likely to be an in-demand skillâover half of surveyed IT decision-makers worldwide said their companies would invest in Microsoft technology, Global Knowledge reports. The Fundamentals certifications replaced the Microsoft Technology Associate (MTA)Â certifications, which were retired on June 30, 2021.
+You can opt to take any one exam in a number of specialized areas that fall under security, Azure (Microsoftâs cloud solution), AI, data, and software like Power Platform, Microsoft 365, and Dynamics. If youâre looking for a certification in an in-demand area, the Microsoft Azure Fundamentals certification will enable you to learn the essentials of Microsoft cloud concepts.
+
+Cost: $99 per exam
+
+Potential jobs: IT specialist, Microsoft systems administrator, Microsoft server support technician, Microsoft Technician specialist
+
+Requirements: One exam is required for each certification. There are no prerequisites.
+
+Certification path: After a Microsoft Fundamental certification, candidates may go on to receive other certifications in various specializations like Azure Database Administrator Associate or Microsoft Certified: Security Operations Analyst Associate.
+You can prepare to pass the Microsoft Fundamentals certification exam while earning a second credential for your resume by enrolling in the Microsoft IT Support Specialist Professional Certificate program:
+
+
+
+
+
+Cloud computing, along with security, is one of the most in-demand fields in IT, and Amazon Web Services (AWS) is currently the most-used cloud platform in the world. So, learning the AWS platform may give you an edge in this growing industry. The AWS Cloud Practitioner certification is the most entry-level of the AWS certifications.
+The AWS Cloud Practitioner certification is designed to help you gain foundational AWS knowledge and can be great for those just starting out in IT. However, many cloud-related jobs ask for an associate-level AWS certification, which is a level above the practitioner certification. If you already have a year of experience with AWS, the associate-level AWS Solutions Architect, SysOps Administrator, or Developer certifications might better prepare you for entry-level cloud computing jobs.
+
+Cost: $100 to take the exam
+
+Potential jobs: Cloud engineering intern, cloud developer, cloud engineer, cloud architect
+
+Requirements: There are no prerequisites to the exam, but Amazon recommends having at least a basic understanding of AWS services and uses, and around six months of exposure to AWS.
+
+Certification path: After the AWS Cloud Practitioner, you can go on to get a more advanced certification like the AWS Certified Developer or AWS Certified Solutions Architect.
+
+Read more: 5 Cloud Certifications to Start Your Cloud Career
+The ITF+ is a beginning-level certification designed for those who want to see if IT is the right career path for them. If youâre a student or a career switcher still trying to see if IT is for you, this certification can help you decide. If youâre looking for a certification that will help you gain skills for a job in IT, other certifications like the CompTIA A+ might fit your needs better.
+
+Cost: $138 to take the exam
+
+Requirements: No prior experience recommended
+
+Certification path: After the ITF+, candidates can go on to take the CompTIA A+ or other entry-level certifications.
+You can prepare for the CompTIA IT Fundamentals exam for free by completing IBM's Practice Exam for the CompTIA ITF+ Certification:
+
+
+
+
+
+The CompTIA Network+ is a foundational certification in networking principles. Unlike the CCNA, the Network+ is a vendor-neutral certificationâmeaning it doesnât test you on any specific device or technology. The Network+ is considered to be more basic than the CCNA, making it a good option for those who are just starting out in networking, or who find the CCNA too comprehensive for their current needs.Â
+
+Cost: $369 to take the exam
+
+Potential jobs: Network administrator, network engineer, system administrator
+
+
+
+Requirements: No formal requirements, but the CompTIA A+ and 9 to 12 months of experience with networks recommended.
+
+Certification path: Many candidates go on to take the CCNA or other networking certifications after the Network+.
+Read more: What is the CCNA? An Entry-Level Networking Certification
+The GISF is a foundational certification for security and related concepts like networking, cryptography, and cybersecurity technologies. GIAC recommends the certification for anybody new to cybersecurity who wants a fundamental introduction to the field, as well as those who can benefit from cybersecurity knowledge such as system administrators and non-IT security managers.Â
+
+Cost: $979 to take the exam, $879 to retake
+
+Potential jobs: Cybersecurity analyst, information security specialist, non-IT security manager
+
+Requirements: There are no formal requirements for the GISF
+
+Certification path: Those who take the GISF may go on to take the GIAC Security Essentials Certification (GSEC)
+Read more: What is GIAC Certification? A Guide
+The Cloud Digital Leader is Googleâs foundational cloud certification. The certification exam will test you broadly on basic Google Cloud principles. Though many entry-level Google Cloud jobs request the next level certificationâthe Google Associate Cloud Engineerâstudying the Cloud Digital Leader certification exam material can give you a solid foundation in Google Cloud.
+
+Cost: $99
+
+Potential jobs: Job-role independent
+
+Requirements: No formal requirements
+
+Certification path: After the Cloud Digital Leader, candidates can go on to take certifications that will equip them with entry-level job skills such as the Google Associate Cloud Engineer.
+You can gain the training you need to pass the Google Cloud Digital Leader exam while also earning credentials for your study by enrolling in the Google Cloud Digital Leader Training Professional Certificate:
+
+
+
+
+
+Read more: Google Cloud Certification: 2025 Guide
+The CAPM certification is designed to prepare you for entry-level project management positions. Though not an IT certification, many IT positions and teams value project management skills. The CAPM can be worth pursuing if you have a technical background and hope to move into a more project management-oriented role.
+
+Cost: $300 for non-PMI members, $225 for PMI members
+
+Potential jobs: IT project manager, IT project coordinator
+
+Requirements: No formal requirements
+
+Certification path: Candidates who want to continue on the project management path may go on to take the Project Management Professional (PMP) certification.
+Ready to start studying for the CAPM? Consider taking a Practice Exam for the CAPM Certification to ensure you're prepared to pass.
+Read more: What is the CAPM Certification? Requirements and More
+Picking based on earning potential? Cloud and cybersecurity certifications are generally associated with the highest salaries, according to Skillsoft [5].
+Certificate programs are a great way to enhance your resume and learn critical IT skills simultaneously. The Google IT Support Professional Certificate is an employer-recognized credential designed to prepare you for an entry-level role in IT. It also covers the same core concepts tested in the CompTIA A+ certification exam, making it an ideal way to earn dual credentials and sharpen your skill set. In this self-paced, 100% online program, you'll master the basics of operating systems (OS), networking, customer support, and problem-solving with code. Upon completion, you'll gain access to the Google Hiring Consortium, an exclusive job board connecting you to employers hiring for professionals with Google Career Certificates.
+
+
+
+
+
+Getting an IT certification generally entails picking a certification, preparing for the exam, and passing the exam. If you're thinking about earning a certification, these are the steps you should take:
+1. Decide on a certification. Pick a certification based on your interests and needs. If you need help figuring out where to start, look at job descriptions of positions you're interested in and see which certifications are mentioned most often.
+2. Prepare for the exam. Preparing for the exam means ensuring you meet any requirements, scheduling the exam, paying for it, and studying for it. You could choose to study on your own or sign up for a course designed to prepare you for the test.
+3. Take the exam. You can take the certification exam online or in person. Check any requirements a day or two before the exam to ensure you remember important artifacts, like a valid ID.
+If you're looking for a more detailed explanation, read about how to get an IT certification.
+Exams can cost several hundred dollars to take. But if you know you want to break into the IT field, getting a certification may be a great investment in your career. If youâre already employed and think a certification will be beneficial to you and your company, you might approach your manager to see if the company will cover the costs. Read more about how to decide if IT certifications are worth it for you.
+
+Build the skills you need for an entry-level IT job as you prepare for the A+ exam with theÂ Google IT Support Professional Certificate. Google has teamed up with CompTIA to offer a dual badge of completionâperfect for your resume or LinkedIn profileâfor those who complete the Professional Certificate and pass the A+ exam.
+
+
+
+
+
+
+Lightcast. "2023 Stanford AI Index Report, https://lightcast.io/resources/blog/demand-for-ai-skills-continues-climbing." Accessed September 16, 2024.
+CompTIA. "IT Salaries: Where the Moneyâs At, https://www.comptia.org/blog/it-salaries." Accessed September 21, 2023.
+(ISC)Â². "2022 Cybersecurity Workforce Study, https://www.isc2.org/-/media/ISC2/Research/2022-WorkForce-Study/ISC2-Cybersecurity-Workforce-Study.ashx." Accessed September 21, 2023.
+Glassdoor. "Information Technology Entry Level Salaries, https://www.glassdoor.com/Salaries/information-technology-entry-level-salary-SRCH_KO0,34.htm." Accessed September 21, 2023.
+US Bureau of Labor Statistics. "Computer and Information Technology Occupations, https://www.bls.gov/ooh/computer-and-information-technology/home.htm." Accessed September 21, 2023.
+Skillsoft. "15 Top Paying Certifications of 2022, https://www.skillsoft.com/blog/15-top-paying-it-certifications-of-2022." Accessed September 21, 2023.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editorial Team
+Courseraâs editorial team is comprised of highly experienced professional editors, writers, and fact...
+This content has been made available for informational purposes only. Learners are advised to conduct additional research to ensure that courses and other credentials pursued meet their personal, professional, and financial goals.
+
+
+Coursera Footer
+Technical Skills
+Analytical Skills
+Business Skills
+Career Resources
+Coursera
+Community
+More
+--------------------------------------------------------------------------------
+
+TITLE: 8 High-Income Skills to Learn in 2025
+DATE: 
+URL: https://www.coursera.org/articles/high-income-skills
+CONTENT:
+Developing these skills could lead to more career versatility and higher-paying salaries.
+Every job requires some combination of technical skills and workplace skills.  High-income skills are tools and expertise that employers tend to value because of the important business needs they satisfy. In this article, we'll go over eight high-income skills to learn or strengthen for the coming year.
+Afterward, learn job-ready skills from industry leaders like Google, Microsoft, and IBM with a Coursera Plus subscription. Youâll get a certificate for every program you finish, which you can add to further enhance your resume.
+Below, youâll find eight high-income skills you can feature on your resume to help stand out to potential employers. To build this list, we referenced reports and platforms forecasting the most in-demand skills through 2030 from Pearson [1], LinkedIn [2], Glassdoor, Coursera [3], and the World Economic Forum [4].
+The skills listed here are all transferable across a number of career paths or may be beneficial to strengthening your current career. For instance, a marketing professional may want to enhance their data skills, even if they do not want to work in data more formally, because it can help them discover key insights and build more effective campaigns.
+Whether you choose to develop some of the skills below to augment your career or you're interested in pursuing a career built around a certain skill, use the list below to guide you.
+Generative AI (GenAI) is a transformative technology that's quickly becoming a requirement across many roles. A growing number of businesses already rely on AI tools to increase their productivity, with even more businesses interested in finding ways to integrate AI into their workstream, business model, products, or services.
+Developing GenAI skills, including an ability to prompt engineerâa formal way of describing the ability to refine GenAI requests to get the output you desireâis becoming more crucial. Luckily, there are a variety of ways to build fundamental AI skills or advance what you already know. If you're interested in an AI career, here are some roles that use AI heavily, along with average base pay in the United States as of February 2025, according to Glassdoor:
+
+
+
+
+
+
+As businesses across industries increasingly rely on data to make informed decisions, they require employees with the ability to collect, interpret, and share data that can solve their business problems.
+People skilled in data analysis may use a range of tools, including Microsoft Excel, Google Sheets, SQL, Tableau, R, or Python. Here are some careers that use data analysis, along with average base pay in the United States as of February 2025, according to Glassdoor:
+
+
+
+
+
+
+Industries now regularly turn toward technology to advance their business capabilities, and they need people skilled in developing, maintaining, and improving their technological systems. People who work in DevOps or software engineering build, monitor, and control an organizationâs technology.
+People skilled in DevOps or software engineering may use tools like Git, Docker, Jenkins, or Kubernetes, and may know coding languages like Python, Java, or C++. Here are some careers that use software development, along with average base pay in the United States as of February 2025, according to Glassdoor:
+
+
+
+
+
+Hand in hand with technological development comes user experience (UX), which has to do with the way a consumer interacts with a product. People working in UX figure out the best way to present a product to consumers. They may conduct research, design, or help market a product.
+Although they still involve some data, UX roles are grounded in design and tend to offer room for creativity, and they require a high level of social perceptivenessâthree skills that come up in multiple skill reports [4, 1]. Here are some careers utilizing user experience skills, along with average base pay in the United States as of February 2025, according to Glassdoor:
+
+
+
+
+
+
+Web development brings together the fundamentals of software development and user experience, incorporating the technical aspects of the former with the design elements of the latter. People skilled in web development will also be familiar with technical search engine optimization (SEO) in order to design and program websites that meet business needs.
+Here are some careers that require web development skills, along with average base pay in the United States as of February 2025, according to Glassdoor:
+
+
+
+
+
+Many companies use an organizational structure in which different departments, teams, or team members all work on a singular product or project. A person who is skilled in coordinating efforts across each of those touchpoints is skilled in project management. These team members may be responsible for maintaining schedules, organizing budgets, and communicating with project stakeholders (or various parties interested or invested in the project outcomes).
+You can consider âproject management skillsâ to be a catch-all term for leadership, communication, planning, resilience, and organizational skillsâall of which are frequently cited as valuable to employers. Project management shows up in many careers and becomes especially important as you move into managerial positions. However, you can also pursue a career as a project manager. Here are some careers along the project manager path and their average base pay in the United States as of February 2025, according to Glassdoor:
+
+
+
+
+
+
+While project management typically has an internal focus, account management taps into a similar subset of skills to work with people outside of your organization. Often highly valued in sales positions, account management skills enable you to confidently position your company and its products to customers.
+Account management skills incorporate both the organizational aspects required to close a business deal as well as the interpersonal skills required to productively negotiate and maintain relationships. They often work with a customer relationship management (CRM) tool like Salesforce.
+Here are some careers that use account management and sales skills, along with average base pay in the United States as of February 2025, according to Glassdoor:
+
+
+
+
+
+Content creation and management skills involve storytelling and are often crucial for marketing careers. This skill set incorporates creativity, originality, social perceptiveness, and emotional intelligence. Taking these skills a step further can also mean adding data analysis to your toolbox, specifically honing in on marketing analytics so that you can assess how well an audience is connecting with your content.
+Here are some careers that use content creation and management skills, along with average base pay in the United States as of February 2025, according to Glassdoor:
+
+
+
+
+
+Continue building high-income skills through courses, specializations, and Professional Certificates on Coursera. Develop new knowledge, learn about important tools, and get hands-on practice through assignments to keep expanding your skill set.
+With a Coursera Plus subscription, available in monthly and annual tiers, you'll gain access to more learning programs from world-class universities and companies.
+
+Pearson. âThe Future of Skills: Employment in 2030, https://futureskills.pearson.com/research/assets/pdfs/technical-report.pdf.â Accessed February 21, 2025.
+LinkedIn. "5 Most In Demand Skills in 2025, https://www.linkedin.com/pulse/5-most-in-demand-skills-2025-bernard-marr-xny2e/." Accessed February 21, 2025.
+Coursera. "Job Skills Report 2024, https://www.coursera.org/skills-reports/job-skills." Accessed February 21, 2025.
+World Economic Forum. "Future of Jobs Report, 2023, https://www3.weforum.org/docs/WEF_Future_of_Jobs_2023.pdf." Accessed February 21, 2025.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editorial Team
+Courseraâs editorial team is comprised of highly experienced professional editors, writers, and fact...
+This content has been made available for informational purposes only. Learners are advised to conduct additional research to ensure that courses and other credentials pursued meet their personal, professional, and financial goals.
+
+
+Coursera Footer
+Technical Skills
+Analytical Skills
+Business Skills
+Career Resources
+Coursera
+Community
+More
+--------------------------------------------------------------------------------
+
+TITLE: How to Get a PMP Certification: An Overview
+DATE: 
+URL: https://www.coursera.org/articles/the-pmp-certification-a-guide-to-getting-started
+CONTENT:
+With over a million certification holders worldwide, the PMP is widely recognized and has been linked to multiple benefits for project managers. Here's what you need to know to get started.
+The Project Management Professional (PMP)Â® certification is a globally recognized project management certification that tests a candidateâs ability to manage people, processes, and business priorities. According to the Project Management Institute (PMI), which administers the certification, there are over one million PMP-certified professionals worldwide. It applies to project managers in virtually any industry, including health, construction, information technology (IT), and business.
+To earn this certification, youâll first need to acquire 35 hours of project management education. You can meet this experience requirement while simultaneously earning a certificate from another industry leader by enrolling in the self-paced, online Google Project Management Professional Certificate program.
+Read more about PMP certification requirements, cost, and exam questions in the article below:
+You must validate your project management experience and education to take the certification exam. There are three sets of training requirements to choose from:
+35 hours of project management training, which means coursework that specifically addressed learning objectives in project management. This can be substituted with a Certified Associate in Project Management (CAPM)Â® certification.Â
+High school diploma or associate degree.
+60 months or five years minimum experience managing and leading projects within the last 8 years.
+35 hours of project management training, which means coursework that specifically addressed learning objectives in project management. This can be substituted with a Certified Associate in Project Management (CAPM)Â® certification.Â
+Bachelor's degree or global equivalent.
+36 months or three years of experience managing and leading projects in the past 8 years.
+35 hours of project management training, which means coursework that specifically addressed learning objectives in project management. This can be substituted with a Certified Associate in Project Management (CAPM)Â® certification.Â
+Bachelor's degree or global equivalent from a GAC accredited institution or program
+24 months or two years of experience managing and leading projects in the past 8 years.
+Read more: CAPM Certification Guide: Getting Started in Project Management
+As of October 2024, the exam fee is $675 for non-PMI members and $425 for PMI members [1]. A PMI membership costs $159 a year, with special membership options for eligible students and retirees.
+The PMP certification is valid for three years but can be renewed or maintained by earning spend 60 hours (also referred to as professional development units) during that time frame on professional development activities to maintain it. Otherwise, you'll need to sign up to take the exam again.
+Hereâs a step-by-step guide to getting your PMP certification:
+Before you can take the PMP exam, youâll have to make sure youâre eligible using the criteria specified above.
+Youâll want to keep track of your projects and training, recording information like your specific role, responsibilities, and length of projects or training so that you have it at hand when you apply. This training requirement can be waived if you already have a CAPM certification or met by completing the Google Project Management Professional Certificate program, which provides you with an additional credential for your resume while you prepare for the PMP:
+
+
+
+
+
+Make an account using the PMI website to get started on your application for the PMP exam. This will entail sharing basic personal information like your educational background, as well as details about the projects youâve worked on.Â
+Once youâre approved, youâll pay the exam fee and schedule a test.
+Studying for the exam will take some planning and determination. You can train for this exam either through structured coursework or on your own. Generally, exam prep providers recommend spending 60 to 120 hours studying. A survey by PM Exam Lessons Learned found that successful exam takers dedicated two to six months for practice. Depending on how frequently you study, this can take several months. Consider taking practice exams and studying PMI resources to prepare.
+The PMP certification is not an entry-level exam. It can be challenging, even for experienced project managers. It requires a strong knowledge of the Project Management Body of Knowledge and the ability to think critically to apply these guidelines and other industry-standard practices to a variety of workplace situations.
+Read more: 11 Good Study Habits to Develop
+The exam can be taken at a testing site near you or online. The exam typically takes around four hours to complete.
+The PMP certification is valid for three years. Youâll need to spend 60 hours during that time frame on professional development activities to maintain it. Otherwise, you can sign up to take the exam again.
+Ultimately, whether a PMP certification will be worth it to you professionally and financially depends on your unique circumstances. Here are a few benefits you might see with a PMP under your belt to help you navigate your decision.
+Industry recognition: The PMP certification can show employers or clients that you know the ins and outs of project management, and have the experience and training required of a professional.
+Learning new skills: You are also likely to learn a significant amount about project management as you prepare for the exam. Taking hours out of your life to master project management fundamentals like conflict resolution and budgeting can bolster the skills to make you a better project manager.
+Higher salaries: The PMI found that respondents to a recent survey who are PMP certification holders reported a 33 percent higher median salary than those without the certification [2]. PC Magazine reported that the PMP certification ranked third among IT certifications that were linked to the highest salaries in the IT sector [3].
+Job prospects: According to a report compiled by PMI and the Anderson Economic Group, employers will need 87.7 million individuals working in project management roles by 2027. The biggest growth is expected in the health care sector, though large gains are also projected in the construction, information services, and finance and insurance sectors [4].
+The PMP certification is designed to build on and solidify the training an experienced project manager already has. If youâre just starting out as a project manager, you may want to gain more experience or look into another certificationâlike the CAPMâbefore getting a PMP. The Google Project Management: Professional Certificate is also designed for those just starting out, and will earn you an employer-recognized professional credential.
+Hereâs an overview of whatâs on the PMP certification test as of October 2024.
+180 questions total
+230 minutes (3 hours 50 minutes) to complete
+Two 10-minute breaks
+A combination of multiple-choice, multiple responses, matching, hotspot, and limited fill-in-the-blank questions
+The questions fall into three domains:
+People: 42 percent of exam
+Composing a little less than half of the exam, the people section includes questions on leading and building teams, managing conflict, supporting virtual teams, mentoring, and other related topics.
+Process: 50 percent of exam
+The process section tests your knowledge on the methodology of seeing a project through to completion. You might be asked about managing budgets and other resources, scheduling, handling changes in the project, and determining the best methodologies for the project.
+Business environment: 8 percent of exam
+The business environment portion of the exam deals broadly with the more business-minded aspects youâll have to tackle as a project manager, like compliance, delivering value, and supporting organizational change.
+Roughly half of the content represents predictive project management approaches, while the other half represents Agile or hybrid approaches.
+Read more: Agile Project Management: What It Is and When to Use It
+Some courses can cost several hundred or even a few thousand dollars to complete. However, they may be a worthwhile investment if you're looking for a structured way to ensure youâre fully prepared for the test. If you think earning the PMP certification also benefits your employer, consider approaching your manager to see if they can cover exam or exam prep costs.
+Read more: How to Ask Your Employer to Pay for Your Degree
+If the PMP doesn't seem like the right fit for you, there are several other project management certifications you can consider:
+Agile is an approach to project management that focuses on adaptability and speed through smaller-scale and streamlined delivery. It is an approach that has gained popularity in recent years. Popular Agile certifications include the AgilePM from APGM International and the Scaled Agile Framework (SAFe) certification from Scaled Agile.
+Read more: 6 Popular Agile Certifications
+Scrum is a project management framework that emphasizes adaptability and iteration, and is an Agile process. Becoming a scrum master means youâll be helping projects fit the scrum approach to meet success. Popular scrum certifications include the Certified Scrum Master (CSM) from Scrum Alliance and the Professional Scrum Master (PSM) from Scrum.org.
+Read more: 7 In-Demand Scrum Master Certifications
+To gain foundational knowledge of both Agile and Scrum for your professional development goals, consider setting aside 11 hours to complete IBM's beginner-friendly online course, Introduction to Agile and Scrum. It's part of several IBM-led Professional Certificate programs, including the IBM Project Manager Professional Certificate, which can be used to fulfill your 35-hour training requirement to take the PMP certification exam:
+
+
+
+
+
+You can earn credentials from an industry leader and fulfill your training prerequisite for the PMP at the same time by enrolling in Google's self-paced, beginner-friendly online certificate program:
+
+
+
+
+
+
+Project Management Institute. "Project Management Professional (PMP), https://www.pmi.org/certifications/project-management-pmp" Accessed October 2, 2024.
+Project Management Institute. "Earning Power: Project Manager Salary Survey Thirteenth Edition, https://www.pmi.org/learning/careers/project-management-salary-survey." Accessed October 2, 2024.
+PC. "Level Up Your Career: The Highest-Paying IT Certifications for 2024, https://www.pcmag.com/news/highest-paying-it-certifications." Accessed October 2, 2024.
+Project Management Institute. "Project Management Job Growth and Talent Gap: 2017-2027, https://www.pmi.org/-/media/pmi/documents/public/pdf/learning/job-growth-report.pdf." Accessed October 2, 2024.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editorial Team
+Courseraâs editorial team is comprised of highly experienced professional editors, writers, and fact...
+This content has been made available for informational purposes only. Learners are advised to conduct additional research to ensure that courses and other credentials pursued meet their personal, professional, and financial goals.
+
+
+Coursera Footer
+Technical Skills
+Analytical Skills
+Business Skills
+Career Resources
+Coursera
+Community
+More
+--------------------------------------------------------------------------------
+
+TITLE: How to Learn Artificial Intelligence: A Beginnerâs Guide
+DATE: 
+URL: https://www.coursera.org/articles/how-to-learn-artificial-intelligence
+CONTENT:
+This guide to learning artificial intelligence is suitable for any beginner, no matter where youâre starting from.
+Every time you shop online, search for information on Google, or watch a show on Netflix, you interact with a form of artificial intelligence (AI). The applications of AI are everywhere and will only continue to grow.Â
+From factory workers to waitstaff to engineers, AI is quickly impacting jobs. Learning AI can help you understand how technology can improve our lives through products and services. There are also plenty of job opportunities in this field, should you choose to pursue it.
+Learning AI doesnât have to be difficult, but it does require a basic understanding of math and statistics. In this guide, weâll take you through how to learn AI and create a learning plan.
+
+Want to build foundational AI knowledge in just a matter of hours? Consider taking one of these popular courses on Coursera:
+
+In DeepLearning.AI's AI for Everyone, you'll learn what AI is, how to build AI projects, and consider AI's social impact in just six hours.
+In Google's AI Essentials course, you'll learn how to use generative AI tools to develop ideas and content, make informed decisions, and improve the speed of daily work tasks.
+
+
+
+
+
+
+
+Artificial intelligence (AI) is the process of simulating human intelligence and task performance with machines, such as computer systems. Tasks may include recognizing patterns, making decisions, experiential learning, and natural language processing (NLP). AI is used in many industries driven by technology, such as health care, finance, and transportation.Â
+Learning AI is increasingly important because it is a revolutionary technology that is transforming the way we live, work, and communicate with each other. With organizations across industries worldwide collecting big data, AI helps us make sense of it all.Â
+AI engineers earn a median salary of $136,620 a year, according to the US Bureau of Labor Statistics [1]. Professionals in this field can expect the number of jobs to grow by 23 percent over the next decade.Â
+Besides being a lucrative career path, it is a fast-growing field and an intellectually stimulating discipline to learn.
+Hear more about AI in this lecture from Stanford and DeepLearning.AI's Machine Learning Specialization:
+
+
+The amount of time it takes to learn artificial intelligence depends on several factors, including:
+
+Prerequisite knowledge: If you have general knowledge of math and statistics, you can skip straight toward learning AI skills and tools.
+
+Career intent: If you want to pursue a job in the AI field, youâll want a more comprehensive education than someone who simply wants to add context to their data analytics role.
+
+Background knowledge: If youâre switching from another major or field, then itâll take longer to learn than someone who is already working in the technology field and has a basic understanding of its complex jargon.Â
+
+Artificial intelligence is computer software that mimics how humans think in order to perform tasks such as reasoning, learning, and analyzing information. Machine learning is a subset of AI that uses algorithms trained on data to produce models that can perform those tasks. AI is often performed using machine learning, but it actually refers to the general concept, while machine learning refers to only one method within AI.Â
+Read more: Machine Learning vs. AI: Differences, Uses, and Benefits
+
+Here are four steps to guide your learning. To start your journey into AI, develop a learning plan by assessing your current level of knowledge and the amount of time and resources you can devote to learning.
+Before you take a class, we recommend developing a learning plan. This plan should include a tentative timeline, skill-building goals, and the activities, programs, and resources youâll need to gain those skills.Â
+
+First, ask yourself the following questions:
+
+Your level of knowledge of artificial intelligence: Are you a true beginner? Do you have a foundation in math and statistical skills? Are you familiar with basic terminology and concepts?Â
+
+Your intention for learning: Are you pursuing a new career or just supplementing your current career?
+
+How much time you can spend learning: Are you currently employed? Do you want to learn full-time or part-time?
+
+How much money you can spend: Do you want to invest in a boot camp, take professional courses online, or watch some videos on YouTube and TikTok?
+
+How do you want to learn: Are you interested in pursuing a degree program, a boot camp, or self-teaching through a variety of online courses?
+
+Later in this article, weâll provide an example of a learning plan to help you develop yours.
+Read more: Artificial Intelligence (AI) Terms: A to Z Glossary
+
+
+
+
+
+Before starting your learning journey, youâll want to have a foundation in the following areas. These skills form a base for learning complex AI skills and tools.
+
+Basic statistics: AI skills are much easier to learn when you have a firm grasp of statistics and interpreting data. Youâll want to know concepts such as statistical significance, regression, distribution, and likelihood, all of which play a role in AI applications.
+
+Basic math: Understanding AI, especially machine learning and deep learning, relies on knowing mathematical concepts such as calculus, probability, and linear algebra. These frequently appear in AI algorithms and models.
+
+Curiosity and adaptability: AI is complex and rapidly evolving, so there is a constant need to keep up with new techniques and tools. Those looking to pursue a career in AI should have an insatiable thirst for learning and an adaptable mindset for problem-solving.
+
+The depth to which youâll need to learn these prerequisite skills depends on your career goals. An aspiring AI engineer will definitely need to master these, while a data analyst looking to expand their skill set may start with an introductory class in AI.Â
+
+If you already have a baseline understanding of statistics and math and are open to learning, you can move on to Step 3.
+
+
+
+
+
+
+
+Once youâve covered the prerequisites, letâs dive into the essential skills youâll need for AI. Your level of mastery will depend on the type of role youâre pursuing.Â
+
+Knowing how to code is essential to implementing AI applications because you can develop AI algorithms and models, manipulate data, and use AI programs. Python is one of the more popular languages due to its simplicity and adaptability, R is another favorite, and there are plenty of others, such as Java and C++.
+Read more: Python or R for Data Analysis: Which Should I Learn?
+
+
+
+
+
+A data structure is a specialized format for organizing, storing, retrieving, and manipulating data. Knowing the different types, such as trees, lists, and arrays, is necessary for writing code that can turn into complex AI algorithms and models.Â
+
+
+
+
+
+
+
+Data science encompasses a wide variety of tools and algorithms used to find patterns in raw data. Data scientists have a deep understanding of the product or service user, as well as the comprehensive process of extracting insights from tons of data. AI professionals need to know data science so they can deliver the right algorithms.
+
+
+
+
+
+
+
+This popular subset of AI is important because it powers many of our products and services today. Machines learn from data to make predictions and improve a productâs performance. AI professionals need to know different algorithms, how they work, and when to apply them.
+
+
+
+
+
+Deep learning is a subset of machine learning that uses many layers of neural networks to understand patterns in data. Itâs often used in the most advanced AI applications, such as self-driving cars.
+
+
+
+
+
+Along with building your AI skills, youâll want to know how to use AI tools and programs, such as libraries and frameworks, that will be critical in your AI learning journey. When choosing the right AI tools, itâs wise to be familiar with which programming languages they align with, since many tools are dependent on the language used.
+
+Here are some popular tools and libraries specifically for Python:
+
+NumPyÂ
+Scikit-learnÂ
+PandasÂ
+TensorflowÂ
+Seaborn
+Theano
+Keras
+PyTorch
+Matplotlib
+
+Learn more: 9 Best Python Libraries for Machine Learning
+
+
+
+
+
+
+Learning on your own and wondering how to stay on track? Develop a learning plan to outline how and where to focus your time. Below, weâve provided a sample of a nine-month intensive learning plan, but your timeline may be longer or shorter depending on your career goals.
+
+Month 1-3: Basics of mathematics and statistics, programming, and data structures
+
+Math and statistics: Learn the basics by studying calculus, algebra, statistics, and probability, which will serve as a foundation for your AI journey.
+Programming: Learn a programming language, like Python or R. Youâll then become familiar with libraries and packages.
+Data structures: Start learning how to store, retrieve, and manipulate datasets, and then how to clean and prepare them, which is necessary for any AI project.
+
+Month 4-6: Dive into data science, machine learning, and deep learning
+
+Data science: Learn the basics of data science and how AI can help facilitate extracting and deriving insights from data.
+Machine learning: Dive into the various types of machine learning algorithms, such as supervised, unsupervised, and reinforcement learning.Â
+Deep learning: Understand neural networks and the concepts of deep learning.
+
+Month 7-9: Get familiar with AI tools and choose a specialization
+
+AI tools: Once youâve mastered the basics, you can start using the different libraries associated with the programming language you learned, as well as other AI tools such as ChatGPT.
+Specialization: You may want to specialize in a specific area of AI, such as natural language processing, or perhaps how to apply AI to another field.Â
+Further learning and job search: Start looking for AI jobs, if that was part of your intention for learning. Continue to keep up with AI trends with blogs, podcasts, and more.Â
+Subscribe to Coursera Career Chat on LinkedIn to receive our weekly, bite-sized newsletter for more work insights, tips, and updates from our in-house team.
+Your journey to a career in artificial intelligence can begin with a single step. Consider taking one of these AI courses on Coursera to start building your skills today:
+For an overview of AI, try DeepLearning.AIâs AI For Everyone course taught by top instructor Andrew Ng, provides an excellent introduction. In just 10 hours or less, you can learn the fundamentals of AI, how it exists in society, and how to build it in your company.
+
+To enhance your career with AI skill, enroll in the IBM AI Foundations for Everyone Specialization. Learn foundational AI concepts, familiarize yourself with AI services, and gain hands-on experience with several AI environments and applications.
+
+For a comprehensive introduction to generative AI, consider taking Google Cloud's Introduction to Generative AI Learning Path Specialization. Here, you'll explore the foundations of large language models, their applications, and the ethical considerations crucial for AI development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. US Bureau of Labor Statistics. âComputer and Information Research Scientists, https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm.â Accessed February 21, 2024.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editorial Team
+Courseraâs editorial team is comprised of highly experienced professional editors, writers, and fact...
+This content has been made available for informational purposes only. Learners are advised to conduct additional research to ensure that courses and other credentials pursued meet their personal, professional, and financial goals.
+
+
+Coursera Footer
+Technical Skills
+Analytical Skills
+Business Skills
+Career Resources
+Coursera
+Community
+More
+--------------------------------------------------------------------------------
+

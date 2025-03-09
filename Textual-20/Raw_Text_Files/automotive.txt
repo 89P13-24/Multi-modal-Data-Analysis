@@ -1,0 +1,742 @@
+TITLE: News
+DATE: 
+URL: https://caranddriver.com/news/
+CONTENT:
+A Part of Hearst Digital Media
+We may earn a commission for purchases made through our links.
+©2025 Hearst Autos, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------
+
+TITLE: CAN'T GET ENOUGH?
+DATE: 
+URL: https://www.caranddriver.com/email/caranddriver-newsletter
+CONTENT:
+By signing up, I agree to the Terms of Use (including the dispute resolution procedures) and have reviewed the Privacy Notice.
+--------------------------------------------------------------------------------
+
+TITLE: Tested: Subaru WRX TR Is No Longer a Blank Slate
+DATE: 
+URL: https://caranddriver.com/reviews/a46169238/2024-subaru-wrx-tr-drive/
+CONTENT:
+Subaru gave the 2024 WRX TR Brembo brakes and Recaro seats. More power? That's up to you.
+3/6/25 UPDATE: This review has been updated with instrumented test results.
+The original WRX TR launched in 2006 as a stripped-down, minimalist trim aimed at buyers who planned to start modding their cars the day they got home from the dealership. The moniker stood for "Tuner Ready," and the TR went without a rear spoiler, fog lights, or a fancy stereo. Why include a nice sound system that'll immediately be replaced by a sweet Pioneer OEL head unit with a swimming-dolphin display and a Rockford amp bridged down to about a quarter-ohm? (Not that we built something exactly like that, ever.) The 2024 Subaru WRX TR takes a different approach—it's definitely not stripped down and more like an STI-lite. As a consequence, nobody is really sure what "TR" now stands for. Totally Rad? Tire Roaster? Theodore Roosevelt? As Teddy might've said, walk softly and carry big stick into those braking zones.
+And brakes are the TR's major upgrade, hulking Brembos with six-piston calipers up front and two-piston fixed calipers at the rear, animated by a larger master cylinder (an improvement that applies to all manual-transmission 2024 WRXs). The 13.4-inch front rotors are an inch larger in diameter than the standard WRX fare, and the 12.8-inch cross-drilled rear rotors gain 1.4 inches on the standard brakes. Lest there be any confusion over your WRX's stopping power, the calipers are painted a searing red. However, there's a confounding asterisk that applies here, as it does with the also-mondo-Brembo-equipped WRX tS: The standard brakes deliver shorter stopping distances.
+From 70 mph, the WRX Limited stops in 153 feet, narrowly besting the TR's 156 feet. From 100 mph, the Limited's 317-foot stop beats the TR by five feet. But we'll assume that the tS's road-course braking advantage—it was the quickest WRX we ever tested at our Lightning Lap event—would hold for the TR as well.
+The TR's 19-inch wheels, shared with the tS, are an inch larger to accommodate the boffo brakes and look vaguely like they were pulled from a Lamborghini Urus. Those wheels are wrapped in Bridgestone Potenza S007 summer tires, which are new to the WRX. Springs and dampers are about 5 percent stiffer, and the power steering is tuned for more feedback. Inside, the TR gets Ultrasuede-trimmed Recaro seats. And yes, the TR is available only with a six-speed manual transmission. In a weight-saving (and cost-offsetting) nod to its parsimonious predecessor, the TR doesn't have a sunroof. Despite the big brakes, the sunroof delete means that the TR weighs within a Corgi of a manual-transmission WRX Limited, coming in at 3425 pounds—24 pounds more than the Limited.
+Subaru introduced the WRX TR in Sicily, on the roads that made up the original Targa Florio circuit. What does Subaru have to do with a race that ended in 1977? Well, the Targa Florio became the Targa Florio Rally, which was part of the European Rally Championship from 1984 to 2011. And Subarus won that twice, in 1995 and 1999, so the WRX's ancestors put down some victorious rubber on these roads—some of which can still be seen. You'll be braking into a corner and notice the outside lane on your left streaked with skid marks, evidence of rally cars setting up to dive-bomb the apex. As public roads go, the ones that made up the Targa Florio are a lot like a track—a track designed by M.C. Escher.
+And during our drive, it was pure WRX weather, which is to say: bad. Cold and rainy, the pavement was so slick that even walking downhill was an invitation to join a Sicilian blooper reel. The WRX TR uses the same 271-hp 2.4-liter flat-four as other WRX models and unsurprisingly produces nearly identical straight-line performance: 60 mph comes up in 5.6 seconds (0.1 second behind the Limited), and the quarter-mile is a dead heat between the two, passing in 13.9 seconds at 101 mph.
+Even without any additional power it was easy to spin all four tires off the line. And whatever the Sicilian word for "runoff area" is, it must translate as "into the ocean." Most corners are bordered by sturdy guardrail, and you're happy to see it. Still, this being a WRX, it was easy to drive faster than everyone else on the road—all-wheel-drive turbocharged rally rockets aren't easily discouraged by rain, midcorner bumps, or the occasional section where the pavement went missing entirely. Find some dry pavement, and the TR will hang on with 0.95 g of skidpad grip, same as the Limited and just behind the 0.96 g we wrung from the tS.
+Given that the local drivers, like their rally counterparts, tend to set up for corners on the wrong side of the road, we were glad for the WRX's quick reflexes. And glad that we didn't personally investigate the crashworthiness of its floorpan and rear suspension, which were strengthened for 2024. All WRXs also get Subaru's EyeSight driver-assist system, which was previously unavailable on manual-transmission cars. In Sicily, the lane-detection system was disabled, on the grounds that there were no lanes to detect.
+WRX fans, ourselves included, are still disappointed that there's no WRX STI, but the TR is a worthwhile step in that direction. And at $42,775, it's surely priced lower than a hypothetical 2024 WRX STI would be—and notably lower than the $46,875 2025 tS. Still, we can't help but gaze back longingly at the not-so-distant year of 2021, when you could walk into your Subaru dealership with $38,170 and drive out with a 305-hp WRX STI.
+The current WRX is a better car in a lot of ways, but it's easy to imagine how much fun it would be with the 2.4-liter pumping out, oh, another 50 horsepower. Then again, as we've found before, there are plenty of firms that are willing to help make a WRX go faster. Maybe TR no longer stands for "Tuner Ready," but that doesn't mean it's not true.
+Specifications
+2024 Subaru WRX TR  
+Vehicle Type: front-engine, all-wheel-drive, 5-passenger, 4-door sedan
+PRICE
+Base/As Tested: $42,775/$42,775
+ENGINE
+turbocharged and intercooled DOHC 16-valve flat-4, aluminum block and heads, direct fuel injection
+Displacement: 146 in3, 2387 cm3
+Power: 271 hp @ 5600 rpm
+Torque: 258 lb-ft @ 2000 rpm
+TRANSMISSION
+6-speed manual
+CHASSIS
+Suspension, F/R: struts/multilink
+Brakes, F/R: 13.4-in vented, cross-drilled disc/12.8-in vented, cross-drilled disc
+Tires: Bridgestone Potenza S007 
+245/35R-19 93Y
+DIMENSIONS  
+Wheelbase: 105.1 in
+Length: 183.8 in
+Width: 71.9 in  
+Height: 57.8 in
+Passenger Volume, F/R: 56/42 ft3 
+Trunk Volume: 13 ft3  
+Curb Weight: 3425 lb
+C/D TEST RESULTS
+60 mph: 5.6 sec
+100 mph: 13.7 sec
+1/4-Mile: 13.9 sec @ 101 mph 
+130 mph: 26.1 sec
+Results above omit 1-ft rollout of 0.3 sec.
+Rolling Start, 5–60 mph: 6.5 sec
+Top Gear, 30–50 mph: 11.1 sec
+Top Gear, 50–70 mph: 7.8 sec
+Top Speed (C/D est): 145 mph 
+Braking, 70–0 mph: 156 ft
+Braking, 100–0 mph: 322 ft
+Roadholding, 300-ft Skidpad: 0.95 g
+C/D FUEL ECONOMY
+Observed: 21 mpg
+EPA FUEL ECONOMY
+Combined/City/Highway: 22/19/26 mpg
+C/D TESTING EXPLAINED
+Ezra Dyer is a Car and Driver senior editor and columnist. He's now based in North Carolina but still remembers how to turn right. He owns a 2009 GEM e4 and once drove 206 mph. Those facts are mutually exclusive.
+Tested: 2025 Polestar 3 Is Quick and a Bit Weird
+Tested: Mercedes-Benz G580 with EQ Technology
+Base 911 Porsche Carrera Tested: It's All You Need
+Ineos Grenadier Test: Spite Defender
+2024 Lamborghini Revuelto Tested: The Mad Scramble
+Tested: 2010 Toyota 4Runner V-6 Plays It Safe
+Tested: 2024 GMC Sierra HD AT4X AEV
+Tested: Subaru's 2025 WRX tS Inches Toward the Top
+Tested: 2025 Bentley Continental GT Takes Off
+Tested: 2025 Nissan Frontier Is an Honest Truck
+2025 Mini Countryman JCW Is Big-Time Fun
+Tested: RWD Volkswagen ID.Buzz Takes the Slow Road
+--------------------------------------------------------------------------------
+
+TITLE: News
+DATE: 
+URL: https://www.caranddriver.com/news/
+CONTENT:
+A Part of Hearst Digital Media
+We may earn a commission for purchases made through our links.
+©2025 Hearst Autos, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------
+
+TITLE: Electric or Bust: Jaguar Spills More Details on I-Type GT EV
+DATE: 
+URL: https://caranddriver.com/news/a64077481/jaguar-electric-future-no-hybrids-gas-engines/
+CONTENT:
+Jaguar boss Rawdon Glover reportedly said the brand's new platform can't support gas or hybrid powertrains, only electric ones.
+Jaguar's rebranding and plans for an electric grand tourer—previewed by last year's Type 00 concept—have been polarizing, but there's no going back for the British automaker. In an interview with Autocar, Jaguar's managing director Rawdon Glover explained why the brand must commit to EVs and divulged a few more details about the upcoming electric GT, which might adopt the name I-type.
+Other automakers have reacted to cooling growth rates for EV demand by postponing or canceling plans for new electric models. For example, earlier today Maserati confirmed it's ditching the MC20 Folgore electric supercar project. But Glover said that "there is no flexibility" for Jaguar since the Jaguar Electric Architecture that will underpin its entire future lineup cannot support hybrid or gas powertrains.
+"We made the decision back in 2021 to have an electric architecture dedicated to us," he explained. "There isn’t the opportunity to put a V-8 into it or something else." Glover expressed confidence in the EV market, however, stating that "a lot of things will change" over the next decade and that "EV will be the right platform for us and the powertrain of choice" for the market. "Advancements in technology and infrastructure are going to make a big difference," he predicted.
+In regards to the car itself, Jaguar's head honcho said he had driven the range-topping version of the I-type on the test track at up to 160 mph. Autocar reported this variant produces 986 horsepower, and Glover described it as the "most fun I've had" while serving atop the brand.
+"It was stunning in terms of its speed, its acceleration, its performance, but also how it delivered the power with a real sense of character," he said. Despite the heady power figures, the I-type will not be designed as a sports car. Instead, Glover sees it as a car that "you can drive confidently at pace for extended periods and still come out feeling great."
+While the GT car will ride on the new dedicated Jaguar Electric Architecture, Glover confirmed it will share its electric motors and battery with other JLR models. "Economically, there’s no way around that," Glover conceded. We wouldn't be surprised if some of the I-type's components are shared with, say, the upcoming Land Rover Range Rover EV.
+The design won't be a significant departure from the Type 00 concept, although the production car will sprout a second pair of doors. "There is strong lineage" between the concept and production models, most notably with the proportions, long hood, front fascia, and the taillight graphic, which consists of a series of horizontal lines that Jaguar is calling the "Strikethrough." The Type 00 concept's cabin has a pair of large screens that could completely fold out of sight, and perhaps something similar could reach production, as Glover said that the car won't be "bombarding the driver with technology."
+While Jaguar had previously said the electric GT would hit the road in late 2026, Autocar now reports the Jaguar will be revealed by the end of this year and start production in the middle of 2026. We had previously expected the starting price for the I-type to be around $200,000, but it could end up being significantly lower, with Glover quoting a price of roughly $128,000. Jaguar's GT will be the first of three new models, with the next two debuts expected to be a large sedan and an SUV.
+Caleb Miller began blogging about cars at 13 years old, and he realized his dream of writing for a car magazine after graduating from Carnegie Mellon University and joining the Car and Driver team. He loves quirky and obscure autos, aiming to one day own something bizarre like a Nissan S-Cargo, and is an avid motorsports fan.
+Maserati Cancels Electric MC20 Folgore Supercar
+2027 Volvo EX60 EV Crossover Shown in First Teaser
+The 2026 Genesis GV70's Price Rises by up to $3235
+Automakers Exempt for One Month from Trump Tariffs
+Alpine Teases A390 Electric SUV Before May Reveal
+Silverado EV ZR2 Race Truck Hypes Up Trail Boss
+VW ID.Every1 Concept Previews a Sub-$22,000 EV
+Audi Q4 e-tron, VW ID.4 Recalled for Rollaway Risk
+2026 Volvo ES90 Is an Attractive Sedan-Adjacent EV
+Escalade IQL Is a Longer Version of Caddy's EV SUV
+We Saw the McLaren W1 at Jay Leno's Garage
+Waze Directions Come to Some Digital Gauges
+--------------------------------------------------------------------------------
+
+TITLE: Auto News
+DATE: 
+URL: https://motortrend.com/auto-news/
+CONTENT:
+Four Wheeler | News
+Monica Gonderman, Justin Banner | Mar 6, 2025
+MotorTrend | News
+Andrew Beckford | Mar 6, 2025
+MotorTrend | Future Cars
+Frank Markus | Mar 5, 2025
+MotorTrend | Buying Advice
+Alisa Priddle | Mar 5, 2025
+MotorTrend | First Look
+Alex Kierstein | Mar 5, 2025
+MotorTrend | First Look
+Justin Westbrook | Mar 5, 2025
+MotorTrend | First Look
+Alisa Priddle | Mar 4, 2025
+MotorTrend | Future Cars
+Justin Westbrook | Mar 4, 2025
+MotorTrend | Design
+Justin Westbrook | Mar 4, 2025
+MotorTrend | News
+Andrew Beckford | Feb 27, 2025
+MotorTrend | News
+Justin Westbrook | Feb 27, 2025
+MotorTrend | Awards
+Alisa Priddle | Feb 27, 2025
+MotorTrend | Awards
+Alisa Priddle | Feb 27, 2025
+MotorTrend | First Look
+Alexander Stoklosa | Feb 27, 2025
+MotorTrend | First Look
+Alexander Stoklosa | Feb 27, 2025
+MotorTrend | News
+Alisa Priddle | Feb 26, 2025
+MotorTrend | First Look
+Kristen Lee | Feb 26, 2025
+MotorTrend | First Look
+Justin Westbrook | Feb 25, 2025
+Ford
+Ford News
+Honda
+Honda News
+Hyundai
+Hyundai News
+Jeep
+Jeep News
+Kia
+Kia News
+Nissan
+Nissan News
+Subaru
+Subaru News
+Tesla
+Tesla News
+Toyota
+Toyota News
+Acura
+Acura News
+Alfa Romeo
+Alfa Romeo News
+Aston Martin
+Aston Martin News
+Audi
+Audi News
+BMW
+BMW News
+Bentley
+Bentley News
+Bollinger
+Bollinger News
+Bugatti
+Bugatti News
+Buick
+Buick News
+Cadillac
+Cadillac News
+Chevrolet
+Chevrolet News
+Chrysler
+Chrysler News
+Dodge
+Dodge News
+FIAT
+FIAT News
+Ferrari
+Ferrari News
+Fisker
+Fisker News
+GMC
+GMC News
+Genesis
+Genesis News
+Infiniti
+Infiniti News
+Jaguar
+Jaguar News
+Karma
+Karma News
+Lamborghini
+Lamborghini News
+Land Rover
+Land Rover News
+Lexus
+Lexus News
+Lincoln
+Lincoln News
+Lotus
+Lotus News
+Lucid
+Lucid News
+MINI
+MINI News
+Maserati
+Maserati News
+Mazda
+Mazda News
+McLaren
+McLaren News
+Mercedes-Benz
+Mercedes-Benz News
+Mitsubishi
+Mitsubishi News
+Polestar
+Polestar News
+Porsche
+Porsche News
+Ram
+Ram News
+Rivian
+Rivian News
+Rolls-Royce
+Rolls-Royce News
+Volkswagen
+Volkswagen News
+Volvo
+Volvo News
+MotorTrend | News
+Angus MacKenzie | Feb 25, 2025
+MotorTrend | Awards
+Eric Tingwall | Feb 25, 2025
+MotorTrend | Awards
+Eric Tingwall | Feb 25, 2025
+MotorTrend | Awards
+Eric Tingwall | Feb 25, 2025
+MotorTrend | Awards
+Kristen Lee | Feb 25, 2025
+MotorTrend | Awards
+Erick Ayapana | Feb 25, 2025
+MotorTrend | Awards
+Jonny Lieberman | Feb 25, 2025
+MotorTrend | Awards
+Alex Leanse | Feb 25, 2025
+MotorTrend | Awards
+Scott Evans | Feb 25, 2025
+SUV
+SUV News
+Luxury SUV
+Luxury SUV News
+Truck
+Truck News
+Sedan
+Sedan News
+Luxury Car
+Luxury Car News
+Electric
+Electric News
+Van
+Van News
+Hatchback
+Hatchback News
+Hybrid
+Hybrid News
+Sports Car
+Sports Car News
+Coupe
+Coupe News
+Convertible
+Convertible News
+MotorTrend | Awards
+Christian Seabaugh | Feb 25, 2025
+MotorTrend | Awards
+Frank Markus | Feb 25, 2025
+MotorTrend | First Look
+Alex Kierstein | Feb 24, 2025
+Four Wheeler | Future Cars
+Monica Gonderman | Feb 21, 2025
+MotorTrend | News
+Angus MacKenzie | Feb 21, 2025
+MotorTrend | News
+Tim Stevens | Feb 20, 2025
+MotorTrend | News
+Justin Westbrook | Feb 20, 2025
+MotorTrend | News
+Alex Kierstein | Feb 20, 2025
+MotorTrend | First Look
+Justin Banner | Feb 19, 2025
+SUV
+Sedan
+Truck
+Coupe
+Van
+Hybrid
+Electric Car
+Hatchback
+Luxury SUV
+Luxury Car
+Sports Car
+Convertible
+MotorTrend | First Look
+Justin Westbrook | Feb 18, 2025
+MotorTrend | News
+Alex Kierstein | Feb 18, 2025
+MotorTrend | News
+Alex Leanse | Feb 17, 2025
+MotorTrend | News
+Justin Banner | Feb 14, 2025
+MotorTrend | News
+Alexander Stoklosa | Feb 14, 2025
+MotorTrend | News
+Angus MacKenzie | Feb 14, 2025
+MotorTrend | News
+Alexander Stoklosa, Justin Banner, Aaron Gold | Feb 13, 2025
+Super Street | First Look
+Justin Westbrook | Feb 13, 2025
+MotorTrend | Buying Advice
+Aaron Gold | Feb 13, 2025
+MotorTrend | News
+Miguel Cortina | Feb 6, 2025
+MotorTrend | First Look
+Justin Westbrook | Feb 5, 2025
+MotorTrend | News
+Alex Kierstein | Feb 5, 2025
+MotorTrend | First Look
+Angus MacKenzie | Feb 4, 2025
+MotorTrend | News
+Alexander Stoklosa | Feb 4, 2025
+MotorTrend | Interviews
+Justin Westbrook | Feb 4, 2025
+MotorTrend | Interviews
+Justin Westbrook | Feb 3, 2025
+MotorTrend | News
+Angus MacKenzie | Feb 3, 2025
+MotorTrend | News
+Justin Banner | Jan 31, 2025
+MotorTrend | First Look
+Justin Banner | Jan 24, 2025
+Super Street | First Look
+Billy Rehbock | Jan 24, 2025
+MotorTrend | First Look
+Alexander Stoklosa | Jan 23, 2025
+MotorTrend | News
+Alex Kierstein | Jan 23, 2025
+MotorTrend | First Look
+Alexander Stoklosa, Andrew Beckford, Alex Kierstein | Jan 23, 2025
+MotorTrend | News
+Alisa Priddle | Jan 22, 2025
+MotorTrend | News
+Frank Markus | Jan 22, 2025
+MotorTrend | News
+Alex Kierstein | Jan 22, 2025
+Super Street | News
+Andrew Beckford | Jan 22, 2025
+MotorTrend | News
+Eric Tingwall | Jan 14, 2025
+MotorTrend | Auto Shows
+Frank Markus | Jan 14, 2025
+MotorTrend | News
+Alisa Priddle | Jan 14, 2025
+MotorTrend | Auto Shows
+Frank Markus | Jan 13, 2025
+MotorTrend | Auto Shows
+Frank Markus | Jan 13, 2025
+MotorTrend | News
+Christian Seabaugh | Jan 13, 2025
+MotorTrend | News
+Andrew Beckford | Jan 10, 2025
+MotorTrend | News
+Alex Kierstein | Jan 10, 2025
+MotorTrend | Auto Shows
+Frank Markus | Jan 10, 2025
+MotorTrend | News
+Miguel Cortina | Jan 7, 2025
+MotorTrend | Auto Shows
+Alisa Priddle | Jan 7, 2025
+MotorTrend | First Look
+Matthew Chudzinski, Justin Westbrook | Jan 6, 2025
+MotorTrend | Auto Shows
+Alisa Priddle | Jan 6, 2025
+MotorTrend | News
+Frank Markus | Jan 6, 2025
+MotorTrend | Future Cars
+Alexander Stoklosa | Jan 6, 2025
+MotorTrend | Auto Shows
+Alisa Priddle | Jan 6, 2025
+MotorTrend | Auto Shows
+Frank Markus | Jan 5, 2025
+MotorTrend | News
+Justin Westbrook, Justin Banner | Jan 3, 2025
+MotorTrend | First Look
+Alexander Stoklosa | Dec 17, 2024
+MotorTrend | First Look
+Justin Banner | Dec 17, 2024
+MotorTrend | News
+MotorTrend Staff | Dec 16, 2024
+MotorTrend | First Look
+Alex Kierstein | Dec 13, 2024
+MotorTrend | News
+Alexander Stoklosa | Dec 13, 2024
+MotorTrend | First Look
+Monica Gonderman | Dec 12, 2024
+MotorTrend | News
+Alexander Stoklosa | Dec 12, 2024
+MotorTrend | Future Cars
+Angus MacKenzie | Dec 12, 2024
+MotorTrend | First Look
+Angus MacKenzie | Dec 11, 2024
+MotorTrend | Awards
+Matthew Chudzinski | Dec 10, 2024
+MotorTrend | Awards
+Jered Korfhage | Dec 10, 2024
+MotorTrend | Awards
+Frank Markus | Dec 10, 2024
+MotorTrend | Awards
+Alexander Stoklosa | Dec 10, 2024
+Load More
+At the MotorTrend News section, you'll read about the hottest rumors and car reveals, follow breaking auto industry news, learn about cutting-edge tech trends, catch up on the biggest auctions, and much more.
+--------------------------------------------------------------------------------
+
+TITLE: Newsletters
+DATE: 
+URL: https://motortrend.com/newsletters/
+CONTENT:
+MotorTrend
+Trust MotorTrend for the best car reviews, news, car rankings, and much more.
+Add
+HOT ROD
+Where it all began, where it's all going. Since 1948, HOT ROD has advocated for customizing, racing, and wrenching.
+Add
+Events
+Stay informed on our epic car events!
+Add
+Sign Up
+By entering your email address, you agree to our Terms of Use and acknowledge the Privacy Policy. MotorTrend and its affiliates may use your email address to provide updates/news, ads, and offers.
+--------------------------------------------------------------------------------
+
+TITLE: 2025 Subaru Forester Sport: What Do Dogs Think?
+DATE: 
+URL: https://motortrend.com/reviews/2025-subaru-forester-sport-yearlong-review-update1/
+CONTENT:
+The Subaru Forester offers "pet-friendly accessories." We asked a dog if they're any good.
+William WalkerWriter, PhotographerMar 06, 2025
+The Subaru Forester offers "pet-friendly accessories." We asked a dog if they're any good.
+William WalkerWriter, PhotographerMar 06, 2025
+See All 20 Photos
+In an effort to better test the bevy of dog-friendly accessories for our new yearlong review 2025 Subaru Forester Sport, we’ve enlisted the help of 11-year-old border collie mutt (and all around good boy) Leica Walker for his thoughts. Here’s what he had to say.—Ed.
+I’ll be honest, I don’t really like cars. I like going places. I love going to the park, the beach, daycare, Petco, new places, places I’ve been before, and the other park. I just wish I didn’t have to ride in the car to get there. Trust me, I’ve ridden in a lot of different cars over the last 11 years. The first one was a Jeep, but that was a stressful day, and I slept most of the way home. The boy brings home different cars all the time, and I can never tell if it’s him or some stranger, so I do my best growl and bark until he gets out. The cushy gray Range Rover was OK, and so was the Jeep they drove me to the dog park near the Grand Canyon in. Most of the time, though, it seems like the boy and girl are having more fun in the front seat than I ever do.
+Recently, the boy brought home a new white 2025 Subaru Forester Sport. Instead of picking something just for himself, I think he finally got the hint and picked a car specifically for me and my annoying little brother, Gitzo. Compared to that huge truck he had for a while, this one is way easier to hop into. What a treat ... yum ... treat ... who has a treat? I’m sitting! I want a treat!
+Sorry, I got distracted.
+In addition to the low hop-up height, this car is smoother and quieter when we’re going places. The back seat is also nice and big (56.7 inches of rear shoulder room, says the boy), so there’s plenty of room for my little brother from another mother to run back and forth from one window to the other, barking at dogs as we drive. I’ve seen other dogs riding in the back of similar cars like a Honda CR-V (55.9 inches of rear shoulder room), the Toyota RAV4 (56.4 inches), Kia Sportage (55.6 inches), and Hyundai Tucson (56.0 inches), and they look a little more cramped.
+I do wish the new car came with air conditioning vents in the ceiling, though. The Forester has small air conditioning vents mounted in the rear of the center console, but the pet hammock that my humans always install blocks most of the air from getting to me. The hammock, which keeps me from falling into the rear footwell, has a mesh area to allow some cool air to pass through to me, but it’s not enough, and it can get kind of warm. Not many cars have the ones on the ceiling, but I always appreciate when they do.
+Like I said, I’m pretty sure this car was made for me. Not only is it smooth, comfy, and spacious to ride in, but it also came with a bunch of extra things specifically for me.
+See All 20 Photos
+I love looking out the window while we drive. Especially when we’re going to the park, the beach, the store, or the other park. I like to put my paws on the windowsill or door so I can poke my head out into the rushing air. I don’t know why humans don’t do this—it is very fun. This new car came with these cool heavy-duty polyester door panel covers that click into the windowsill and are molded to the inside of the door. The people like them because they stay in place and still allow them to use the door handles, unlike the floppy canvas ones they had before. Those always tended to flop over and made it so I might scratch the doors or get drool and fur into every little nook and cranny of the door.
+See All 20 Photos
+It’s not easy being covered in black fur all the time. I get warm easily, and when we go on longer trips, I’m always trying to find the shady side of the back seat. The Subaru came with easy-to-install shades that pop firmly into the rear window frames. I don’t like that I can’t stick my head out the window when they’re on, but at least they keep me cooler, and I can still sniff the air through the cracked window. I heard the boy say they cost $121, which seems like a lot for something so simple, but that’s a drop in the bucket compared to all the stuff they have to buy for me on a regular basis!
+See All 20 Photos
+One of the nicest things that came with the Subaru is a very cool rear seat cover. It was designed specifically for the Subaru's rear seat and still lets my humans use the 60/40 split seats and armrest when I’m not in the car. They even got an extra cover for the front-seat center console ($50), though the pet hammock they always install keeps me from going anywhere near that.
+See All 20 Photos
+This might be my favorite thing that came with the car. Like I mentioned, my brother Gitzo is super annoying in the car. The new Subaru came with a fancy collapsible pet kennel that fits in the rear cargo area. The kennel is made by Thule and folds almost flat when it’s not in use. It also has tie-downs that can lock it into place so Gitzo doesn’t slide around … although that’s what he gets for crowding me in the back seat. In addition to the kennel, they got a heavy-duty collapsible, rubberized ramp that rests on the rear bumper sill, allowing Gitzo to walk right up into the kennel since he’s too little to jump by himself. With the kennel, not only do I get the whole back seat again, but it also keeps Gitzo from running around and barking at other dogs. But hey, he’s young; I know I used to be a little crazy back in the day, too.
+Overall, I really like this new car. Out of the hundreds of cars the boy has brought home, this one seems best set up for me and my annoying brother. While I have convinced the humans I don’t want to go on long trips anymore, I love going to play fetch at the beach. This is probably the most comfortable way I can get there.
+See All 20 Photos
+MotorTrend's2025 Subaru Forester Sport
+SERVICE LIFE
+1 month/2,424 miles
+BASE/AS-TESTED PRICE
+$37,756/$41,295
+OPTIONS
+Option Package 24 ($1,700: Auto Reverse braking, hands-free power lift gate, premium audio), auto-dimming mirror with compass and HomeLink ($422), pet ramp ($300), rear seat cover ($250), collapsible pet kennel ($200), rear seat-back protector ($155), all-weather floor liners ($141), mud flaps ($140), second-row sunshades ($121), cargo sidewall protector ($110)
+EPA CITY/HWY/COMB FUEL ECON; COMB RANGE
+25/32/28 mpg; 465 miles
+AVERAGE FUEL ECON
+24.2 mpg
+ENERGY COST PER MILE
+$0.20
+MAINTENANCE AND WEAR
+None
+DAMAGES
+None
+DAYS OUT OF SERVICE/WITHOUT LOANER
+None
+DELIGHTS
+Extremely practical and comfortable but ...
+ANNOYANCES
+… not enough room to chase a ball.
+RECALLS
+None
+Like many of my coworkers, my love for cars was cemented at a young age, thanks in part to Hot Wheels, car magazines, and every car poster I could afford when the book fair set up shop in my elementary school library. While most kids went straight for Where’s Waldo? and Goosebumps, I was torn between the poster of the Lamborghini Countach and the ’32 Ford hot rod with airbrushed flames on the cowling.
+
+In high school, I worked at Bergstrom's Antique Autos, a historic garage in Port Townsend, Washington. Surrounded by nearly a century of automotive history, I immersed myself in cleaning, sorting, and selling car parts and memorabilia. I also spent countless hours flipping through vintage car magazines and can comfortably say that I've looked through every Motor Trend, Car & Driver, Hot Rod, and Sports Car Graphic up until the early 1980s.
+
+Around the same time, I picked up photography—naturally, with cars as my main subject. Despite my high school photography teacher's advice to branch out, I stuck to my passion and attended every car show I could find. This led me to the Brooks Institute of Photography in Santa Barbara, California, where I earned a bachelor’s degree with a focus on automotive photography.
+
+I began my career at Motor Trend as a photography intern. After freelancing for a few years, I joined the Motor Trend team full-time in late 2010. My passion for cars and photography continues to fuel my work, and I hope it shines through in every shot.
+Read More
+Like many of my coworkers, my love for cars was cemented at a young age, thanks in part to Hot Wheels, car magazines, and every car poster I could afford when the book fair set up shop in my elementary school library. While most kids went straight for Where’s Waldo? and Goosebumps, I was torn between the poster of the Lamborghini Countach and the ’32 Ford hot rod with airbrushed flames on the cowling.
+
+In high school, I worked at Bergstrom's Antique Autos, a historic garage in Port Townsend, Washington. Surrounded by nearly a century of automotive history, I immersed myself in cleaning, sorting, and selling car parts and memorabilia. I also spent countless hours flipping through vintage car magazines and can comfortably say that I've looked through every Motor Trend, Car & Driver, Hot Rod, and Sports Car Graphic up until the early 1980s.
+
+Around the same time, I picked up photography—naturally, with cars as my main subject. Despite my high school photography teacher's advice to branch out, I stuck to my passion and attended every car show I could find. This led me to the Brooks Institute of Photography in Santa Barbara, California, where I earned a bachelor’s degree with a focus on automotive photography.
+
+I began my career at Motor Trend as a photography intern. After freelancing for a few years, I joined the Motor Trend team full-time in late 2010. My passion for cars and photography continues to fuel my work, and I hope it shines through in every shot.
+Read More
+Load More
+--------------------------------------------------------------------------------
+
+TITLE: 2026 Hyundai Ioniq 9 First Drive: This Electric 3-Row SUV Does It All (and Really Well)
+DATE: 
+URL: https://motortrend.com/reviews/2026-hyundai-ioniq-9-first-drive-review/
+CONTENT:
+This roomy new electric crossover SUV is cool and clever, and it’s going to be made in the U.S.
+Angus MacKenzieWriterManufacturerPhotographerMar 05, 2025
+This roomy new electric crossover SUV is cool and clever, and it’s going to be made in the U.S.
+Angus MacKenzieWriterManufacturerPhotographerMar 05, 2025
+See All 43 Photos
+Hyundai calls its new electric-powered Ioniq 9 an SUV. But that may be selling it short. The Ioniq 9 has a spacious, flat-floored six- or seven-passenger interior that offers flexible seating and load-carrying configurations much like a minivan. It has state-of-the-moment styling that delivers both aerodynamic efficiency and a commanding on-road presence. It’s as smooth and quiet to drive as a luxury sedan. Yes, it might be available with all-wheel drive and off-highway drive modes, but it’s more than just an SUV. Set to be built in Hyundai’s new $12 billion Metaplant in Savannah, Georgia, the multitalented Ioniq 9 is perhaps the ideal electric vehicle for the modern suburban family.
+The Ioniq 9 is built on the largest version yet of Hyundai’s acclaimed E-GMP electric vehicle platform. It boasts a wheelbase of 123.1 inches, a meaningful 2.3 inches longer than that of a Chevy Tahoe, which allowed Hyundai to package a 110.3-kWh battery under the floor. This, combined with a claimed drag coefficient of just 0.27 means the entry-level, single-motor Long Range RWD model rolling on the standard 19-inch wheels will likely have an EPA-rated range of 335 miles, Hyundai says. And the E-GMP’s 800-volt electrical architecture means the big battery pack can be taken from a 10 percent state of charge to 80 percent in just 24 minutes on a Level 3 DC fast charger.
+See All 43 Photos
+Three powertrain configurations will be available. The range-busting entry-level Long Range RWD is powered by a single 215-hp, 258-lb-ft electric motor mounted at the rear axle. Claimed 0–60-mph acceleration on the 19-inch wheels in 8.4 seconds. The Long Range AWD gets a 94-hp, 184-lb-ft motor at the front axle, which drops the 0–60 time to 6.2 seconds on the same-size wheels. Finally, the Performance AWD gets 215-hp, 258-lb-ft motors front and rear for a total system output of 430 hp and 516 lb-ft, enough to shove it from 0 to 60 mph in 4.9 seconds on the optional 21-inch wheels, en route to a 124-mph top speed.
+Hyundai did not provide predicted EPA range numbers for the AWD models. But a 510-mile highway run in the Ioniq 9 Performance AWD through South Korea, from the capital Seoul to the seaport of Busan on the country’s southeast coast and back, suggests both should easily do better than 270 miles. We covered 259 miles on the way down, averaging 3.0 miles/kWh and finishing with the battery showing an 18 percent charge. The faster 251-mile run back to Seoul the next day reduced that to 2.7 miles/kWh, and we pulled into our hotel with the battery at 10 percent charge and the trip computer showing we had a remaining range of 28 miles. Our drives occurred in ambient temperatures that hovered around freezing, despite the sunshine.
+If you’ve experienced Hyundai’s Ioniq 5 crossover or the swoopy Ioniq 6 sedan, the Ioniq 9 will feel familiar. The steering is nicely weighted, and the transition from regenerative to mechanical braking is seamless. The Ioniq 9 offers four drive modes—Eco, Normal, Sport, and Individual—and these are augmented by the Terrain TCS system’s Snow, Mud, and Sand modes. And as with the other Ioniq models, paddles behind the steering wheel allow fingertip selection of six different levels of lift-off regeneration, from one-pedal driving to full coasting.
+See All 43 Photos
+What stands out about the Ioniq 9, however, is how quiet it is, thanks to triple door seals, acoustic glass, sound-absorbing tires, and Hyundai’s Active Noise Control-Road (ANC-R) technology. Sharp transversal bumps can occasionally induce mechanical noise from the rear axle and jitters from the third-row seats if they are empty but not folded flat. But otherwise, this big electric Hyundai is almost as hushed as a Genesis G90 limo. Our Performance AWD tester was equipped with the 21-inch wheels and Michelin Primacy Tour 285/45 tires. Ioniq 9s on 19-inch wheels and tires with more generous sidewalls are likely to be even quieter and have a slightly plusher low-speed ride.
+Look past the plethora of pixels on the exterior, and you’ll notice the Ioniq 9’s form doesn’t quite conform to the SUV norm. For example, the A-pillar sweeps up from the cowl and into the roof in a continuous arc that doesn’t reach its peak until after the B-pillar. The roofline then dives down and narrows, meeting tucked-in D-pillars at the rear of the car. The tapered roof design is to help aerodynamics, but the A-pillar is also about the visuals, Hyundai design boss Simon Loasby said. In simple terms, having the sweep of the A-pillar peak after the B-pillar tricks the eye into thinking the Ioniq 9’s hood is longer, making the car look more premium. “It pulls the visual volume rearward,” Loasby said.
+See All 43 Photos
+The front bumper has active cooling vents that open only when needed to help reduce aerodynamic drag. Among the cool aero stuff you can’t see is a fully enclosed underbody that bulges under the front and rear axles to help further reduce drag. Hyundai claims the Ioniq 9 has a drag coefficient of just 0.259 when equipped with the digital rearview cameras that we won’t get in America. That’s a 10 percent improvement over the smaller Ioniq 5, which Hyundai says delivers up to an extra 10.5 miles of range under like-for-like driving conditions. Although the old-school exterior rearview mirrors on American-specification Ioniq 9s increase the drag number to 0.269, that still betters that of the Ioniq 5 and is still mighty impressive for a large vehicle that doesn’t look like a jellybean on wheels.
+Another range-extending technology making its debut on the Ioniq 9 is a highly efficient HVAC system that uses a heat pump to recycle waste heat and has independent front and rear heating and cooling circuits—the rear can be deactivated if there are no passengers aboard to save energy. Hyundai says the new HVAC system has been engineered to efficiently maintain an optimal cabin temperature of 72 degrees Fahrenheit, even in extreme ambient conditions, allowing the Ioniq 9 to travel more than 250 miles with the heater on in temperatures as low as 20 degrees.
+See All 43 Photos
+The sweeping roofline, combined with surface details such as the chiseled elements near the wheel openings and the subtle crease through the rear doors, also helps disguise the Ioniq 9’s overall height. From the outside it looks as if the third row might be cramped in terms of headroom, but the Ioniq 9 accommodates 6-foot-tall adults back there with inches to spare, even when equipped with the panoramic roof. More impressive, even though at 199.2 inches the Ioniq 9 is almost a foot shorter and 6 inches lower overall than the Chevy Tahoe, it can, thanks to its flat floor and adjustable second row, accommodate 6-footers in all three rows.
+The second row in the S, SE, and SEL trim levels is a bench seat that slides fore and aft. The more highly equipped Limited and Calligraphy trims give you power captain’s chairs that are heated and cooled and that slide and tilt forward to allow entry to and egress from the third row at the touch of a button. The Limited and Calligraphy trim also upgrades the third row to a power folding setup. Korean-spec Ioniq 9s are available with second-row captain’s chairs that swivel through 90 degrees to make it easy to load a child into a car seat, and 180 degrees to allow the rear passengers to have face-to-face conversations when the vehicle is parked. Our safety regulations mean we won’t be getting this setup in the U.S., though.
+The view from the driver’s seat is much like that in the Ioniq 5, with a panoramic curved display featuring a 12.3-inch digital instrument panel and 12.3-inch infotainment touchscreen display. The center console between the front seats can slide through 75 inches of fore and aft travel, allowing walkthrough access in the front row. The console is topped with ingeniously hinged armrests that can open from the front or the rear to reveal 0.2 cubic foot of storage space. A further 0.5 cubic foot of storage is available in the console’s lower sliding tray. There are six USB-C connectors, two for each row, that in high-output mode will deliver 100 watts of power, enough to recharge a laptop, and a wireless charger with a rubber pad and cooling fan for your smartphone. A V2L connector in the rear loadspace enables the Ioniq 9 to power lighting at your campsite or, potentially, feed power back into the grid from your driveway.
+See All 43 Photos
+The Ioniq 9 comes equipped with the latest iterations of Hyundai’s abundant ADAS systems, including forward collision avoidance, lane keep assist, blind-spot collision avoidance assist, and rear cross-traffic collision avoidance assist. It comes standard with 10 airbags, and the third-row seat belts have pretensioners. Other driver assistance technologies include an intelligent trailer mode that optimizes range predictions based on trailer weight—the U.S.-market Ioniq 9 has a 5,000-pound towing capacity—and maintains a 50/50 torque balance in the all-wheel-drive powertrains.
+Clever, quiet, and capable, the Hyundai Ioniq 9 underscores the Korean automaker’s impressive product development capability, not least because if you don’t want a three-row family vehicle with an electric powertrain, you can still buy Hyundai’s internal combustion Palisade, which is about to get a styling refresh. The Ioniq 9 will go on sale in the U.S. this coming spring. Pricing has yet to be announced, but the entry-level Long Range RWD model is expected to retail for about $55,000.
+See All 43 Photos
+2026 Hyundai Ioniq 9
+PRICE
+$55,000 (Base model, MT est)
+LAYOUT
+Rear- and dual-motor, RWD and AWD, 5- or 7-pass, 4-door SUV
+ENGINE
+215-hp, 258-lb-ft e-motor (Long Range RWD); 94-hp and 184-lb-ft, 215-hp and 258-lb-ft e-motors (Long Range AWD); 215-hp and 258-lb, 215-hp and 258-lb-ft e-motors (Performance AWD)
+TRANSMISSION
+1-speed automatic
+CURB WEIGHT
+5100lb (MTest)
+WHEELBASE
+123.2 in
+L x W x H
+199.2 x 77.9 x 70.5 in
+0-60 MPH
+8.4 sec (Long Range RWD); 6.2 sec (Long Range AWD); 4.9 sec (Performance AWD) (mfr)
+EPA FUEL ECON, CITY/HWY/COMB
+N/A
+EPA RANGE (COMB)
+N/A
+ON SALE
+Spring 2025
+I can’t remember a time when I wasn’t fascinated by cars. My father was a mechanic, and some of my earliest memories are of handing him wrenches as he worked to turn a succession of down-at-heel secondhand cars into reliable family transportation. Later, when I was about 12, I’d be allowed to back the Valiant station wagon out onto the street and drive it around to the front of the house to wash it. We had the cleanest Valiant in the world. I got my driver’s license exactly three months after my 16th birthday in a Series II Land Rover, ex-Australian Army with no synchro on first or second and about a million miles on the clock. “Pass your test in that,” said Dad, “and you’ll be able to drive anything.” He was right. Nearly four decades later I’ve driven everything from a Bugatti Veyron to a Volvo 18-wheeler, on roads and tracks all over the world. Very few people get the opportunity to parlay their passion into a career. I’m one of those fortunate few. 
+
+I started editing my local car club magazine, partly because no-one else would do it, and partly because I’d sold my rally car to get the deposit for my first house, and wanted to stay involved in the sport. Then one day someone handed me a free local sports paper and said they might want car stuff in it. I rang the editor and to my surprise she said yes. There was no pay, but I did get press passes, which meant I got into the races for free. And meet real automotive journalists in the pressroom. And watch and learn. It’s been a helluva ride ever since. I’ve written about everything from Formula 1 to Sprint Car racing; from new cars and trucks to wild street machines and multi-million dollar classics; from global industry trends to secondhand car dealers. I’ve done automotive TV shows and radio shows, and helped create automotive websites, iMags and mobile apps. I’ve been the editor-in-chief of leading automotive media brands in Australia, Great Britain, and the United States. And I’ve enjoyed every minute of it. 
+
+The longer I’m in this business the more astonished I am these fiendishly complicated devices we call automobiles get made at all, and how accomplished they have become at doing what they’re designed to do. I believe all new cars should be great, and I’m disappointed when they’re not. Over the years I’ve come to realize cars are the result of a complex interaction of people, politics and process, which is why they’re all different. And why they continue to fascinate me.
+Read More
+I can’t remember a time when I wasn’t fascinated by cars. My father was a mechanic, and some of my earliest memories are of handing him wrenches as he worked to turn a succession of down-at-heel secondhand cars into reliable family transportation. Later, when I was about 12, I’d be allowed to back the Valiant station wagon out onto the street and drive it around to the front of the house to wash it. We had the cleanest Valiant in the world. I got my driver’s license exactly three months after my 16th birthday in a Series II Land Rover, ex-Australian Army with no synchro on first or second and about a million miles on the clock. “Pass your test in that,” said Dad, “and you’ll be able to drive anything.” He was right. Nearly four decades later I’ve driven everything from a Bugatti Veyron to a Volvo 18-wheeler, on roads and tracks all over the world. Very few people get the opportunity to parlay their passion into a career. I’m one of those fortunate few. 
+
+I started editing my local car club magazine, partly because no-one else would do it, and partly because I’d sold my rally car to get the deposit for my first house, and wanted to stay involved in the sport. Then one day someone handed me a free local sports paper and said they might want car stuff in it. I rang the editor and to my surprise she said yes. There was no pay, but I did get press passes, which meant I got into the races for free. And meet real automotive journalists in the pressroom. And watch and learn. It’s been a helluva ride ever since. I’ve written about everything from Formula 1 to Sprint Car racing; from new cars and trucks to wild street machines and multi-million dollar classics; from global industry trends to secondhand car dealers. I’ve done automotive TV shows and radio shows, and helped create automotive websites, iMags and mobile apps. I’ve been the editor-in-chief of leading automotive media brands in Australia, Great Britain, and the United States. And I’ve enjoyed every minute of it. 
+
+The longer I’m in this business the more astonished I am these fiendishly complicated devices we call automobiles get made at all, and how accomplished they have become at doing what they’re designed to do. I believe all new cars should be great, and I’m disappointed when they’re not. Over the years I’ve come to realize cars are the result of a complex interaction of people, politics and process, which is why they’re all different. And why they continue to fascinate me.
+Read More
+Load More
+--------------------------------------------------------------------------------
+
+TITLE: Can We Please Get EV Motors Out of the Actual Car?
+DATE: 
+URL: https://motortrend.com/news/orbis-electric-car-ev-hybrid-motor-technology-torque-cost-performance/
+CONTENT:
+Porsche raced hub motors 127 years ago. Now Orbis offers the torque, cost, and unsprung weight that may finally move motors back out to our wheels.
+Frank MarkusWriterManufacturerPhotographerRyan LugoIllustratorMar 05, 2025
+Porsche raced hub motors 127 years ago. Now Orbis offers the torque, cost, and unsprung weight that may finally move motors back out to our wheels.
+Frank MarkusWriterManufacturerPhotographerRyan LugoIllustratorMar 05, 2025
+See All 12 Photos
+Nineteenth-century electric cars were as likely to use inboard motors as they were wheel-hub motors. OG car-guy Ferdinand Porsche raced a wheel-hub-motored EV in Vienna, Austria, in 1897, and Lohnerand others built production versions from 1900 to 1920. Porsche employed a direct drive that eliminated the friction of a geared or chain drive, but his motors also lacked the torque multiplication such drives offer. So the copper and iron required to generate sufficient torque to accelerate his heavy batteries resulted in 320-pound motors.
+That much unsprung weight seriously degrades a vehicle’s ride quality and dynamic handling while adding considerable cost, and motors at the wheels experience way more shock, vibration, and risk of contamination. As a result, few EVs have used wheel-hub motors since. (Lightyear and Lordstown Motors produced a few such vehicles before going bankrupt, each using Elaphe wheel-hub motors.) But recent developments indicate the concept is ripe for a renaissance—like the $30 million investment BMW just made in hub motor supplier DeepDrive.
+Back in 2018, Orbis Wheels demonstrated a hub-mounted motor that solved Porsche’s torque-multiplication problem by driving a pinion gear that spun a ring gear on the wheel. We tested Orbis’ proof-of-concept vehicle, a Honda Civic Type R with two 50-hp/70-lb-ft e-bike motors driving the rear wheels. They shaved 1.7 seconds off the 0–60 time. By also employing a small brake caliper engaging the inside of a larger-diameter, thinner, wheel-mounted rotor, weight savings in the brake system effectively offset the motor’s unsprung weight.
+That setup was hopelessly noisy and fragile, but continuous innovation and development has refined it sufficiently that it’s now attracting OEM and aftermarket production interest.
+See All 12 Photos
+“Pancake” style axial-flux motors sandwich a disclike permanent-magnet rotor between stator discs. Orbis’ version is tunable in two ways: For the strongest, skinniest setup imaginable, spec a single rotor fitted with rare-earth magnets. Applications with a bit more depth but less budget to work with can fit a second rotor and use domestic ferrite magnets. Orbis can fine-tune output by blending rare-earth and ferrite magnets on the rotors. Reducing rare-earth materials lowers cost and sourcing woes, reduces heat generated, improves efficiency, and allows motors to cope better with “field weakening” at higher speeds (stator field strength drops, lowering torque while maintaining constant power). This allows one basic design to deliver between 184 and 738 lb-ft.
+Those figures sound impressive in our motor-shaft output frame of reference, but today’s EV motors power a reduction drive that multiplies the torque—typically by something like 8:1. Orbis achieves torque multiplication at the wheel hub using a simple planetary reduction gear that fits roughly the space otherwise consumed by a halfshaft’s constant-velocity joint and provides multiplication ranging from 2.50:1 to 5.25:1.
+This is not a new idea: In 1884, Missourian Wellington Adams was awarded U.S. patent US300827A for a similar concept applied to an electric train wheel motor. Today such reduction gearing is somewhat common in e-bikes, but no other established player in the EV wheel-motor game uses it. And Orbis’ internal gearing solution already meets OEM noise targets.
+OEMs looking to get an affordable PHEV to market can electrify an undriven axle with two rare-earth-free single-rotor 184-lb-ft motors capable of delivering between 922 and 1,936 lb-ft to the axle, depending on gearing. Switching to rare-earth magnets or adding a second pair of rotors doubles those numbers; doing both doubles them again. These two little wheel-hub motors therefore can simulate a single inboard motor running 8:1 gearing that makes between 115 and 968 lb-ft.
+
+Orbis Electric Output, lb-ft
+Single Rotor
+Dual Rotor
+
+Output at the motor
+184
+369
+369
+738
+Axle
+2.50:1 motor gear
+922
+1,844
+1,844
+3,688
+Torque
+5.25:1 motor gear
+1,936
+3,872
+3,872
+7,744
+With 0 percent rare-earth magnets (e.g. ferrite)
+With 100 percent rare-earth magnets (e.g. neodymium)
+A major global OEM held an event to evaluate hub-motor options for electrifying existing vehicles, inviting DeepDrive, Elaphe, Protean, and Orbis. Before evaluating these motors, it outfitted a combustion sports car from its range with about 50 pounds of dead weight added to each wheel at one axle. Only three participants could correctly identify which of two otherwise identical cars bore the added unsprung mass.
+Still, extensive experience optimizing torque per mass gave Orbis a specific-torque advantage, delivering 49 to 117 percent better wheel-torque/weight than its direct-drive competitors. Orbis’ demo motors added about 25 pounds at each corner, but production-grade ones would only add about 5 pounds, and the car should end up at least 50 to 100 pounds lighter. These savings enable switching from NMC batteries to cheaper, bulkier, heavier iron-phosphate chemistry with little or no range, cost, weight, or packaging penalty.
+The OEM demo was based on a legacy EV model with the inboard motor removed. The test car was battery-power constrained to roughly half the total rated output of Orbis’ two motors, leaving 0–60 performance unchanged, but the demo car gained torque-vectoring capability, and removing the inboard motor freed up useful passenger/cargo volume.
+Because the motor housing serves as the suspension upright and conducts all tire-to-suspension loads, it’s very rigid. Sealing is to IP67 standards (dust tight and water-tight for 30 minutes at 3 feet deep), and Orbis retains OEM wheel bearings. And with proper strain-relief precautions, the high-voltage wiring and glycol coolant plumbing connections aren’t problematic.
+Orbis spent two years certifying a kit to electrify the non-driven axle of a delivery van that takes just three hours to install. On a Ford Transit, using a 14-kWh NMC battery in a market where fuel costs $5 per gallon should return $2,650 in annual fuel savings, easily paying back a $16,000 upfront cost. And the above global OEM’s PHEV fitment shares a platform with a North American market vehicle that’s popular with the tuner set, so there’s aftermarket interest in productionizing an Orbis AWD retrofit kit (perhaps with media drives later this year).
+Did you know refrigerated semi-trailers use their own diesel engines? All-electric alternatives require a very large battery plus Level 2 or Level 3 charging. Using simpler air-cooled versions of Orbis wheel motors to generate power—23 kW during braking, 9 kW continuous while cruising—allows the battery size to be cut in half. This setup is already on sale, helping lower costs to electrify refrigerated trucking fleets.
+I have to wonder: Where would the world be right now had Ferdinand Porsche met Wellington Adams back in the day? Might lightweight, geared electric hub motors have established a powertrain status quo?
+See All 12 Photos
+Orbis’ modular design allows the basic package shown, measuring 16.5 inches in diameter by 4.3 inches wide and adding less than 25 un-sprung pounds, to deliver between 461 and 1,936 lb-ft to each wheel with a single rotor, depending on gearing and rare-earth magnet loading. Adding a second rotor widens the package by 2.4 inches, adds about 10 lb, and ups wheel-torque output to 922–3,872 lb-ft. In this image, the rotor connects to the sun gear, while the drum, brake disc, and wheel connect to the planet carrier. The ring gear remains stationary.
+See All 12 Photos
+Packaging miracle: That’s the gear reduction drive packaged in that “hat” where a CV joint would go, in between existing production suspension links. The service and parking brake caliper swings inboard to remove the disc and outer “bell” motor housing for service. Electrical lines (orange) and coolant hoses (black) are designed to flex through full suspension travel.
+See All 12 Photos
+The lime green portion of the motor remains stationary; the black “spokes” that turn with the wheel also attach to the brake rotor.
+I started critiquing cars at age 5 by bumming rides home from church in other parishioners’ new cars. At 16 I started running parts for an Oldsmobile dealership and got hooked on the car biz. Engineering seemed the best way to make a living in it, so with two mechanical engineering degrees I joined Chrysler to work on the Neon, LH cars, and 2nd-gen minivans. Then a friend mentioned an opening for a technical editor at another car magazine, and I did the car-biz equivalent of running off to join the circus. I loved that job too until the phone rang again with what turned out to be an even better opportunity with Motor Trend. It’s nearly impossible to imagine an even better job, but I still answer the phone…
+Read More
+I started critiquing cars at age 5 by bumming rides home from church in other parishioners’ new cars. At 16 I started running parts for an Oldsmobile dealership and got hooked on the car biz. Engineering seemed the best way to make a living in it, so with two mechanical engineering degrees I joined Chrysler to work on the Neon, LH cars, and 2nd-gen minivans. Then a friend mentioned an opening for a technical editor at another car magazine, and I did the car-biz equivalent of running off to join the circus. I loved that job too until the phone rang again with what turned out to be an even better opportunity with Motor Trend. It’s nearly impossible to imagine an even better job, but I still answer the phone…
+Read More
+Load More
+--------------------------------------------------------------------------------
+
+TITLE: News
+DATE: 
+URL: https://autoweek.com/news/
+CONTENT:
+A Part of Hearst Digital Media
+We may earn commission from links on this page, but we only recommend products we back.
+©2025 Hearst Autos, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------
+
+TITLE: Ready to Feed Your Auto Obsession?
+DATE: 
+URL: https://www.autoweek.com/email/autoweek-newsletter
+CONTENT:
+By signing up, I agree to the Terms of Use (including the dispute resolution procedures) and have reviewed the Privacy Notice.
+--------------------------------------------------------------------------------
+
+TITLE: Mini Decided to Cut Corners with Its Unique Round Screen
+DATE: 
+URL: https://autoweek.com/news/a63933016/2025-mini-round-screen/
+CONTENT:
+Bucking the trend of the ultra-wide, door-to-door-spanning LED screen, Mini opts for a heritage play with round central touchscreen.
+With a nod to the heritage of classic round dials, Mini’s touchscreen is a giant circle, but the design decision presented some challenges.
+Auto designers face a lot of questions when deciding how to incorporate a touchscreen. There are questions like… How big should this rectangular piece of glass be? Where should the rectangle go? Should the rectangle be horizontally oriented, or should it be vertically oriented, like an iPad?
+Mini designers decided to take things in a different direction and make it a giant circle. They also decided to make it the car’s only display screen so, as in a Tesla Model 3 or Y, there is no “gauge cluster” in front of the driver.
+All the driving information is in the top part of this pie-shaped 9.5-inch OLED screen. (Unlike the Teslas, though, Minis do have some hardware controls for basic functions in an area underneath the screen.)
+In general, a big circle in that center position isn’t new for Mini. In fact, it’s sort of a trademark. Since the brand’s rebirth under the aegis of BMW in the early 2000s, Minis have always had some big circular thing there.
+This circle-in-the-center motif is in imitation of Minis from decades earlier, long before screens were imagined. In those days, Minis had round speedometers in the middle of otherwise bare metal dashboards.
+Mini designers had to think outside the box a bit to make this cornerless screen shape work.  In most situations, it’s seamlessly divided into three sections.
+The top part shows driving information like the current speed and how many miles are left before recharging or refilling is needed.
+The bottom section shows a menu of commonly used screen functions like navigation, phone and audio functions so users can poke to switch between them.
+HVAC temperatures are selected by sliding a finger along colored curved lines nestled down along the bottom left and right edges.
+In the center are “widgets” that can show things like the current weather in a little circle.
+Users can flick side to side to choose which widget they want and then poke on it to bring up a bigger immersive view with more detail. In navigation mode, a map takes up most of the circular screen for a nice, easy-to-read view.
+The circle screen is also the playground for Spike, an animated blue and white animal embodying the Mini’s “intelligent virtual assistant.”
+Mini says Spike is an English bulldog but, um, I’m not sure the American Kennel Club would recognize the breed. He’s more like a cute little gummy candy dog who greets you as you get into the car.
+Summonable by name, he’s ready to help with the usual virtual assistant stuff like getting directions back home, finding the best Mongolian barbecue within 12 miles, or adjusting the AC temperature.
+Users who, for whatever reason, just don’t like the dog can have an animated car instead.
+Beyond the screen, the new Minis can use an internal camera plus their external cameras to record driving videos or take selfie photos of occupants. It’s all in the name of trying to turn these now-ubiquitous tech features into something uniquely fun.
+Do you prefer a horizontal screen, vertical tablet orientation, Mini’s kitchen clock, or no screen at all? Please comment below.
+Maserati Cancels the MC20 Folgore EV Supercar
+23 Cars and Trucks Made in Mexico and Canada
+Chevy Silverado EV ZR2 Is 1,100-HP Desert Racer
+VW ID. Every1 Is an Affordable, Small EV
+Uber Launches Waymo Robotaxis in Tesla’s Hometown
+2026 Volvo ES90 Is Sweden’s 670-HP EV Sedan
+2026 Cadillac Escalade IQL Adds Length and Space
+Tariffs May Cut NA Auto Production by a Third
+Gene Winfield, Custom Car King, Has Died
+The Hydrogen Experiment Takes a Strange Turn
+This Autonomous Startup Is Expanding Quickly
+Autonomous Maserati MC20 Sets Land Speed Record
+--------------------------------------------------------------------------------
+
+TITLE: Ready to Feed Your Auto Obsession?
+DATE: 
+URL: https://autoweek.com/newsletter
+CONTENT:
+By signing up, I agree to the Terms of Use (including the dispute resolution procedures) and have reviewed the Privacy Notice.
+--------------------------------------------------------------------------------
+
+TITLE: News
+DATE: 
+URL: https://www.autoweek.com/news/
+CONTENT:
+A Part of Hearst Digital Media
+We may earn commission from links on this page, but we only recommend products we back.
+©2025 Hearst Autos, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------
+

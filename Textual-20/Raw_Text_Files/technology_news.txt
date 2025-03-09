@@ -1,0 +1,291 @@
+TITLE: TechCrunch Newsletters
+DATE: 
+URL: https://techcrunch.com/newsletters/
+CONTENT:
+Get more from TechCrunch. Select your topics of interest, you can unsubscribe at any time.
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+TechCrunch Mobility is your destination for transportation news and insight.
+Get the best of our coverage, delivered to your inbox every Saturday.
+Get the latest event announcements, special discounts and other event offers.
+Learn more about TechCrunch partnerships online and IRL
+Provides VCs, entrepreneurs, corp dev types, and other movers and shakers with the info they need to start their day.
+--------------------------------------------------------------------------------
+
+TITLE: SpaceX Starship spirals out of control in second straight test flight failure
+DATE: 3:59 PM PST · March 6, 2025
+URL: https://techcrunch.com/2025/03/06/spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure/
+CONTENT:
+SpaceX’s Starship spiraled out of control while in space during a test flight Thursday, marking the second launch in a row that the vehicle has run into a fatal problem on its way to orbit.
+The Federal Aviation Administration (FAA) briefly halted flights into major Florida airports and appears to have diverted some others out of caution of “space launch debris.” The agency told TechCrunch that it is requiring SpaceX to perform what’s known as a mishap investigation into the failure.
+The company launched Starship using its Super Heavy booster and things looked normal for the first eight minutes of the flight. The ship successfully separated and headed into space, while the booster came back to the company’s launchpad in Texas, where it was caught for a third time by the launch tower.
+But at around eight minutes and nine seconds into the flight, SpaceX’s broadcast graphics showed Starship lose multiple Raptor engines on the vehicle. On-board footage showed the ship started spiraling end over end over the ocean.
+“We just saw some engines go out, it looks like we are losing attitude control of the ship,” SpaceX communications manager Dan Huot said on the broadcast. “At this point we have lost contact with the ship.”
+Footage posted to social media showed the ship breaking up over the Bahamas and the Dominican Republic a few minutes later. The company posted to X that it “immediately began coordination with safety officials to implement pre-planned contingency responses.”
+The high-profile back-to-back explosions come as SpaceX CEO Elon Musk has spent the last few weeks causing chaos across the U.S. federal government with his Department of Government Efficiency. That has included him deploying employees to the FAA, which oversees SpaceX’s flights.
+SpaceX was hoping to deploy four dummy versions of its Starlink satellites during Thursday’s test flight, a step towards the goal of using Starship for commercial missions. The company has been purposely developing Starship by doing test flights in rapid succession, and learning from the things that go both right and wrong.
+But Thursday’s failure comes just a few weeks after the seventh test flight, which saw Starship break up in spectacular fashion over the islands of Turks & Caicos, which caused the FAA to divert a number of flights in that airspace.
+SpaceX performed a mishap investigation into that failure. The company determined propellant was leaking inside Starship, which caused fires and a communications blackout with the ship before it self-destructed.
+Ahead of this test flight, SpaceX said it made improvements to the lines that send fuel to Starship’s engines and changed the temperature of the propellant. It also added extra vents and “a new purge system” to better hedge against any leaks.
+On some of its previous test flights, SpaceX saw its Starship break up as it attempted to re-enter the Earth’s atmosphere. The company rolled out changes on the seventh test flight that were supposed to help it learn how to better prepare the ship to survive that re-entry.
+“With Flight 8, we’re focused on finding the real-world limits of Starship so we can prepare to eventually return Starship to the launch site and catch it,” the company wrote on X on Thursday.
+This story has been updated with the FAA’s response.
+--------------------------------------------------------------------------------
+
+TITLE: Scale AI is being investigated by the US Department of Labor
+DATE: 1:27 PM PST · March 6, 2025
+URL: https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/
+CONTENT:
+The U.S. Department of Labor (DOL) is investigating the data-labeling startup Scale AI for compliance with the Fair Labor Standards Act, TechCrunch has learned.
+That’s a federal law that regulates unpaid wages, misclassification of employees as contractors, and illegal retaliation against workers.
+The investigation has been active since at least August 2024, a document seen by TechCrunch shows. And it’s ongoing, according to a person directly familiar with the matter.
+The mere existence of an investigation doesn’t mean Scale AI has done anything wrong, of course, and the investigation could find in favor of the company or be dismissed.
+Scale AI is based in San Francisco and was valued last year at $13.8 billion. It relies on an army of workers it categorizes as contractors to do essential AI work, like labeling images for Big Tech and other organizations.
+Scale AI spokesperson Joe Osborne told TechCrunch that the investigation was initiated during the previous presidential administration and that Scale AI felt that its work building, testing, and evaluating AI was misunderstood by regulators then.
+Osborne said that Scale AI has worked extensively with the DOL to explain its business model and that conversations have been productive. More generally, Osborne said that Scale AI brings more “flexible work opportunities in AI” to Americans than any other company and that feedback from its contributors is “overwhelmingly positive.”
+“Hundreds of thousands of people use our platform to showcase their skills and earn extra money,” Osborne said.
+Scale AI is indeed a popular gig work platform. But it has recently faced legal challenges from some ex-workers over its labor practices. Two lawsuits were filed against the startup — one in December 2024 and the other in January 2025 — from former workers alleging they were underpaid and misclassified as contractors instead of employees, denying them access to protections like overtime pay and sick days.
+Scale AI has strongly disputed the lawsuits, saying that it fully complies with the law and works to ensure its pay rates meet or surpass local living wage standards.
+Scale AI’s international labor practices were also the subject of an investigation by the Washington Post in 2023. Workers overseas described to the Post demanding work at low pay as contractors. The company said at the time that pay rates were continually improving.
+The U.S. Department of Labor’s website says it is able to resolve most cases administratively but that employers who violate the law may be subject to fines and potentially imprisonment. The DOL also has the power to force employers to reclassify their workers as employees.
+For example, in February 2024, hotel staffing startup Qwick settled a DOL case by paying $2.1 million and announcing that all California workers performing work using the Qwick app would be classified as employees, Bloomberg Law reported.
+Scale AI also appears to be among the Silicon Valley firms seeking and seeing favor with the new presidential administration. Its CEO and founder Alexandr Wang, for instance, attended Donald Trump’s inauguration in January like many other tech CEOs.
+More telling, Scale AI’s former managing director, Michael Kratsios, is President Trump’s nominee as new director of the White House’s Office of Science and Technology Policy. Kratsios previously served as the U.S.’s chief technology officer during the first Trump administration.
+In this position, Kratsios will advise Trump on science and technology matters. This position has no oversight over the Department of Labor. Kratsios was part of a Senate hearing on February 25 but has not been confirmed yet. Kratsios didn’t respond to a request for comment.
+U.S. Department of Labor spokesperson Michael Petersen told TechCrunch that it cannot confirm or deny the existence of any investigation, per long-standing policy.
+--------------------------------------------------------------------------------
+
+TITLE: A second Intuitive Machines spacecraft just landed on the moon — and probably tipped over
+DATE: 2:17 PM PST · March 6, 2025
+URL: https://techcrunch.com/2025/03/06/a-second-intuitive-machines-spacecraft-just-landed-on-the-moon-and-probably-tipped-over/
+CONTENT:
+Intuitive Machines has landed a second spacecraft on the moon, just one year after accomplishing the feat for the first time ever. Unfortunately, much like that first attempt, it seems the company’s spacecraft may have tipped on its side.
+The lunar lander, called Athena, touched down on the moon’s surface at around 12:30 p.m. ET on Thursday. It’s the second private spacecraft to land on the moon this week, after Firefly Aerospace’s Blue Ghost touched down on March 2.
+Intuitive Machines’ chief technology officer said in a post-landing press conference that Athena is somewhere inside the 50-meter landing zone on Mons Mouton, a flat-topped mountain on the moon’s south pole. But he said the company was still working on determining where, exactly, Athena touched down.
+CEO Steve Altemus added during the conference that the company doesn’t think Athena is at the “correct attitude” — spaceflight speak for “it probably tipped over.”
+Altemus otherwise praised the mission, which he said went much more smoothly than last year’s trip to the moon.
+The rest of Athena’s mission now hangs in the balance. The spacecraft, which took off for the moon aboard a SpaceX Falcon 9 rocket on February 26, is carrying a number of technologies that Intuitive Machines hoped to test out.
+One is a passive laser retroreflector array, which Intuitive Machines hopes to use to communicate with other incoming or orbiting spacecraft. It’s a crucial piece of technology for NASA’s hopes to build a permanent moon base — so much so that the space agency awarded Intuitive Machines a $4.8 billion contract late last year to build out the communications system. (Only $150 million of that is guaranteed.)
+Athena is also carrying an ice mining experiment for NASA, which the agency had hoped to use to determine whether there are enough natural resources on the moon to one day make fuel or breathable oxygen.
+Additional payloads include a rover called MAPP that is supposed to test out cellular equipment from Nokia, and solid-state storage billed as the first ever “lunar data center.”
+--------------------------------------------------------------------------------
+
+TITLE: Google co-founder Larry Page reportedly has a new AI startup
+DATE: Posted:
+2:17 PM PST · March 6, 2025
+URL: https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/
+CONTENT:
+Google co-founder Larry Page is building a new company called Dynatomics that’s focused on applying AI to product manufacturing, according to The Information.
+Page is reportedly working with a small group of engineers on AI that can create “highly optimized” designs for objects and then have a factory build them, per The Information. Chris Anderson, previously the CTO of Page-backed electric airplane startup Kittyhawk, is running the stealth effort, The Information reports.
+Page isn’t the only entrepreneur exploring ways AI could be used to improve manufacturing processes (although he might be one of the richest).
+Orbital Materials is creating an AI platform that can be used to discover materials ranging from batteries to carbon dioxide-capturing cells. PhysicsX provides tools to run simulations for engineers working on project areas like automotive, aerospace, and materials science. Elsewhere, Instrumental is leveraging vision-powered AI to detect factory anomalies.
+--------------------------------------------------------------------------------
+
+TITLE: Hot Pod
+DATE: Feb 26
+URL: https://theverge.com/hot-pod-newsletter
+CONTENT:
+Hot Pod is The Verge’s premier audio industry newsletter, delivering news, analysis, and opinions on how the audio world is changing.
+Serial podcast subject Adnan Syed was freed in 2022 after prosecutors questioned evidence presented during the trial over the 1999 murder of his ex-girlfriend, Hae Min Lee, but then in 2023, it was reinstated.
+On Tuesday night, current Baltimore City State’s Attorney Ivan J. Bates withdrew the motion that freed Syed, saying it contained “false and misleading statements,” disputing assertions about DNA evidence, cell phone evidence, and other aspects. Fox45 News in Baltimore reports that now there’s a hearing scheduled for Wednesday morning on a motion asking to reduce Syed’s sentence to time served.
+[stattorney.org]
+Its “Medcast” bit from over the weekend imagines Amazon’s One Medical trying a new approach to get men in for their annual checkups: structuring medical appointments like a bro-y podcast.
+Sounds like hell to me, but hey, whatever gets men to get their prostates examined.
+Last year, Joseph Inzerillo announced SiriusXM’s new logo (below) and plan to conquer new audiences. Now he’s out, as the company cuts spending on marketing to “high-churn” streaming audiences with plans to cut an additional $200 million in annual costs.
+CEO Jennifer Witz announced it’s “doubling down” on automotive customers, using streaming as a companion in the app and in Teslas.
+Anthropic co-founder Darius Amodei said on Lex Fridman’s podcast yesterday that, “if you believe the straight-line extrapolation,” we’ll have artificial general intelligence “in 2026 or 2027.” He also indicates that’s a big if, listing reasons why (which don’t include that LLMs might not be the way to AGI).
+Makes sense — after all, according to growth trends, I should have been the size of a dinosaur by age 10.
+Here’s an idea for a Sunday afternoon project: A Reddit user managed to generate a podcast using NotebookLM — Google’s generative AI notes software — in which the fake hosts’ cheerful “banter” is about learning they’re not real and are being shut off, apparently using a prompt like the one from this thread.
+You can hear more about NotebookLM in a recent Vergecast interview with one of the Google folks building it.
+[Reddit]
+The iconic Mexican singer Juan Gabriel is the subject of a new eight-episode podcast series from Apple, hosted by journalist Maria Garcia, who also created Anything for Selena.
+The first two My Divo episodes will premiere July 1st for everyone, with weekly releases afterward, but Apple TV Plus subscribers can connect their accounts and listen to all eight on day one.
+Julie McNamara, head of podcast studios, announced her departure on Thursday, according to Bloomberg. The company has seen a steady stream of exits as it pulls back on its podcast business.
+McNamara’s departure follows deep layoffs at Spotify as well as cuts to its programming as it tries to make the podcasting department profitable.
+Spotify just announced a new integration with Substack, which will allow Substack creators to distribute free and paywalled podcast episodes on the platform. For listeners, this means they can link their Substack and Spotify accounts. Last year, Spotify made a similar move with Patreon.
+[Spotify]
+A month after Warner Bros. Discovery shut down Rooster Teeth, the company has sold the outlet’s most valuable asset — its podcast network. The Roost, which is home to podcasts like The H3 Podcast and Rooster Teeth Podcast, has been acquired by influencer talent agency Night. The two organization’s have an established connection — Night’s President, Ezra Cooperstein, served as the President of Rooster Teeth from 2018 to 2019.
+[Variety]
+Deadline reports that the company has been acquired as part of Sony Music’s global podcast division.
+Head of global podcasts Steve Ackerman told Deadline that the deal will enable Sony to “further grow our roster of original and client shows.”
+[Deadline]
+It’s only shutting down for those of us in the US. Globally, the app won’t live in Google’s graveyard until after June 24th, according to a March 18th Google community forum post from company employee Cory Peter.
+If you’re looking for alternatives, you could start with our guide below. Here are Google’s instructions for migrating your subscriptions.
+According to Semafor, Apple is telling podcast publishers that a way to get featured in its browse page carousel is to offer paid subscriptions. The report found that five of the first seven podcasts in that prime spot are part of Apple Podcasts Subscriptions. When podcasts offer subscriptions through Apple Podcasts, Apple takes up to 30 percent of the revenue.
+[www.semafor.com]
+If you’re obsessed with deck-building roguelike Balatro (as we are), you’ll dig this deep interview with the game’s anonymous designer LocalThunk on the podcast Eggplant: The Secret Lives of Games.
+Bringing all the brilliant mechanics together involved making tough trade offs, taking a few risks, and giving into a little luck — which sounds not unlike playing Balatro itself.
+After April 2nd, Google will flip the lights off for its podcasts app sending it to the graveyard. Here are Google’s instructions for switching to YouTube Music or some other podcast app.
+As promised, LeBron and JJ Redick’s new podcast Mind the Game, has launched, The first episode is available on YouTube and wherever you get your podcasts (Apple Podcast, Spotify, Pocket Casts, RSS).
+So far, there’s very little GOAT debate, leaving room for discussion about stuff like an unexpected element of Steph’s impact on the NBA (below) and a different idea for guarding the baseline out-of-bounds play.
+As athletes increasingly cut out the media middleman, basketball stars LeBron James and JJ Redick are launching a podcast, reports The Athletic. But unlike so many other celebrity podcast deals, they are doing so independently and with no official sponsor. To be fair, it doesn’t seem like James or Redick need the money.
+Update 6:20PM ET: Added YouTube embed for Mind the Game.
+It appears Google is further optimizing YouTube Music for podcasts as it prepares to sunset Google Podcasts at the end of this month.
+9to5Google reports spotting a line of code that indicates it is building out a “trim silence feature,” which is standard on Google Podcasts and other podcast listening apps. It automatically skips long stretches of silence that appear in an episode, saving the listener a bit of time.
+[9to5Google]
+The artist pulled his catalog in early 2022 over its then-exclusive Joe Rogan deal, which Young said had resulted in Spotify spreading vaccine misinformation. Now, with the exclusivity deal over, Rogan’s podcast is also available on Apple and Amazon, and Young can’t keep his music off all of them.
+He’s still not happy about Spotify’s lack of high-res audio quality, though.
+[Neil Young Archives]
+Apple released the fourth major update to macOS Sonoma‌ today. It includes the latest crop of new emoji, including a phoenix, a lime, a brown mushroom (to go with its red cap counterpart), and more.
+It also brings searchable, auto-generated transcripts to Apple Podcasts. An update to Messages for Business will let users opt-in to notifications about flights, fraud alerts, order statuses, and more.
+[Apple Support]
+A weekly newsletter by David Pierce designed to tell you everything you need to download, watch, read, listen to, and explore that fits in The Verge’s universe.
+--------------------------------------------------------------------------------
+
+TITLE: Newsletters
+DATE: 
+URL: https://theverge.com/pages/newsletters
+CONTENT:
+Enter your email and select from below to get the best of The Verge straight to your inbox.
+A weekly newsletter by David Pierce designed to tell you everything you need to download, watch, read, listen to, and explore that fits in The Verge’s universe.
+The tech world’s inside conversation, as heard by Alex Heath. Subscribe to The Verge for weekly updates and access to every scoop.
+Sign up for Verge Deals to get deals on products we’ve tested sent to your inbox weekly.
+A weekly window into Microsoft’s era-defining bets on AI, gaming, and the future of computing by Tom Warren. Subscribe to The Verge for weekly updates and access to every scoop.
+--------------------------------------------------------------------------------
+
+TITLE: Sign up for Installer
+DATE: 
+URL: https://theverge.com/pages/installer-newsletter-sign-up
+CONTENT:
+Installer is your guide to all the best, newest, coolest, and Verge-iest stuff in the world. The apps you need to try. The movies, shows, and TikToks you can’t miss. The tips, tricks, and hacks you could only ever get from the creators and inventors themselves.
+Installer runs on The Verge’s website every Sunday morning, but by signing up for the email newsletter, you’ll get every issue a full day early. That means first dibs on exclusive beta invites, plus the chance to always be the person in your group chat who already saw the cool thing everyone’s suddenly talking about.
+It’s all good stuff, all the time. And if you found something before us, hit up installer@theverge.com — we want to know about it too.
+A weekly newsletter by David Pierce designed to tell you everything you need to download, watch, read, listen to, and explore that fits in The Verge’s universe.
+--------------------------------------------------------------------------------
+
+TITLE: Notepad
+DATE: Mar 6
+URL: https://theverge.com/notepad-microsoft-newsletter
+CONTENT:
+Notepad uncovers the secrets and strategy behind Microsoft’s era-defining bets on AI, gaming, and computing. Each week, The Verge’s Tom Warren will publish influential scoops, insightful interviews, and must-read analysis.
+Subscribe to The Verge for exclusive analysis and deep-dive breakdowns of the biggest Microsoft stories of the moment.
+Copilot is transforming into a more personalized AI assistant thanks to Inflection.
+A weekly newsletter by David Pierce designed to tell you everything you need to download, watch, read, listen to, and explore that fits in The Verge’s universe.
+--------------------------------------------------------------------------------
+
+TITLE: Welcome to the new and improved Verge Deals newsletter
+DATE: Sep 20, 2024, 1:00 PM UTC
+URL: https://theverge.com/2024/9/20/24249294/verge-deals-newsletter-subscribe-tech-discounts
+CONTENT:
+New look, same great deals.
+New look, same great deals.
+by  Brandon Widder
+Hey, folks! Every week for the past four years, the team behind Verge Deals has combed the web, looking for the best deals and discounts on the tech we love most at The Verge. We pride ourselves in having tried and tested every product we recommend — well, almost every product — and we continue to share those deals with our readers via our daily deal coverage and Verge Deals newsletter. That being said, everyone could use a little change every now and again.
+No, Verge Deals is not going away — quite the contrary, actually. We’ve given our newsletter a fresh coat of virtual paint to reflect our new(ish) colors and design language, and we plan to continue to deliver a fresh batch of deals to your inbox every Friday afternoon. This time, though, we’re incorporating guest dispatches from the larger Verge staff, more personal gift recommendations, and more subscriber exclusives.
+We’ll still highlight steep price drops on Verge-approved favorites like the latest 13-inch MacBook Pro and Sony’s WH-1000MX5 headphones, as well as other recs culled from our expert reviews and buying guides. We’ll even tell you how you can land limited-edition tech that’s likely to sell out — including Sony’s forthcoming PlayStation 5 Pro.
+If you don’t already subscribe to Verge Deals, you can sign up for free using the box below. We’re going to keep the weekly cadence (for now), but you can expect bimonthly special sends in the run-up to Amazon’s next Prime Day event, Black Friday, and the holiday shopping season.
+Keep an eye on your inbox this afternoon for the first issue of the new and improved Verge Deals, and if you’re curious about The Verge’s full slate of both free and premium newsletters, head over to our newsletter hub to sign up for Command Line, Installer, and Notepad. We’re excited about the changes in the coming months. We hope you are, too.
+Sign up for Verge Deals to get deals on products we’ve tested sent to your inbox weekly.
+A weekly newsletter by David Pierce designed to tell you everything you need to download, watch, read, listen to, and explore that fits in The Verge’s universe.
+--------------------------------------------------------------------------------
+
+TITLE: The Big Story
+DATE: Noah Shachtman
+URL: https://wired.com/category/big-story/
+CONTENT:
+More From WIRED
+Reviews and Guides
+© 2025 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
+--------------------------------------------------------------------------------
+
+TITLE: Get WIRED, delivered straight to you
+DATE: 
+URL: https://www.wired.com/newsletter?sourceCode=navbar
+CONTENT:
+Preview and select the newsletters you’d like to receive. Then, add your email to sign up.
+--------------------------------------------------------------------------------
+
+TITLE: A Sensitive Complex Housing a CIA Facility Was on GSA's List of US Properties for Sale
+DATE: PoliticsMar 6, 2025 4:27 PM
+URL: https://wired.com/story/gsa-sale-cia-facility/
+CONTENT:
+A now-deleted list containing hundreds of US government properties that the General Services Administration (GSA) plans to sell includes most of a sprawling, highly sensitive federal complex in Springfield, Virginia, that also houses a secretive Central Intelligence Agency (CIA) facility, WIRED has learned.
+The GSA’s effort to sell hundreds of US government properties is part of a blunt reshaping of the federal government and its workforce led by Elon Musk’s so-called Department of Government Efficiency (DOGE). Staffed in part by young engineers with no prior experience in government, DOGE’s efforts have resulted in mass reductions in force, the effective shuttering of entirely independent agencies, and a flurry of lawsuits that seek to mitigate DOGE’s razing of the government over the past six weeks.
+The GSA published the list on Tuesday and pulled it down the next day. Before the full list of 443 properties was removed, more than 120 properties had already been quietly scrubbed, including 14 buildings that did not appear to be listed in the Inventory of Owned and Leased Properties, a comprehensive public database of GSA holdings.
+Most of these properties, aside from one identified only as “Building A, 6810,” were labeled as either “Butler” or “Franconia.” According to public records, all of them are part of a large federal facility known as the Parr-Franconia Warehouse Complex, or the GSA Warehouse, which sits, fenced in by chain-link topped with barbed wire, at 6810 Loisdale Road in Springfield.
+Most of the buildings in the complex, which dates back to the early 1950s and is dominated by a 1,005,602-square-foot warehouse long used as a government supply depot, are believed to be used by various government agencies for mundane purposes. Right in the middle of the complex, though, next to the warehouse and catty-corner to what’s listed as Transportation Security Administration headquarters, is a U-shaped building long notorious for its alleged ties to the CIA.
+“Obviously, someone did no research about the long and well-documented history of this property,” says Jeff McKay, chair of the Fairfax County Board of Supervisors and a longtime advocate of redeveloping the complex, which is near a Metro station and sits in a prosperous area. “Normally a site like this wouldn’t be outed, so to speak, but everyone knows it’s here except, apparently, the people who put this list together.”
+The CIA’s use of the building located at 6801 Springfield Center Drive, not all of which can necessarily be observed from street level, was first reported in 2012 by the Washington Business Journal, which in an article around the same time called the CIA’s presence in the area “perhaps the worst-kept secret in Springfield.” The most specific description of its purpose, as the publication noted, can be found in the 2011 spy-agency-focused nonfiction book Fallout: The True Story of the CIA’s Secret War on Nuclear Trafficking, by Catherine Collins and Douglas Frantz, who write, while describing a clandestine operation: “There were two pick-and-lock specialists from the agency’s secret facility in Springfield, Virginia. In a warehouse-like building there, the CIA trains a cadre of technical officers to bug offices, break into houses, and penetrate computer systems.” (Whether it is currently used for these purposes is unknown.)
+According to the Journal’s reporting, Fairfax County leaders like McKay were frustrated, because plans to redevelop the complex ran up against the existence of this facility.
+“The entire challenge with redevelopment has been this entity,” McKay tells WIRED. “This idea that you can sell everything around it and it will be OK runs counter to all the intelligence information we’ve been given over the past couple of decades. Without divulging the specific details of the activities, the government has been very clear about the sensitivity of the property.”
+Even a widely supported plan to relocate FBI headquarters to Springfield foundered due in part to the CIA presence. While the FBI would not have raised security concerns, its relocation to the site would have raised logistical ones. Some government agencies, says McKay, said redevelopment was impossible; others said the secret facility would have to be relocated at the expense of the incoming tenant, making it far more expensive than other potential sites.
+Since Tuesday, GSA sources have been wondering about the possible inclusion of CIA buildings on the list that was posted and then deleted. One source with knowledge of CIA operations, when asked about concerns that the GSA may have listed at least one of the agency’s facilities as being for sale, immediately acknowledged “the Springfield building.” (The building itself, which in past reporting has been described as being held by a private owner, does not appear to have been listed for sale, but due to its sensitivity, selling the buildings around it would raise much the same concerns.)
+“There have been rumors swirling that some of the buildings identified house classified CIA space,” says one source at GSA, adding, “the release of ‘non-core properties’ was especially surprising, as this nebulous language has not been historically used” at the GSA.
+As the Washington Business Journal reported in 2012, a real estate appraisal in the late 1990s listed the CIA as one of the complex’s tenants, indicating its presence there extends back at least three decades. It is nonetheless possible that the GSA does not know, at least officially, that the CIA has operated within the Springfield warehouse complex, a source at the GSA tells WIRED. “In general, we have agencies that perform many critical law enforcement and national security functions,” they say. “We are not always aware of what type of operations are being conducted within tenant spaces. We build out operations to their specs and ensure their spaces are up to code. In my own personal experience, there are spaces in our buildings that not everyone knows about. Not necessarily CIA specifically.”
+“I think it just shows you how completely unorganized this bird-shot of a list is,” says McKay.
+The CIA declined to comment. The GSA did not respond to WIRED’s request for comment. On Wednesday, the GSA issued a statement acknowledging the feedback the agency had received and asserting that inclusion on the originally published list did not mean a building would be up for sale immediately. “We anticipate the list will be republished in the near future after we evaluate this initial input,” the statement read, “and determine how we can make it easier for stakeholders to understand the nuances of the assets listed.”
+“I am not saying it’s CIA or not,” a former intelligence analyst who worked at Langley for more than a decade tells WIRED. “But it’s reckless that this information is out there at all. It speaks to the fact that these guys have no interest in even understanding government operations.”
+Matt Giles contributed reporting.
+--------------------------------------------------------------------------------
+
+TITLE: DOGE Is the Deep State
+DATE: Mar 6, 2025 2:11 PM
+URL: https://wired.com/story/doge-is-the-deep-state/
+CONTENT:
+The “deep state” is a top-tier conservative bogeyman, right up there with DEI and George Soros. But it seems fair to ask: If a bunch of shadowy, unelected figures, many with shared business interests and connections, took over government functions at the highest levels and directly contravened the will of Congress, what might you call that? How about … DOGE?
+After years of alarm over unelected bureaucrats pulling the strings, what better example can you find than this moment the US government is in? DOGE is the thing it claims to fear the most. Elon Musk is the problem he purportedly wants to solve.
+Secretive? The so-called Department of Government Efficiency has never provided an org chart, did not have a publicly documented leader until last week, and refused to reveal the identities of its young staffers in early internal meetings. Check.
+Unelected? Self-evidently so. Check.
+A web of connected interests outside of government? DOGE is inarguably the Elon Musk extended universe. Current and former employees from X, SpaceX, the Boring Company, and Tesla currently control or are deeply embedded in countless government agencies, including the ones they’re ostensibly regulated by. (How many of them? Hard to say exactly, so score another point for “secretive.”) In fairness, some DOGE staffers appear to have no prior affiliation beyond an apparent zeal for dismantling the US government. But otherwise … Check.
+And this is all in service of an agenda set not by Congress but by the world’s richest man. Look no further than DOGE’s deep freeze of the legally mandated Consumer Financial Protection Bureau, the unilateral canceling of around 10,000 humanitarian aid contracts apportioned by Congress, or the firing of thousands of probationary workers and others—without apparent cause—for evidence that it is executing an agenda outside of any legislative framework. Check, check, check.
+It’s true that “deep state” is a tricky term to pin down, largely because it’s so often used as shorthand for “things Glenn Beck doesn’t like.” Let’s look, then, at how Elon Musk defines it.
+“If there's not a good feedback loop from the people to the government, and if you have rule of the bureaucrat, if the bureaucracy is in charge, then what meaning does democracy actually have,” Musk said at a recent Oval Office visit. And then, moments later: “We have this unelected, fourth unconstitutional branch of government, which is the bureaucracy, which has, in a lot of ways, currently more power than any elected representative. This is … This is not something that people want, and it does not match the will of the people.”
+Sounds bad. Also sounds like DOGE. This is the same unelected Elon Musk that met yesterday with GOP senators and representatives desperate for a say in where the DOGE wrecking ball heads next. Musk reportedly claimed that agency heads were the ones doing the firing, not DOGE. But who do you think installed most of those leaders? Who told them to cut until they hit bone? It was a bald demonstration of power. Musk has it. Elected representatives do not. DOGE is the bureaucracy it came to destroy.
+(Small point of order: Musk is both head of DOGE and not head of DOGE, depending on who you ask and what’s legally more convenient at the time. They’re really running up the scoreboard on the secrecy thing.)
+Or maybe we should look to a neutral party. FBI director Kash Patel is not himself a member of DOGE, and he literally published a whole book about the deep state just two years ago. “It is worthwhile to be very clear who we are talking about,” Patel writes in Government Gangsters, and yes that is the actual name of the current FBI director’s recent book, “because the Deep State likes to operate in the shadows using arcane bureaucracy, opaque legal minutia, hidden levers of power, and insider political gamesmanship largely unfamiliar to the American public.”
+Concerning. Also? DOGE. The agency has subsumed the most arcane corners of US bureaucracy to launch its incursions. To justify its firing spree it has attempted to draw legal distinctions so opaque, so minute, that it was recently reprimanded in court. It used an exemption intended to help onboard disabled workers faster to install SpaceX employees at the Federal Aviation Administration before anyone knew it was happening.
+The only thing missing is gamesmanship, because DOGE is the kind of guy that plays Jenga with a hammer.
+Or if you need a more precise definition, let history be a guide. The term “deep state” has its roots not in drive-time talk radio but in 1970s Turkey, where a bunch of unelected officials seized power within political structures.
+“It is a phrase that generally refers to a kind of shadow or parallel system of government in which unofficial or publicly unacknowledged individuals play important roles in defining and implementing state policy,” writes historian Ryan Gingeras in Last Rites for a ‘Pure Bandit’: Clandestine Service, Historiography, and the Origins of the Turkish ‘Deep State’. In Turkey, those shadows were cast primarily by military figures, not juvenile technocrats, but you get the point.
+There are signs, at least, that people are beginning to see DOGE for what it is. Republicans have faced loud protests in town halls, even in deep red districts. It’s gotten so bad that GOP House members have been told to stop meeting with constituents in person. The Supreme Court has handed the agency its first major defeat at that level of the judiciary. Improperly fired workers are starting to return to their jobs.
+“Deep state is limited,” writes Patel. “It depends on a lot of people either having no idea what’s going on or being led to believe that what the Deep State is doing is actually good. When those people stop listening, the Deep State starts to lose control.”
+The impacts of DOGE’s cuts are increasingly impossible to ignore, or to confuse with any greater good. Whether DOGE loses control will depend, though, on if anyone in power can see that it’s the very thing they’ve warned against. Or if they can bring themselves to care.
+What would actual DOGE transparency look like?
+Leave a comment on the site or send your thoughts to mail@wired.com.
+Want more? Subscribe now for unlimited access to WIRED.
+🔗 How Elon Musk Muscled His Way Into the FAA: Great details here about DOGE’s increasing influence at the FAA, an agency rife with potential conflicts of interest for Elon Musk. (Bloomberg)
+🔗 Draft of Trump Executive Order Aims to Eliminate Education Department: Can a president shut down a cabinet-level department on a whim? Most legal experts say otherwise, but it appears we’ll find out for sure soon. (The Wall Street Journal)
+🔗 Fact-checking Trump’s address to Congress: Are facts still a thing? Are we still doing facts? Let’s assume yes, at least a little while longer. (CNN)
+Check out this week’s special episode of our Uncanny Valley podcast: DOGE’s $1 Federal Spending Limit Is Straight Out of the Twitter Playbook. WIRED’s director of business and industry Zoë Schiffer joined global editorial director Katie Drummond to dig into all things DOGE. Listen now.
+Thanks again for subscribing. You can get in touch with Makena via email, Instagram, X, Bluesky, and Signal at makenakelly.32.
+--------------------------------------------------------------------------------
+
+TITLE: Pentagon Cuts Threaten Programs That Secure Loose Nukes and Weapons of Mass Destruction
+DATE: Mar 6, 2025 2:22 PM
+URL: https://wired.com/story/pentagon-cuts-nukes-chemical-weapons-wmd/
+CONTENT:
+US agencies responsible for preventing the global proliferation of weapons of mass destruction and building security capacity around the world are facing deep cuts, perhaps total abolition, as the Trump administration continues its assault on any and all spending going overseas.
+According to a draft working paper provided to WIRED, the Department of Defense is asking all its agencies and services that conduct “security cooperation” programs to consider the impact if the Pentagon were to “realign” its funding. The authors of the paper warn that the cuts could hobble the fight against organized crime in South America, impair the battle against the Islamic State, increase the likelihood of a rogue state producing and using chemical weapons, and defund pandemic surveillance measures.
+The working paper is in response to a request for information from Secretary of Defense Pete Hegseth, asking agencies to assess the consequences of four levels of staff reduction—25 percent, 50 percent, and 75 percent cuts, or outright abolition.
+This cost-cutting exercise is being conducted in response to a January 20 executive order from President Donald Trump, mandating that departments and agencies review all foreign aid programs. But the DOD review is going well beyond foreign aid. According to the working paper, the Defense Department looks set to make cuts to all humanitarian assistance, security cooperation, and cooperative threat-reduction efforts. The DOD has made clear that all spending ought to align with the secretary’s three priorities: deterring China, increasing border security, and pushing allies to shoulder more of the burden. It is not clear what role, if any, Elon Musk’s so-called Department of Government Efficiency (DOGE) is playing in these workforce reduction decisions.
+In response to the Pentagon’s request for information, the agencies contemplated lower bounds of cuts of 20, 40, and 60 percent—a counter-offer, the Pentagon source says, because officials in these agencies see a 60 percent cut as a “red line” that would still severely hurt global and domestic security.
+A 20 percent reduction in funding, the memos say, would reduce some mine-clearance efforts in former war zones, significantly hurt programs to surveil and prevent infectious disease outbreaks in Africa, and worsen biosafety and biosecurity programs at biological laboratories worldwide, among other losses.
+A 40 percent reduction would limit funding for counter-extremism programs in Africa and the Middle East, close all mine-clearance operations, shut down programs to intercept and prevent the development of weapons of mass destruction, and completely shut down biological surveillance programs.
+A 60 percent cut would be significantly more severe, according to the memo. It would fundamentally eliminate America’s role in preventing the spread of chemical, biological, and nuclear weapons, the documents warn, and increase the likelihood of a lab accident or theft of potentially dangerous biological material.
+The secretary of defense also asked the agencies to game out the consequences of fully shutting down some of their operations—a move, the agencies claim, that would defund border security measures and anti-drug-trafficking efforts.
+One of the agencies targeted by this spending review is the Defense Threat Reduction Agency (DTRA), which leads counter-proliferation efforts on chemical, biological, and nuclear threats, both on its own and with US allies. In recent years, DTRA took the lead on destroying chemical weapons in Syria, helped secure 10 metric tons of highly enriched uranium in Kazakhstan, and worked with the Ukrainian government to upgrade security at its infectious disease laboratories.
+A Pentagon source tells WIRED that if cuts on the higher end of the proposed spectrum are made, DTRA will effectively end. “Anything more than a 60 percent cut cripples the program,” they say. The source, who requested anonymity because they are not authorized to discuss the spending review, claims a total elimination of these programs is also on the table.
+"All reductions increase risk to US due to pathogen spread and easier adversary pathways to develop WMD,” the memos read.
+The secretary of defense declined to comment for this story, with a spokesperson writing, “We will not comment on internal deliberations.”
+The cost-savings of these cuts would be relatively marginal compared to the Pentagon’s $850 billion budget. The Department of Defense only spends about $19 billion on humanitarian assistance, security cooperation, and cooperative threat-reduction programs, including DTRA—of that, the proposed cuts would eliminate between $5 billion and $15 billion. Because many of these programs are funded via congressional earmark, it’s not clear the Pentagon has the authority to cut and reappropriate their funding.
+Trump and Hegseth have previewed defense cuts, promising to reduce spending by $50 billion—about 8 percent of the Pentagon’s nonlethal budget, Hegseth has said.
+These cuts could also have a domino effect on other programs that are run in conjunction with the State Department and other agencies. One long-standing project facing cuts under this review is the State Partnership Program, which sends National Guard members to liaise and train with friendly militaries abroad. This program has historically been particularly popular with Republican members of Congress. But it, like dozens of other Pentagon activities, faces steep cuts or outright abolition.
+A source with knowledge of the funding review says that a decision has yet to be made about the exact level of these cuts, and that meetings are ongoing to decide which agencies or programs will be hit and how hard. A final decision is due in mid-April, at the end of the 90-day window set out in the January 20 executive order. Sources inside the Pentagon who work on security cooperation say they are fearful that the cuts will be severe.
+The people who work to stop the spread of dangerous material insist that these programs are not foreign assistance at all—they are all about domestic and global security.
+DTRA, for example, currently works with 35 nations, helping to upgrade their biosafety and biosecurity practices while also helping them destroy dangerous biological samples. Much of this work takes place in veterinary clinics, which often treat and collect samples from sick livestock, making them the front line of infectious disease outbreaks. This work, in recent years, has included many of the African nations hit by Ebola.
+Partnering with local health authorities not only helps prevent the next epidemic, but it also makes sure that these virological samples are kept secure—“so it's not accidentally going to leak out of these public health facilities or not be stolen by a terrorist,” Robert Pope, director of Cooperative Threat Reduction at DTRA, explained in a 2022 interview.
+DTRA’s staff operate as an “early warning system,” a congressional staffer tells WIRED, ahead of any deployment of the US military, they say. While it may not be a traditional kind of military power, they add, it should still fit into this administration’s priorities. “It secures our border from pathogens.”
+An independent analysis conducted for the Pentagon in 2022 found that these threat reduction programs are “well-positioned to respond quickly to emerging [weapons of mass destruction] threats; its authorities are unique and fill an existing gap.”
+Programs like DTRA ought to be expanded, not cut, says Gigi Gronvall, a professor at the Johns Hopkins Center for Health Security. These are primarily national security programs, she says, designed to “give ourselves the eyes and ears around the world to put out those fires, or prevent them from happening in the first place.”
+If you don’t put out the fire—whether it’s a novel infectious disease or a chemical weapons program in a rogue state—it will keep growing, Gronvall adds. “We have areas of the world that don’t have fire departments,” she says. “By helping them help themselves, we are helping them step up.”
+The Pentagon’s threat reduction efforts, and the DTRA itself, stem from the work of former US senators Sam Nunn, a Democrat, and Richard Lugar, a Republican, to secure weapons of mass destruction after the fall of the Soviet Union. America, through their work, destroyed thousands of ballistic missiles and nuclear warheads, disposed of tens of thousands of pounds of chemical weapons, and dismantled Soviet bioweapon laboratories. In 1998, DTRA was formally created and given a more expensive mandate to both track and destroy chemical and biological threats while also helping other nations do the same.
+For its work, DTRA has been targeted by Russian disinformation efforts, with Moscow accusing America of producing biological weapons in these DTRA-funded labs. Following the full-scale Russian invasion of Ukraine in 2022, conspiracy theorists in America picked up that thread, suggesting the invasion was cover to destroy these bioweapons labs.
+Fears about DTRA’s work have since been raised by Health and Human Services secretary Robert F. Kennedy Jr., director of national intelligence Tulsi Gabbard, and Russia itself. Republican senator Rand Paul has repeatedly issued subpoenas to the DTRA looking for evidence that it has been engaged in dangerous virological research and suggesting that it may have had a hand in creating Covid-19.
+“When Russia was attacking that program, it was doing so because it wanted to erode our national security,” Gronvall says. Russia may not believe these lies, she adds, but “they have been enormously successful in getting people with power to believe these things.”
+Last year, the United States accused Russia of using prohibited chemical weapons in its war on Ukraine. According to this working paper, the proposed cuts to the DTRA could eliminate America’s ability to investigate and attribute such chemical weapons attacks in Eastern Europe.
+Investigating and attributing these attacks is a form of deterrence, Gronvall says. Without this capability, she adds, “it means you’re going to see a lot more chemical weapons used.”
+The United States believes that Russia, North Korea, and other rogue states have active biological weapons programs. Despite that, no state has actually deployed a biological weapon since the adoption of the Biological Weapons Convention. Gronvall is worried that dismantling the DTRA could weaken that prohibition. “I would worry that that would be something we would see,” she says.
+The working paper warns that reducing this funding could surrender ground to Russia and China, which may try and fill the void left by the US. That could see Moscow and Beijing move in to partner with foreign militaries, cooperate with these biological facilities, and even recruit new scientists.
+“It’s going to be a fire sale on expertise,” Gronvall says, “and that is helping China, 100 percent.”
+--------------------------------------------------------------------------------
+

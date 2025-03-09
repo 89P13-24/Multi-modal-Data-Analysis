@@ -1,0 +1,1221 @@
+TITLE: Eye Problems Cloud NASA’s Vision of Mars
+DATE: March 6, 20257 min read
+URL: https://scientificamerican.com/article/nasas-mars-plans-complicated-by-eye-problems-during-long-spaceflights/
+CONTENT:
+March 6, 2025
+7 min read
+Eye Problems Cloud NASA’s Vision of Mars
+A mysterious neuro-ocular syndrome remains an unknown risk for long-term spaceflight
+By Neil Savage
+Russian cosmonaut Alexander Skvortsov holds a  camera during an extravehicular activity on the International Space Station (ISS) on August 18, 2014.
+NASA/Flickr (CC BY-NC 2.0)
+This article is part of Nature Outlook: Vision, an editorially independent supplement produced with financial support from Astellas Pharma. About this content.
+In the next 15 years, NASA hopes to launch a mission to Mars. But the long journey poses a challenge — not least from a mysterious ailment that alters astronauts’ eyesight. Spending long periods in the microgravity of space can lead to changes in the eye, including swelling in the region where the optic nerve extends to the brain; flattening of the rear of the normally round organ; wrinkles that emerge at the back of the retina; and shifts in the refractive index that change how the eye focuses. Together, these changes have been dubbed spaceflight-associated neuro-ocular syndrome (SANS). Despite more than a decade of study, researchers still don’t know exactly what causes it, who’s at highest risk or how to prevent or treat it.
+Tyson Brunstetter, an aerospace optometrist at the Johnson Space Center in Houston, Texas, was serving in the US Navy when he read the first report on the syndrome, in 2011. He found the condition fascinating, but did not consider it a major obstacle to spaceflight. “I said, ‘It’s NASA. They’ll figure it out in six months’. And yet here I am, part of the team trying to figure out what exactly is going on.”
+If you're enjoying this article, consider supporting our award-winning journalism by subscribing. By purchasing a subscription you are helping to ensure the future of impactful stories about the discoveries and ideas shaping our world today.
+NASA considers SANS one of its ‘red risks’ for a Mars mission, owing to its potential severity and the number of astronauts that could be exposed. Other high-priority risks include radiation exposure, changes in mental health and difficulty maintaining adequate nutrition.
+Although some changes have been detected in astronauts’ eyes after as few as ten days in space, physicians think that the risk increases as more time is spent in microgravity. So far, SANS has been an issue mostly for people doing six-month stints on the International Space Station (ISS). A much longer trip to Mars — roughly nine months in each direction — could cause damage that interferes with astronauts’ ability to see what they’re doing, perhaps permanently.
+Not everyone who goes into space develops SANS. Around two-thirds of astronauts on long missions to the ISS experience changes in visual acuity, particularly for close-up vision. Only about one-fifth of such cases are considered serious enough to earn the designation of SANS. Changes that can be detected during an examination, such as an enlarged blind spot and thickened retina owing to swelling where the optic nerve joins the retina (known as optic-disc oedema), are unlikely to be noticed by the affected person.
+Most of the changes associated with the syndrome seem to resolve after returning to Earth. Even the most severe cases of swelling resolve after about 12 months back in normal gravity, Brunstetter says. And although eyeball flattening and refractive-index shifts might be permanent, these alterations can be offset with prescription lenses. In fact, NASA supplies astronauts with what it calls space-anticipation glasses of varying powers in case their vision shifts during a mission. “No one has had permanent vision loss due to SANS,” Brunstetter says.
+On the ISS, European Space Agency (ESA) astronaut Matthias Maurer uses an ophthalmic lens attached to a tablet to send pictures of his retina. These images were taken as part of the ESA’s and German Aerospace Center’s Retinal Diagnostics project.
+NASA/ESA–M. Maurer
+The concern, however, is that longer missions might exacerbate problems. If optic-disc oedema continues long enough, the enlarged blind spot might start to interfere with vision, Brunstetter says. The wrinkles, known as choroidal folds, could also become more of an issue. These tend to stick around after astronauts come home. So far, Brunstetter says, the folds haven’t affected anyone’s vision, perhaps because they haven’t occurred in a part of the eye where they could cause problems. But longer stays in space can increase the number of folds, and therefore potentially distort vision in the same way as crumpled camera film warps the resulting photograph. “The problem with that is you can’t just fix those by putting on a different pair of glasses,” he says.
+The main suspect for the cause of SANS is the fluid shift that occurs in microgravity. On Earth, gravity pulls blood and cerebrospinal fluid towards the ground, while the heart and other muscles push them throughout the body. Without gravity, more fluid than usual collects in the head.
+When they first described the syndrome in 2011, NASA scientists thought that it might have been caused by increased pressure in the head from excess fluid. But this wouldn’t explain why the problems become clinically significant only in some astronauts. “If this was as simple as you go into flight and fluid goes in your head, that would happen to everybody,” says Scott Smith, a nutritionist at the Johnson Space Center who studies SANS. It also seems that the pressure in the head does not get high enough to bring about these changes — at least, not by itself.
+“If we’re wrong, all you’ve done is give people vitamins and made their pee yellow.” —Scott Smith, nutritionist
+Brunstetter thinks it’s possible that a mild increase in pressure could cause problems if sustained over a long enough time. The fluid shift does cause blood vessels in the head to swell, which might affect the blood supply to the back of the eye, he says. Another possibility is that it changes metabolic activity in the cells, such as by interfering with the exchange of sodium, suggests Joshua Ong, an ophthalmologist at the University of Michigan in Ann Arbor who specializes in space medicine. Ann Tsung, a NASA flight surgeon, is currently seeking approval to test whether GLP-1 agonists — drugs that have gained widespread attention under names such as Ozempic and Mounjaro as treatments for diabetes and obesity — can treat SANS by lowering intracranial pressure.
+Another potential culprit is carbon dioxide, high levels of which increase blood flow in the brain and could further increase pressure. The level of CO2 is generally higher in the ISS than back on Earth, and it could be higher still in sleeping compartments. Studies on Earth in which volunteers lie with their head tilted down for a month or more to simulate microgravity have indicated that high CO2 levels increase signs of SANS. However, the rate of SANS has not dropped as engineers have got better at scrubbing CO2 from the ISS’s air.
+Smith suspects that SANS involves an interplay of CO2, vitamin deficiency and genetics. He and his team found that astronauts who develop SANS have higher levels of an amino acid known as homocysteine than do those who avoid the syndrome. High levels of this amino acid are known to increase the risk of coronary artery disease and blood clots, and can result from a diet deficient in folic acid or vitamin B12. Homocysteine is also involved in a function of living cells known as the one-carbon pathway, and further study revealed differences in genes related to this metabolic function between the two groups of astronauts. Four ‘risk alleles’ were identified; astronauts with at least three of them saw the thickness of their retinas change more than did those with only one or two alleles. “What we think is happening is that their genetics are causing them to have higher requirements for these vitamins, making them what we would call functionally deficient,” Smith says.
+Further evidence for this idea came courtesy of some old notes. Smith and his team discovered that several years ago, an astronaut who had developed some of the most substantial signs of SANS ever reported had been treated by NASA flight surgeons with vitamins — an idea they got from Smith’s team’s work. The astronaut’s retinal thickening decreased after treatment. When Smith later examined her genes, he found she had all four risk alleles.
+That isn’t conclusive evidence, Smith says. “It’s a case study. You can’t prove anything. But it sure is intriguing.” Coincidentally, CO2 levels in the station also decreased during the astronaut’s time there. These events have, however, led to a prospective study in which 16 astronauts over several missions will be given vitamins to see whether it affects their likelihood of developing SANS. “If we’re wrong, all you’ve done is give people vitamins and made their pee yellow,” Smith says. But if they’re right, he says, they will have gone some way to mitigating one of NASA’s red risks.
+Measures to prevent SANS might take a more mechanical form, with researchers trying to counteract the effects of microgravity on the body. The Russian space agency has a device aboard the ISS called a chibis suit, which surrounds the lower body and uses a vacuum to draw some fluid back down to the legs. But the equipment is bulky, and the time people spend inside has to be tailored to their physiology. Astronauts might also wear venoconstrictive thigh cuffs, which act like loose tourniquets, preventing blood in the veins from flowing out of the legs too quickly without interfering with arterial blood flow. All of these countermeasures require further testing.
+Microgravity can cause other problems for astronauts besides SANS, including a loss of muscle mass and bone density. A more comprehensive approach that could protect against these issues as well might be to provide artificial gravity, says Ethan Waisberg, a physician at the University of Cambridge, UK. The concept is familiar in science fiction, notably in the 1968 film 2001: A Space Odyssey, in which astronauts on a ship bound for Jupiter jog inside a centrifuge created by their spinning living quarters to keep their muscles in shape. “By simulating Earth’s gravitational force,” Waisberg says, “we can restore a normal fluid distribution in our astronauts.”
+Building a centrifuge into a spaceship, or spinning the entire craft, presents engineering challenges. The smaller the circumference of the centrifuge, the faster it would have to spin to mimic Earth’s gravity, and rapid spinning could cause vertigo in the astronauts. However, a large centrifuge would add to the weight, cost and complexity of the spaceship. Waisberg says that a smaller, less complicated alternative might be a human-powered centrifuge, in which an astronaut peddles a bicycle around a wheel, like a hamster exercising in a cage.
+Despite the difficulties in finding the cause and the treatment for SANS, Smith says that researchers will keep hunting for answers. “There’s a lot of people out there with ideas,” he says. “If this was simple, somebody would have figured it out by now.”
+Neil Savage is a science and technology journalist based in Lowell, Mass.
+--------------------------------------------------------------------------------
+
+TITLE: NASA’s Voyager Probes Lose One Instrument Each as Power Wanes
+DATE: March 6, 20253 min read
+URL: https://scientificamerican.com/article/nasas-voyager-probes-lose-one-instrument-each-as-power-wanes/
+CONTENT:
+March 6, 2025
+3 min read
+NASA’s Voyager Probes Lose One Instrument Each as Power Wanes
+NASA’s twin Voyager probes, which launched in 1977, are the longest-running missions to send data home. But as their power supplies wane, scientists are saying goodbye to one instrument on each spacecraft
+By Meghan Bartels edited by Clara Moskowitz
+NASA/JPL-Caltech
+NASA’s most distant observers are losing steam as the toll of spending nearly five decades in space adds up. Scientists have announced that they will turn off one additional instrument on each spacecraft to conserve energy.
+The twin Voyager probes launched in 1977 to take advantage of a once-in-176-year alignment of the outer planets. That task wrapped up within a little more than a decade, but still the spacecraft trek outward: currently, Voyager 2 is more than 13 billion miles from Earth, and Voyager 1 is more than 15.5 billion miles away. At this point, the Voyagers are tasked with studying the interstellar medium found beyond the influence of the sun.
+Scientists will have observations from one less instrument on each spacecraft moving forward, however, NASA officials announced on March 5. Mission managers turned off Voyager 1’s cosmic ray subsystem experiment on February 25, the agency wrote, and will do the same for Voyager 2’s low-energy charged particle instrument on March 24. These instruments observe fast-moving charged particles called cosmic rays, as well as ions and electrons, in interstellar space. Both deactivations are purposeful energy-saving measures.
+If you're enjoying this article, consider supporting our award-winning journalism by subscribing. By purchasing a subscription you are helping to ensure the future of impactful stories about the discoveries and ideas shaping our world today.
+“The Voyagers have been deep space rock stars since launch, and we want to keep it that way as long as possible,” said Suzanne Dodd, Voyager project manager at NASA’s Jet Propulsion Laboratory (JPL), in the March 5 statement. “But electrical power is running low. If we don’t turn off an instrument on each Voyager now, they would probably have only a few more months of power before we would need to declare end of mission.”
+NASA officials have also decided that, in 2026, they will turn off Voyager 1’s low-energy charged particle instrument and Voyager 2’s cosmic ray subsystem, according to the statement. Their goal is to ensure that at least one instrument on each spacecraft remains operational into the 2030s.
+Each Voyager spacecraft launched with a nuclear power source made of plutonium. It was the sensible choice—engineers knew all along that the probes would be traveling much too far from the sun to rely on solar power. Each spacecraft’s plutonium core produces a little less juice each year, however—annually losing about four watts, equivalent to a low-power light bulb.
+The spacecraft’s computer, communications system and instruments all require energy to operate, so scientists are faced with a tough choice: hand select where to save power by sacrificing particular instruments or risk overdrawing the power supply and losing the whole spacecraft. And no one wants to see either Voyager end any earlier than it has to.
+The Voyager spacecraft are iconic. Voyager 2 launched first; three weeks later Voyager 1 followed suit and zipped ahead. Voyager 1 flew past Jupiter in 1979 and past Saturn and its largest moon, Titan, in 1980. Voyager 2 followed suit, observing Jupiter in 1979 and Saturn in 1981, and then became the first and so far only spacecraft to ever fly past Uranus or Neptune, respectively doing so in 1986 and 1989.
+At that point the vehicles had run out of planets to observe, but both were still essentially healthy—so NASA decided to follow along for the ride. The Voyagers explored the outer reaches of the sun’s influence. Then, in 2012 and 2018, respectively, each entered interstellar space, giving scientists the first-ever close-up observations of the cosmos beyond our solar system. Today Voyager 2 is nearly 140 times as far from the sun as Earth is, while Voyager 1 is 166 times as far.
+A signal from Earth takes 19.5 hours to reach Voyager 2 and more than 23 hours to reach Voyager 1, making any troubleshooting for the probes a painfully slow process. And there has been a lot of troubleshooting recently. Voyager 1 spent early 2024 collecting only partial data after a serious communications issue began in November 2023, for example, while Voyager 2 was unable to communicate with Earth for a couple of weeks in 2023.
+But for NASA, the troubleshooting is well worth it. “Every minute of every day, the Voyagers explore a region where no spacecraft has gone before,” said Linda Spilker, Voyager project scientist at JPL, in the recent statement. “That also means every day could be our last. But that day could also bring another interstellar revelation. So, we’re pulling out all the stops, doing what we can to make sure Voyagers 1 and 2 continue their trailblazing for the maximum time possible.”
+Meghan Bartels is a science journalist based in New York City. She joined Scientific American in 2023 and is now a senior news reporter there. Previously, she spent more than four years as a writer and editor at Space.com, as well as nearly a year as a science reporter at Newsweek, where she focused on space and Earth science. Her writing has also appeared in Audubon, Nautilus, Astronomy and Smithsonian, among other publications. She attended Georgetown University and earned a master’s degree in journalism at New York University’s Science, Health and Environmental Reporting Program.
+--------------------------------------------------------------------------------
+
+TITLE: Intuitive Machines’ Athena Lander Reaches the Moon Lopsided—Just like Its Predecessor
+DATE: March 6, 20256 min read
+URL: https://scientificamerican.com/article/athena-makes-it-to-the-moon-but-uncertainties-remain/
+CONTENT:
+March 6, 2025
+6 min read
+Intuitive Machines’ Athena Lander Reaches the Moon Lopsided—Just like Its Predecessor
+Despite some connection delays postlanding, the lunar lander Athena is officially set to study what lies beneath the moon’s surface over the next 10 days
+By Gayoung Lee edited by Lee Billings
+Intuitive Machines’ IM-2 mission lunar lander, Athena, entering lunar orbit on Monday, March 3.
+Intuitive Machines/Flickr/(CC BY-NC-ND 2.0)
+Athena, a commercially built spacecraft that is loaded with cutting-edge technology and science experiments, has officially touched down on the moon—likely askew but functioning.
+“We don’t believe we’re in the correct attitude on the surface of the moon—yet again,” said Intuitive Machines’ CEO Steve Altemus during a press conference held three and a half hours after the landing. “I can say, though, that we are charging [Athena’s batteries] on the surface.... We are communicating.... We can send commands to the vehicle.”
+It may take another couple of days to lock down Athena’s exact positioning on the moon, officials said. But Athena is now indisputably operational on the lunar surface. It has joined Firefly Aerospace’s Blue Ghost, another commercial lander that made its moonfall on Sunday—upping the tally of active U.S. lunar surface missions to two. The back-to-back feats are considered important precursors to future crewed missions to the moon under NASA’s ambitious Artemis program.
+If you're enjoying this article, consider supporting our award-winning journalism by subscribing. By purchasing a subscription you are helping to ensure the future of impactful stories about the discoveries and ideas shaping our world today.
+Tensions had run high near the end of the live watch party for Athena’s landing, which ended abruptly without a conclusive declaration of the lander’s overall health. “We can confirm Athena is on the surface of the moon,” said Intuitive Machines’ communication director Josh Marshall, somewhat tersely, at around 12:52 P.M. EST—20 minutes after the intended touchdown time. “We are working to figure out the orientation of the vehicle, which is important because those are our antenna systems that will determine how much signal we’re going to have” to determine Athena’s exact orientation. Later NASA also confirmed on X (formerly Twitter) that Athena had touched down on the moon at approximately 12:30 P.M. EST as planned.
+“I think we can all agree, particularly today, that landing on the moon is extremely hard,” admitted Nicky Fox, associate administrator of NASA’s Science Mission Directorate, at the same conference. “And [IM-2, the mission that involves Athena] was aiming to land in a place that humanity has not been to before.... We look forward to actually being able to work with Intuitive Machines on a plan to return as much science data and technology data as we can.”
+Unlike Blue Ghost’s 45-day voyage to the moon, Athena’s lasted for little more than a week. The spacecraft launched on February 26 and entered lunar orbit on March 3. From there it orbited the moon for about three days (while sending back live beauty shots). It then started its descent from orbit for landing early in the morning on March 6. And at 12:15 P.M. EST, Athena began its final maneuvers toward the surface. While most of the landing procedures unfolded without issue, no decisive announcements were made about the state of the vehicle as of 12:31 P.M. EST, which was when it was supposed to land. For the next 20 minutes, the mission room bustled with activity as scientists—and Altemus—joined operators in trying to figure out what was happening.
+In some ways, the landing attempt was a chance at redemption for Intuitive Machines after Odysseus, Athena’s predecessor, had a skewed lunar touchdown that hindered its surface operations. Unfortunately, Athena appears to have suffered a similar fate. It’s worth noting, however, that even by merely reaching the surface, Athena has already brought humanity the closest we’ve ever been to the resource-rich lunar south pole—specifically, to Mons Mouton, a plateau that may be a landing spot for future Artemis astronauts as well. “We’re definitely on Mons Mouton,” confirmed Tim Crain, Intuitive Machines’ chief growth officer, during the press conference.
+Athena remains responsive to commands to turn payloads on and off, Altemus reported, meaning that there’s still a good chance many of Athena’s tasks could proceed as planned. Once the lander’s exact orientation becomes more clear, Intuitive Machines will discuss with NASA which science and technology objectives are of the most priority.
+Although its likely skewed position may reduce its capabilities, Athena nonetheless brings to the moon particularly rich array of demonstrations. For instance, NASA’s PRIME-1 (Polar Resources Ice Mining Experiment 1) is a two-part instrument consisting of a drill and a mass spectrometer that will chemically analyze samples of lunar soil to search for the water ice and other volatile substances thought to exist in abundance in the crater-pocked terrain of the lunar south pole. Once such reservoirs have been scouted out, subsequent missions might potentially mine them for manufacturing potable water, breathable air and even potent rocket fuel. And then there’s the Micro Nova Hopper, also developed by Intuitive Machines with NASA funding, which will seek to demonstrate a new mode of lunar locomotion with a series of incremental hops toward a nearby 20-meter-deep, permanently shadowed crater.
+Other payloads include Nokia’s Lunar Surface Communications System (LSCS), which uses a 4G/LTE system to establish a cellular network between each element of the mission, and a laser retroreflector array (LRA), a small device for accurately pinpointing Athena’s location on the lunar surface. These payloads, like the lander they rode to the moon, reflect an extensive partnership between NASA and private industry under the space agency’s Commercial Lunar Payload Services (CLPS) initiative.
+For the next 10 days, both Athena and Blue Ghost are planned to operate around the clock at their respective locations: Athena is near the south pole, and Blue Ghost is around Mare Crisium, a crater on the moon’s northeastern near side. The landers will also be there during a total lunar eclipse, as seen from Earth, as the moon passes through our planet’s shadow and gains a bloodred glow on the night of March 13 and the early morning of March 14.
+Despite the setbacks in establishing communications, Athena is the third successful lunar landing of NASA’s CLPS initiative. (The first CLPS mission, Astrobotic’s Peregrine lander, suffered a propellant leak after its January 2024 launch that prevented it from reaching the moon at all.) In all, CLPS has booked $2.6 billion for various payloads and launches through 2028, each intended to incrementally progress U.S. readiness for a crewed lunar return. Currently, 14 different companies have been selected by NASA to deliver different payloads of science and technology experiments to the moon. For example, some of Blue Ghost’s payloads are demonstrating how to clean hardware caked in hazardous moon dust and how to run radiation-hardened computers on the lunar surface.
+“With each CLPS mission, the United States is leading the way in expanding our reach and refining our capabilities, turning what was once dreams into reality,” said NASA acting Administrator Janet Petro in a press release that immediately followed Athena’s departure from Earth.
+The U.S. is not alone, however, in its commercial efforts to rekindle lunar exploration. Japan’s Resilience lunar lander, built by the private company ispace, launched alongside Blue Ghost in January but is taking a much slower trajectory toward its destination. This launch marked a first in spaceflight history: never before had three landers been simultaneously bound for the moon. Meanwhile other nations—most notably China—continue their own programs of lunar exploration, with an eye toward independent human landings there.
+Besides NASA’s sheer spending power, another key factor behind the sudden spate of moon landings is the private sector’s greater agility compared with the space agency’s generally slower process of mission development. Odysseus, for instance, left for the moon only about a year prior to Athena, giving Intuitive Machines little time to troubleshoot what went wrong with Odysseus’s landing to prevent similar issues from befalling Athena. Intuitive Machines and Firefly Aerospace alike will each have about the same amount of time to respectively prepare for IM-3 and Blue Ghost Mission 2, missions that will involve the successors to their currently active spacecraft on the moon. The fact that the teams behind Athena and Blue Ghost managed to turn around technological revisions so quickly is an impressive feat, given the increasingly heated competition between the U.S. and China to take the lead in this 21st-century moon race.
+“That’s building, improving and shipping a new spacecraft to go to the moon in nine months,” said Crain, who expressed that he previously had some reservations about how Athena’s improvements, compared with Odysseus, would perform out in space. And in many ways, Athena exceeded expectations, he said. “The future is bright for Intuitive Machines to land lots and lots of cargo on the moon,” Crain added.
+“These science and technology demonstrations are more than payloads—they represent the foundation for future explorers who will live and work on the moon,” Petro said in NASA’s recent press release. “By partnering with American industry, we are driving innovation, strengthening our leadership in space, and preparing for sending humans farther into the solar system, including Mars.”
+“We will be able to live and work on the lunar surface with humans. We will be able to land humans on Mars,” concluded Clayton Turner, associate administrator of NASA’s Space Technology Mission Directorate, at the same conference. “That work has to start with days like today.”
+Editor’s Note (3/6/25): This article was edited after posting to include updates on the status of Athena.
+Gayoung Lee is Scientific American’s current news intern. A philosopher turned journalist, originally from South Korea, Lee’s interests lie in finding unexpected connections between life and science, particularly in theoretical physics and mathematics. You can read more about her here: https://gayoung-lee.carrd.co
+--------------------------------------------------------------------------------
+
+TITLE: Why This Year’s Flu Season Is the Worst in More Than a Decade
+DATE: March 6, 20253 min read
+URL: https://scientificamerican.com/article/why-this-years-flu-season-is-the-worst-in-more-than-a-decade/
+CONTENT:
+March 6, 2025
+3 min read
+Why This Year’s Flu Season Is the Worst in More Than a Decade
+Outpatient flu visits and hospitalizations are higher than at any time in the past 15 years
+By Tanya Lewis edited by Dean Visser
+Amanda Montañez; Source: Centers for Disease Control and Prevention (data)
+Join Our Community of Science Lovers!
+It’s been a brutal flu season. Rates of hospitalizations and outpatient visits for influenza are at a 15-year high, according to data from the U.S. Centers for Disease Control and Prevention. The season got off to a typical, relatively late start, but the CDC has now classified it as “high severity.” And as measured by outpatient visits for flulike symptoms, the level of illness in the U.S. has been comparable to that of the 2009 H1N1 (swine flu) pandemic.
+Kids have been hit especially hard: as of February 22, 98 children—most of them unvaccinated—have died from flu in the U.S. this season. There has also been an increase in severe neurological complications in kids, including seizures, hallucinations and other symptoms.
+And amid these high rates of illness, the U.S. Department of Health and Human Services recently canceled an advisory committee meeting to determine the flu vaccine strain to be used later this year, ahead of the next influenza season. (The Food and Drug Administration was allowed to participate in a World Health Organization meeting to determine the vaccine’s composition despite President Donald Trump’s ban on government employees working with the agency.)
+If you're enjoying this article, consider supporting our award-winning journalism by subscribing. By purchasing a subscription you are helping to ensure the future of impactful stories about the discoveries and ideas shaping our world today.
+Amanda Montañez; Source: Centers for Disease Control and Prevention (data)
+Flu season typically lasts from October through April in the Northern Hemisphere each year, peaking between December and February. But from 2020–2022, the first two years of the COVID pandemic, flu all but disappeared. This was likely a result of COVID-related social distancing measures—and possibly also because of viral interference from the COVID-causing virus itself. By 2022–2023, flu season returned to more of a prepandemic pattern (although it peaked a bit earlier than usual, in late November 2022). The 2023–2024 season appeared to signal a return to a more typical pattern.
+The 2024–2025 season started quite normally, reaching an initial peak of just more than 10 weekly hospitalizations per 100,000 people in the first week of January. At the beginning of February, however, hospitalizations peaked again with close to 14 weekly hospitalizations per 100,000 people. There may be delays in reporting, but hospitalizations now appear to be on the decline once more.
+It’s not totally clear why flu is hitting so hard this year. One possibility is that it got off to a late start, so the winter holidays arriving and kids going back to school may have fueled a second peak. This year’s flu vaccine provides a similar level of protection as that of recent years, but that protection wanes as the season goes on.
+Other factors could be that the flu strains that are fueling illness this season (primarily the influenza A strains H3N2 and H1N1) cause more severe disease and that fewer people have been vaccinated against them. Flu vaccination rates have declined since the beginning of the COVID pandemic, as antivaccination sentiment has gained a stronghold.
+Finally, it’s possible that people have less immunity against flu after several years of COVID-related social distancing.
+In the U.S., there have also been a few dozen human cases of H5N1 bird flu and one known human fatality from the virus. But cases among people have been rare, appearing mostly in poultry or dairy workers. The current outbreak of H5N1 bird flu has been circulating in wild birds in the U.S. since at least 2022. It was detected in dairy cattle in March 2024 and has caused sporadic human infections since then.
+If you get sick with seasonal flu, experts recommend rest, hydration and staying home if you can. People at risk of severe disease may also opt for antiviral drugs such as Tamiflu. The CDC recommends such treatment for pregnant people, as well as those with asthma or chronic lung disease, diabetes or heart disease. Antivirals work best when they are started within one to two days of symptoms (but “starting them later can still be beneficial,” according to CDC). And if you’re not already vaccinated against flu, it’s not too late to protect yourself.
+Tanya Lewis is a senior editor covering health and medicine at Scientific American. She writes and edits stories for the website and print magazine on topics ranging from COVID to organ transplants. She also appears on Scientific American's podcast Science, Quickly and writes Scientific American's weekly Health & Biology newsletter. She has held a number of positions over her eight years at Scientific American, including health editor, assistant news editor and associate editor at Scientific American Mind. Previously, she has written for outlets that include Insider, Wired, Science News, and others. She has a degree in biomedical engineering from Brown University and one in science communication from the University of California, Santa Cruz. Follow her on Bluesky @tanyalewis.bsky.social
+--------------------------------------------------------------------------------
+
+TITLE: Trump's CDC Firings Will Gut Public Health at the State and Local Level
+DATE: March 5, 20255 min read
+URL: https://scientificamerican.com/article/trumps-cdc-firings-will-gut-public-health-at-the-state-and-local-level/
+CONTENT:
+March 5, 2025
+5 min read
+Trump's CDC Firings Will Gut Public Health at the State and Local Level
+The Trump administration’s sudden dismissals have stripped training programs across the nation that bolstered state and local public health departments
+By Rachana Pradhan & KFF Health News
+A sign outside the Centers for Disease Control and Prevention headquarters in Atlanta, Georgia.
+sshepard/Getty Images
+The Trump administration’s sudden firing of Centers for Disease Control and Prevention employees gutted training programs across the nation whose participants bolstered the workforce of state and local public health departments that for decades have been starved of resources.
+The programs are designed to cultivate a new generation of public health leaders, many of whom have gone on to work at the CDC. That was far from its only purpose. Local and state officials said the departures threaten to undermine the nation’s constant effort to identify and control infectious disease outbreaks.
+The terminated CDC employees helped prevent and respond to outbreaks such as dengue fever and the flu. They worked with local officials to quickly test for viruses and ensure that testing in public health labs complies with federal regulations. Others monitored potential cases of tuberculosis or provided health education to adolescents to prevent sexually transmitted infections, according to interviews with fired workers and local public health officials.
+If you're enjoying this article, consider supporting our award-winning journalism by subscribing. By purchasing a subscription you are helping to ensure the future of impactful stories about the discoveries and ideas shaping our world today.
+As a CDC public health adviser, Gaël Cruanes had been working at New York City’s Department of Health and Mental Hygiene to detect cases of tuberculosis, a serious illness that spreads through the air and usually attacks the lungs.
+The Public Health Associate Program deploys recent college graduates and other early-career workers for two years. After starting his job in October, Cruanes said, he contacted newly arrived immigrants and refugees potentially at risk of spreading TB in hopes of getting them into the city’s clinics for screening.
+“It’s purely for the safety of the public at the end of the day,” Cruanes said. He and other trainees were fired in mid-February.
+“It’s unconscionable,” he said.
+A spokesperson for the Department of Health and Human Services, Andrew Nixon, declined to comment. The White House and CDC didn’t respond to requests for comment.
+The Trump administration’s swift staff reductions in February targeted probationary employees, many hired in the past two years, who lack civil service protections against firings. The administration on Feb. 26 ordered federal agencies to submit plans by mid-March for large-scale layoffs, a move that could encompass a much broader swath of workers.
+After CNN published this article, at least some fired CDC workers in the training programs were notified on March 4 that their terminations had been rescinded.
+Affected employees were cleared to work on March 5, according to emails viewed by KFF Health News. “You should return to duty under your previous work schedule. We apologize for any disruption that this may have caused,” said the emails, which were unsigned and sent from an internal CDC email address.
+The reversal came less than a week after a federal judge ruled that the Trump administration’s widespread terminations of probationary employees were likely illegal.
+Seven CDC employees — including from the associate program — assigned to the New York City health department were originally terminated, Michelle Morse, the agency’s acting commissioner, testified during a City Council hearing Feb. 19.
+In an interview, Morse said the health department was exploring how to retain them.
+“We’re looking into what the CDC could do,” she said, “but we are really just trying to use our own levers that we have within the health department to see what’s possible for those staff.”
+Since its creation in 2007, the Public Health Associate Program has placed 1,800 people in nearly every state and territory, plus the District of Columbia, according to the CDC.
+The sudden firings meant “there was no lead time to try to figure out what we’re going to do,” said Anissa Davis, the city health officer at the Long Beach Department of Health and Human Services in California.
+Three participants of the associate program worked at the Long Beach department, Davis said. A CDC public health adviser was one of four employees working on sexually transmitted infections and HIV surveillance. Two others were with the 13-person communicable disease control team, which includes staff who respond to outbreaks in nursing homes, hospitals, restaurants, and schools, Davis said.
+“They are invaluable,” Davis said. “Public health is always under-resourced so having these people really helps us.”
+The U.S. public health system was already under severe strain at the onset of the covid-19 pandemic — tens of thousands of jobs disappeared after the 2007-09 recession hit, and spending also dropped significantly for state and local health departments, according to a KFF Health News investigation. The backlash against pandemic-era restrictions drove many more officials to resign or retire. Others were fired. Still, officials said the pandemic also inspired some to pursue public health careers.
+Scientists in the CDC’s Laboratory Leadership Service program were also fired in February. The CDC in 2015 started the two-year training fellowship to improve lab safety and quality following a series of failures, including in 2014 when CDC staff in Atlanta were potentially exposed to anthrax. The program each year recruits a small number of doctorate-level scientists; several work in state or local health departments.
+At least 16 of 24 fellows in the program were fired in mid-February, according to two scientists who were terminated and spoke on the condition of anonymity for fear of professional retaliation. “Now we can’t be a resource for these labs anymore,” one of them said.
+Public health labs need the CDC scientists “because they’re underfunded, understaffed,” the other said. “They are at their capacity already.”
+Lab fellows’ responsibilities included helping with outbreak investigations and responses, including by training local staff on how to safely run tests or analyzing samples to identify the cause of an illness. Fellows were recently involved in setting up a new test in Florida to detect Oropouche, a relatively unknown insect-borne disease that has no vaccine or effective treatment. The World Health Organization in December said more than 11,600 cases had been reported in 2024 in South America, the Caribbean, the U.S., Europe, Canada, and Panama. The Florida Department of Health didn’t respond to a request for comment.
+Fellows also helped develop the capacity to test for dengue fever in American Samoa, one of them said.
+“When new stuff happens that’s urgent, it’s almost all the time we get pivoted to it,” the person said.
+Participants in different training programs received the same form letter notifying them of their terminations, according to documents viewed by KFF Health News.
+The letters said that terminated people had shown poor performance: “Unfortunately, the Agency finds that you are not fit for continued employment because your ability, knowledge and skills do not fit the Agency’s current needs, and your performance has not been adequate to justify further employment at the Agency.”
+However, the fellows’ supervisors had written memos and emails saying they were in good standing, according to documents viewed by KFF Health News. Cruanes said he had not had a performance evaluation when he was terminated — his first was supposed to be Feb. 18, three days after he received his notice. He was among the CDC staff reinstated on March 4.
+In Minneapolis, a CDC public health adviser had been providing sexual and reproductive health education in two high schools, as well as doing citywide work on STI testing, said Barbara Kyle, the city’s school-based clinic manager. The department was trying to shift those responsibilities to remaining personnel. “We’re right now just scrambling,” she said.
+The city has relied on trainees through the CDC program for more than a decade, Kyle said.
+“These two years of learning public health, on-the-ground experience, has really been such a positive move for our country,” she said. “So that concerns me if we lose that pipeline.”
+Healthbeat reporter Eliza Fawcett contributed to this report from New York City.
+KFF Health News, formerly known as Kaiser Health News (KHN), is a national newsroom that produces in-depth journalism about health issues and is one of the core operating programs at KFF — the independent source for health policy research, polling, and journalism.
+Rachana Pradhan is a correspondent for KFF Health News.
+KFF Health News, formerly known as Kaiser Health News (KHN), is a national newsroom that produces in-depth journalism about health issues and is one of the core operating programs at KFF -- the independent source for health policy research, polling, and journalism.
+--------------------------------------------------------------------------------
+
+TITLE: Exclusive: NIH to terminate hundreds of active research grants
+DATE: 03 MAR 25
+URL: https://www.nature.com/articles/d41586-025-00703-1
+CONTENT:
+You can also search for this author in PubMed
+ Google Scholar
+You can also search for this author in PubMed
+ Google Scholar
+The main historical building on the campus of the US National Institutes of Health in Bethesda, Maryland.Credit: Gibson Green/Alamy
+In an unprecedented move, the US National Institutes of Health (NIH) has begun mass terminations of research grants that fund active scientific projects because they no longer meet “agency priorities”.
+Revealed: NIH research grants still frozen despite lawsuits challenging Trump order
+Revealed: NIH research grants still frozen despite lawsuits challenging Trump order
+NIH staff members have been instructed to identify and potentially cancel grants for projects studying transgender populations, gender identity, diversity, equity and inclusion (DEI) in the scientific workforce, environmental justice and any other research that might be perceived to discriminate on the basis of race or ethnicity, according to documents and an audio recording that Nature has obtained. Grants that allot funding to universities in China and those related to climate change are also under scrutiny.
+At least 16 termination letters have already been sent out, says Brittany Charlton, an epidemiologist at the Harvard T. H. Chan School of Public Health in Boston, Massachusetts, who has been tracking them. And hundreds more will be coming, say two NIH officials, who requested anonymity because they are not authorized to speak to the press.
+“It’s extremely alarming that grants that have been vetted by the scientific community and deemed important and impactful to understand the world are now being cancelled because of political ideology,” says Lisa Fazio, a cognitive psychologist at Vanderbilt University in Nashville, Tennessee, who studies misinformation. “For all this talk about free speech, this is direct censorship of scientific research.”
+The actions come during the second month of US President Donald Trump’s presidency; on his first day in office, Trump issued executive orders “restoring free speech” to the American people and “defending women from ‘gender ideology extremism’” by banning federal funds that “promote or otherwise inculcate gender ideology”.
+The NIH, which is the largest public funder of biomedical research in the world, did not respond to Nature’s queries about the grant terminations, their legality or how many the agency anticipated sending out.
+Although many NIH research grants run for longer, scientists generally receive their funding one year at a time and are required to submit a progress report to the agency annually. NIH staff members then review this report and can issue a continuation of funding.
+The agency, based in Bethesda, Maryland, has now asked its employees to review new and ongoing projects for any DEI activities and to place them in one of four categories: projects that solely support DEI-related activities (category one), projects that partially support these activities (category two), projects that do not support these activities but include some DEI-related language (category three) and projects that do not support any DEI activities (category four).
+Guidance document obtained by Nature that describes the four categories all active NIH grants should now be grouped into (see below for PDF).
+The NIH’s 27 institutes and centres should not issue awards for research in category one, according to a guidance document obtained by Nature and sent to some employees this week. Category-two research must be renegotiated with the lead researcher or institution on the grant to remove any DEI activities. If the work cannot be renegotiated, the institute must seek termination of the project, the document says.
+Category-three and -four research can continue unimpeded as long as any DEI language is stripped from the application or progress report.
+Although the guidance document focuses on DEI activities, it also includes an appendix with examples of other research that the NIH no longer supports. For example, projects funding research in China and that touch on “transgender issues” will be terminated.
+This guidance was drafted by the deputy director of the NIH’s Office of Extramural Research (OER), Liza Bundesen, and approved by acting NIH director Matthew Memoli, according to an e-mail that Nature has obtained. Bundesen, who took the helm of OER less than three weeks ago, is leaving the agency on 7 March, according to an NIH official who requested anonymity because they are not authorized to speak to the press.
+The guidance does not specify how to determine if a project is discriminatory, which has created confusion and anxiety among agency staff, another NIH official says. Many fear losing their jobs, so this might lead to over-interpretation of the guidance, which would hold back more science than “needs to be”, they say. “For example, is a grant providing culturally-appropriate care specifically to Hispanic and Latino populations ‘discrimination?’”
+Appendices obtained by Nature describing research that NIH no longer supports (see below for PDF).
+Tara McKay, who studies the health of people from sexual and gender minorities (LGBT+) at Vanderbilt University, received an e-mail from the NIH late on 28 February. It said that the agency was pulling funding for her project tracking the health of more than 1,200 LGBT+ adults in the United States.
+Exclusive: how NSF is scouring research grants for violations of Trump’s orders
+Exclusive: how NSF is scouring research grants for violations of Trump’s orders
+McKay’s study aims to understand the sources of stress and resilience for LGBT+ people, conduct cognitive screening and collect blood samples to understand how they are ageing over the span of a decade. “Longitudinal research gets its value from time points,” she says. Cancelling a grant part way through means that follow-up data will be lost, she says, and “it devalues the earlier money spent”.
+The e-mail that McKay received said that her grant did not satisfy certain criteria and then pointed to it including “transgender issues”, saying that such research programmes are “often unscientific, have little identifiable return on investment, and do nothing to enhance the health of many Americans”. This language repeats exactly the internal NIH guidance document.
+McKay says that her project does not centre on the experience of transgender people, but merely includes people who identify as such. “That is not a population we’re willing to leave behind in our work,” she adds.
+or
+doi: https://doi.org/10.1038/d41586-025-00703-1
+
+Reprints and permissions
+Are the Trump team’s actions affecting your research? How to contact Nature
+Revealed: NIH research grants still frozen despite lawsuits challenging Trump order
+‘Devastating’ cuts to NIH grants by Trump’s team put on hold by US judge
+Exclusive: how NSF is scouring research grants for violations of Trump’s orders
+How Trump 2.0 is reshaping science
+US science is under threat ― now scientists are fighting back
+News 03 MAR 25
+Ukraine’s research sector is struggling — can Europe help?
+Nature Index 28 FEB 25
+Trump team orders huge government lay-offs: how science could fare
+News 28 FEB 25
+Trans researchers under attack: LGBTQ+ biologists face hostile work environment
+Career News 06 MAR 25
+Trump's nominee for NIH chief talks frozen grants and fostering ‘scientific dissent’
+News 06 MAR 25
+Elon Musk has some supporters in science
+Correspondence 04 MAR 25
+Trans researchers under attack: LGBTQ+ biologists face hostile work environment
+Career News 06 MAR 25
+The financial shackling of historically Black universities in the United States
+Career Column 06 MAR 25
+Trump's nominee for NIH chief talks frozen grants and fostering ‘scientific dissent’
+News 06 MAR 25
+Tampa, Florida
+H. Lee Moffitt Cancer Center & Research Institute
+APPLICATION CLOSING DATE: April 13th, 2025 The integration of Artificial Intelligence, mathematical modelling, and advanced computational simulati...
+Milan (IT)
+Human Technopole
+The Center for Computational Life Sciences offers multiple faculty positions in contemporary AI/ML and/or quantum computational sciences.
+Cleveland, Ohio
+Cleveland Clinic - Computational Life Sciences
+HT is an interdisciplinary research institute, created and supported by the Italian government, whose aim is to develop innovative strategies to pr...
+Milan (IT)
+Human Technopole
+Das Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft (Max Delbrück Center) ist ein international führendes biomedizinische...
+Berlin (DE)
+Max Delbrück Center for Molecular Medicine (MDC)
+--------------------------------------------------------------------------------
+
+TITLE: Unknown fate of ice-hunting Moon missions leaves scientists in suspense
+DATE: 27 FEB 25
+URL: https://nature.com/articles/d41586-025-00719-7
+CONTENT:
+Alexandra Witze writes for Nature from Boulder, Colorado.
+You can also search for this author in PubMed
+ Google Scholar
+The Athena lander touched down in the region around the lunar south pole (pictured) on 6 March as planned, but its health is uncertain. Credit: Dave Tyler/Galaxy/Alamy
+The latest attempt to land on the Moon went at least partially awry on 6 March, when an ice-seeking spacecraft named Athena apparently landed off-kilter near the lunar south pole.
+The precise status of Athena, which was built by Intuitive Machines in Houston, Texas, remained unclear in the hours after touchdown, but “we don’t believe we’re in the correct attitude,” Stephen Altemus, chief executive officer of Intuitive Machines, said at a post-landing press conference. Last year, the first spacecraft that the company tried to land on the Moon also set down askew, although that probe did accomplish some science.
+It was the second lunar disappointment this week. NASA reported on 4 March that communication problems would keep its Lunar Trailblazer probe from entering its planned science orbit around the Moon. But not all the news is bad: a third lunar craft made a safe arrival on 2 March.
+Altemus said more information on Athena would be available in the coming hours and days, as the company works to acquire images from its multiple cameras and figure out what is damaged and what is functional. At least for now, the spacecraft is getting power, and mission controllers have been able to communicate with the science payloads on board, he said.
+Private companies are flocking to the Moon — what does that mean for science?
+Private companies are flocking to the Moon — what does that mean for science?
+Depending on its position on the lunar surface, Athena might still be able to perform some of its expected activities. To have enough power to keep operating, it needs to have at least one solar panel oriented to catch the Sun, which stays close to the lunar horizon at the craft’s landing site. Athena is meant to operate until the Sun sets at its landing site roughly 10 days after touchdown.
+But the mission’s primary purpose of hunting for ice might not be accomplished. A drill aboard Athena that was meant to bore into the lunar soil to find ice cannot operate unless it is close to upright. “We’re looking forward to hearing what we have to work with,” said Nicola Fox, NASA’s associate administrator for science. The success of other components, such as three rovers plus an ice-sniffing robotic ‘hopper’ meant to hop into shadowy craters, also depends on Athena’s position.
+The outlook is also grim for Lunar Trailblazer’s scientific mission of creating high-resolution maps of water on the lunar surface. Trailblazer launched successfully alongside Athena on 26 February, but the NASA “team believes the spacecraft is spinning slowly in a low-power state,” the agency reported on 5 March. If mission controllers can restore communications in the coming days, they might be able to put it into a less-than-optimal lunar orbit and eke out at least a little of its planned science.
+or
+doi: https://doi.org/10.1038/d41586-025-00719-7
+Prasad, D. K., et al. Commun Earth Environ. 6, 153 (2025).
+Google Scholar
+Download references
+Reprints and permissions
+Meet the ice-hunting robots headed for the Moon right now
+Private Moon lander is dying — it scored some wins for science
+Private companies are flocking to the Moon — what does that mean for science?
+Moon mission failure: why is it so hard to pull off a lunar landing?
+First private Moon lander touches down on lunar surface to make history
+The $93-billion plan to put astronauts back on the Moon
+Meet the ice-hunting robots headed for the Moon right now
+News 27 FEB 25
+Glacial isostatic adjustment reveals Mars’s interior viscosity structure
+Article 26 FEB 25
+Asteroid 2024 YR4 now unlikely to hit Earth — but scientists are ready for future threats
+News 21 FEB 25
+AI algorithm helps telescopes to pivot fast towards gravitational-wave sources
+News & Views 05 MAR 25
+Real-time inference for binary neutron star mergers using machine learning
+Article 05 MAR 25
+How AI could let us watch epic star collisions in real time
+News 05 MAR 25
+Boosting science: ‘Give foreign STEM students ten-year visas’
+Career Q&A 03 MAR 25
+ChatGPT for students: learners find creative new uses for chatbots
+Technology Feature 03 MAR 25
+How blowing the whistle on the Theranos scandal transformed Erika Cheung’s career
+Career Feature 26 FEB 25
+Tampa, Florida
+H. Lee Moffitt Cancer Center & Research Institute
+APPLICATION CLOSING DATE: April 13th, 2025 The integration of Artificial Intelligence, mathematical modelling, and advanced computational simulati...
+Milan (IT)
+Human Technopole
+The Center for Computational Life Sciences offers multiple faculty positions in contemporary AI/ML and/or quantum computational sciences.
+Cleveland, Ohio
+Cleveland Clinic - Computational Life Sciences
+HT is an interdisciplinary research institute, created and supported by the Italian government, whose aim is to develop innovative strategies to pr...
+Milan (IT)
+Human Technopole
+Das Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft (Max Delbrück Center) ist ein international führendes biomedizinische...
+Berlin (DE)
+Max Delbrück Center for Molecular Medicine (MDC)
+--------------------------------------------------------------------------------
+
+TITLE: How the brain decides whether to persist — and when to give up
+DATE: 12 FEB 25
+URL: https://nature.com/articles/d41586-025-00675-2
+CONTENT:
+You can also search for this author in PubMed
+ Google Scholar
+A region in the brainstem, called the median raphe nucleus, contains neurons that control perseverance and exploration.Credit: K H Fung/Science Photo Library
+Whether mice persist with a task, explore new options or give up comes down to the activity of three types of neuron in the brain.
+In experiments, researchers at University College London (UCL) were able to control the three behaviours by switching the neurons on and off in a part of the animals’ brainstem called the median raphe nucleus. The findings are reported in Nature today1.
+“It’s quite remarkable that manipulation of specific neural subtypes in the median raphe nucleus mediates certain strategic behaviours,” says neuroscientist Roger Marek at the Queensland Brain Institute in Brisbane, Australia, who was not involved in the work.
+Whether these behaviours are controlled in the same way in humans needs to be confirmed, but if they are, this could be relevant to certain neuropsychiatric conditions that are associated with imbalances in the three behavioural strategies, says Sonja Hofer, a co-author of the paper and a systems neuroscientist at UCL.
+For instance, an overly high drive to persist with familiar actions and repetitive behaviours can be observed in people with obsessive–compulsive disorder and autism, she says. Conversely, pathological disengagement and lack of motivation are symptoms of major depressive disorder, and an excessive drive to explore and inability to persevere with a task is seen in attention deficit hyperactivity disorder. “It could be that changes in the firing rate of specific median raphe cell types could contribute to certain aspects of these conditions,” says Hofer.
+The researchers genetically engineered the three types of neuron — which release the neurotransmitters GABA, glutamate and serotonin — in the median raphe nucleus of mice to express a light-responsive protein, which meant the neurons could be switched on and off using light. Mice were then placed in a box with 20 objects they had never seen before.
+A group of control mice spent roughly equal amounts of time pursuing each of the three strategies: persisting in their interaction with one object by grabbing, carrying or biting it; exploring their options by interacting with many objects over a short period of time; or ignoring the objects and disengaging.
+When the researchers suppressed GABA-releasing, or GABAergic, neurons, mice persisted with individual objects for longer and switched between objects less frequently than control mice did. By comparison, activating the glutamatergic neurons — even for just two seconds — caused mice to spend more time leaping from one object to another in quick succession, indicating increased exploration.
+Even brief suppression of serotonergic neurons triggered the mice to spend more time in a disengaged state. The study also found that a midbrain region called the lateral habenula was involved in suppressing serotonergic neurons in the median raphe nucleus, causing the mice to disengage from tasks.
+“This is a really elegant and intriguing study,” says behavioural neuroscientist Mark Walton at the University of Oxford, UK.
+or
+doi: https://doi.org/10.1038/d41586-025-00675-2
+Ahmadlou, M. et al. Nature https://doi.org/10.1038/s41586-025-08672-1 (2025).
+Article 
+    
+                    Google Scholar
+Download references
+Reprints and permissions
+How a junk-food splurge can change your brain activity
+‘Slime’ keeps the brain safe ― and could guard against ageing
+What causes migraines? Study of ‘brain blackout’ offers clues
+Air pollution and brain damage: what the science says
+How do placebos ease pain? Mouse brain study offers clues
+Stress can dull our capacity for joy: mouse brain patterns hint at why
+Gourmet cockatoos like to fancy up their food
+Research Highlight 12 FEB 25
+Learned magnetic map cues and two mechanisms of magnetoreception in turtles
+Article 12 FEB 25
+Bonobos know when you’re in the know ― and when you’re not
+Research Highlight 07 FEB 25
+Sensory input, sex and function shape hypothalamic cell type development
+Article 05 MAR 25
+A subcortical switchboard for perseverative, exploratory and disengaged states
+Article 05 MAR 25
+Evolution of temperature preference in flies of the genus Drosophila
+Article 05 MAR 25
+Designer cannabinoids could be the key to pain relief without adverse effects
+News & Views 05 MAR 25
+This key protein could be responsible for brain ageing
+News 05 MAR 25
+Why women’s brains are more resilient: it could be their ‘silent’ X chromosome
+News 05 MAR 25
+Tampa, Florida
+H. Lee Moffitt Cancer Center & Research Institute
+APPLICATION CLOSING DATE: April 13th, 2025 The integration of Artificial Intelligence, mathematical modelling, and advanced computational simulati...
+Milan (IT)
+Human Technopole
+The Center for Computational Life Sciences offers multiple faculty positions in contemporary AI/ML and/or quantum computational sciences.
+Cleveland, Ohio
+Cleveland Clinic - Computational Life Sciences
+HT is an interdisciplinary research institute, created and supported by the Italian government, whose aim is to develop innovative strategies to pr...
+Milan (IT)
+Human Technopole
+Das Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft (Max Delbrück Center) ist ein international führendes biomedizinische...
+Berlin (DE)
+Max Delbrück Center for Molecular Medicine (MDC)
+--------------------------------------------------------------------------------
+
+TITLE: Aspirin prevents metastasis by limiting platelet TXA2 suppression of T cell immunity
+DATE: 09 November 2020
+URL: https://nature.com/articles/s41586-025-08626-7
+CONTENT:
+Nature
+
+                         (2025)Cite this article
+743 Altmetric
+Metrics details
+Metastasis is the spread of cancer cells from primary tumours to distant organs and is the cause of 90% of cancer deaths globally1,2. Metastasizing cancer cells are uniquely vulnerable to immune attack, as they are initially deprived of the immunosuppressive microenvironment found within established tumours3. There is interest in therapeutically exploiting this immune vulnerability to prevent recurrence in patients with early cancer at risk of metastasis. Here we show that inhibitors of cyclooxygenase 1 (COX-1), including aspirin, enhance immunity to cancer metastasis by releasing T cells from suppression by platelet-derived thromboxane A2 (TXA2). TXA2 acts on T cells to trigger an immunosuppressive pathway that is dependent on the guanine exchange factor ARHGEF1, suppressing T cell receptor-driven kinase signalling, proliferation and effector functions. T cell-specific conditional deletion of Arhgef1 in mice increases T cell activation at the metastatic site, provoking immune-mediated rejection of lung and liver metastases. Consequently, restricting the availability of TXA2 using aspirin, selective COX-1 inhibitors or platelet-specific deletion of COX-1 reduces the rate of metastasis in a manner that is dependent on T cell-intrinsic expression of ARHGEF1 and signalling by TXA2 in vivo. These findings reveal a novel immunosuppressive pathway that limits T cell immunity to cancer metastasis, providing mechanistic insights into the anti-metastatic activity of aspirin and paving the way for more effective anti-metastatic immunotherapies.
+Despite advances in primary cancer treatment, many patients treated for early-stage cancers develop metastatic recurrence months to years later owing to the eventual growth of disseminated micrometastases4. Micrometastases are vulnerable to immune attack, as they are deprived of the highly immunosuppressive microenvironment found within established tumours3. This creates an opportunity for anti-metastatic therapies that utilize the immune system to prevent recurrence in patients with early-stage cancer at risk of metastasis.
+Aspirin is an irreversible inhibitor of COX enzymes5. Meta-analyses of large randomized controlled trials have shown that daily aspirin treatment is associated with reduction in metastasis at multiple sites in individuals with cancer6 (hazard ratio (HR) 0.64, 95% confidence interval (CI) 0.48–0.84). Moreover, low-dose (75–300 mg) aspirin treatment is associated with a reduction in the rate of cancer death in individuals without metastasis at the time of cancer diagnosis6,7,8 (HR 0.49, 95% CI 0.30–0.79). In colorectal cancer, the association of aspirin use with improved survival appears to be restricted to tumours that express high levels of human leukocyte antigen (HLA) class I, suggesting that its effect has an immune component9. COX-1 (also known as prostaglandin G/H synthase 1) is constitutively expressed in most tissues, including in platelets, where it is required for TXA2 production, whereas COX-2 is predominantly induced during inflammation5,10,11. Aspirin has a short half-life (around 20 min), such that only frequent high doses of aspirin can achieve sustained pharmacological inhibition of COX-1 and COX-2 in nucleated cells. By contrast, daily low-dose aspirin primarily targets platelet COX-1, and consequently the production of TXA2, since anucleated platelets cannot resynthesize their COX-1 pool, which becomes irreversibly inhibited5,10. Collectively, these results suggest a relationship between T cell immunity, suppression of platelet TXA2 and the anti-metastatic activity of aspirin, but the direct relation between these has not been established.
+In this study, we show that platelet TXA2 suppresses immunity to cancer metastasis by activating a T cell-intrinsic immunosuppressive pathway that is dependent on the guanine exchange factor ARHGEF1. Consequently, restricting the availability of TXA2 using aspirin, selective COX-1 inhibitors or platelet-specific deletion of COX-1 reduced the rate of metastasis in a manner that was dependent on T cell-intrinsic expression of ARHGEF1 and signalling by TXA2 in vivo. These findings reveal a novel immunosuppressive pathway that limits T cell immunity to cancer metastasis, providing a mechanistic basis for the anti-metastatic activity of aspirin and paving the way for the development of more effective anti-metastatic immunotherapies.
+We previously performed a large in vivo genetic screen to identify host regulators of cancer metastasis12. This screen identified 15 genes whose disruption in host tissues reduced the frequency of lung metastases after intravenous injection of syngeneic B16 melanoma cells, including the gene encoding the 115-kDa RHO guanine exchange factor ARHGEF113,14. Confirming the results of our initial screen using littermate controls, we found a reduced number of metastases in the lungs of Arhgef1-deficient mice compared with wild-type controls after intravenous injection of syngeneic B16 melanoma cells (Fig. 1a,b). This corresponded to a reduction in the frequency of mCherry-labelled tumour cells in the lungs of Arhgef1-deficient mice upon intravenous injection of B78ChOva melanoma cells (Extended Data Fig. 1a). We similarly observed a decrease in the rate of lung metastasis after intravenous injection of syngeneic LL/2 Lewis lung carcinoma cells into Arhgef1-deficient mice (Fig. 1c and Extended Data Fig. 1b). The reduction in the rate of metastasis upon ARHGEF1 loss was not restricted to the lungs, since we also observed reduced numbers of liver metastases upon intrasplenic implantation of B16 cells in Arhgef1-deficient mice (Fig. 1d and Extended Data Fig. 1c).
+a,b, Photographs (a) and frequency (b) of lung metastases from wild-type (WT; n = 8) and Arhgef1-knockout (KO; n = 8) littermates after intravenous injection of B16 melanoma cells. c, Quantification of lung metastases relative to total lung area from wild-type (n = 11) and Arhgef1-KO (n = 10) littermates after intravenous injection of LL/2 carcinoma cells. d, Photographs (top) and frequency (bottom) of liver metastases from wild-type (n = 18) and Arhgef1-KO (n = 16) littermates after intrasplenic injection of B16 cells. e, Schema (top left) showing generation of Arhgef1-wild-type or Arhgef1-KO MMTV-PyMT mice. Quantification of primary mammary tumour mass (bottom left), haematoxylin and eosin (H&E) staining of lung sections (top right) and lung metastases relative to total lung area (bottom right) in Arhgef1-wild-type (n = 15) and Arhgef1-KO (n = 9) MMTV-PyMT mice. Arrows show lung metastases. f, Schema (top) and frequency of metastases (bottom) after intravenous injection of B16 cells into bone marrow (BM) chimeras reconstituted with wild-type (n = 19) and Arhgef1-KO (n = 19) bone marrow cells. g, Heat map showing differentially expressed genes (q < 0.05; fold change (|FC|) > 2) between whole tumour-bearing lungs of wild-type (n = 5) and Arhgef1-KO (n = 5) littermates at day 7 after intravenous tumour injection. h, Generation of Arhgef1 conditional-knockout (cKO) allele. i–k, Frequency of lung metastases in mice of indicated genotypes: Ncr1icre+ and Ncr1icre+ Arhgef1fl/fl (i; n = 8); Lyz2cre+ (n = 9) and Lyz2cre+ Arhgef1fl/fl (n = 6) (j); and Cd4cre (n = 9) and Cd4cre Arhgef1fl/fl (n = 10) (k), after intravenous injection of B16 cells. l, Photographs (top) and H&E staining (bottom) of Cd4cre (cWT) and Cd4cre Arhgef1fl/fl (Arhgef1-cKO) mice from k. Data are representative of five (b,k) or two (c,i,j) independent experiments, or pooled from three (e) or two (d,f) independent experiments. Unpaired two-tailed Student’s t-test (b,c,f,i–k); Two-tailed Mann–Whitney U-test (d,e). Data are mean ± s.e.m.
+Source data
+Mice bearing the MMTV-PyMT germline mutation develop primary breast cancers that spontaneously metastasize to the lungs15. Although we observed no major difference in the growth of primary mammary tumours in Arhgef1-deficient mice compared with wild-type controls when crossed onto the MMTV-PyMT background (Extended Data Fig. 1d), we noted a reduction in the frequency of metastatic nodules in the lungs of Arhgef1-deficient mice, when mice with similarly sized primary mammary tumours were analysed (Fig. 1e). Similar to the lack of substantial effect on the growth of primary MMTV-PyMT breast tumours, ARHGEF1 deficiency had minimal effect on the growth of subcutaneously implanted syngeneic MC38 colorectal adenocarcinoma tumours (Extended Data Fig. 1e). These findings showed that loss of ARHGEF1 expression in host tissues reduces the development of cancer metastases at multiple metastatic sites.
+ARHGEF1 is predominantly expressed in cells of the haematopoietic lineage13,14,16. We did not observe major differences in the frequency of mature haematopoietic lineages in tumour-bearing lungs of Arhgef1-deficient mice compared with wild-type controls (Extended Data Fig. 2). However, we found that loss of ARHGEF1 in haematopoietic cells was sufficient to confer the observed anti-metastatic effect, since lethally irradiated wild-type mice reconstituted with bone marrow haematopoietic cells from Arhgef1-deficient mice exhibited a reduced frequency of B16 lung metastases compared with mice reconstituted with wild-type haematopoietic cells (Fig. 1f). Metastatic colonization of the lungs of Arhgef1-deficient mice was associated with increased expression of genes associated with immune activation and cytotoxic function, including Ccl4, Nkg7, Gzma, Gzmb, Cxcl5 and Klrg1, compared with wild-type controls (Fig. 1g and Supplementary Table 1). These findings led us to hypothesize that ARHGEF1 exerts an immunosuppressive effect in cells of the haematopoietic lineage.
+To determine the haematopoietic cell types in which ARHGEF1 exerts its immunosuppressive function, we generated a floxed Arhgef1 mouse allele (hereafter Arhgef1fl), enabling conditional deletion of ARHGEF1 in specific cellular lineages upon Cre-mediated recombination (Fig. 1h). We crossed Arhgef1fl/fl mice to Ncr1cre, Lyz2cre and Cd4cre mice, enabling loss-of-function analysis of ARHGEF1 in haematopoietic cells of the natural killer (NK) cell, macrophage and T cell lineages, respectively17,18,19. Whereas NK cell- and macrophage-specific ablation of ARHGEF1 did not result in reduced frequency of lung metastases after intravenous administration of B16 melanoma cells, we found that T cell-specific ablation of ARHGEF1 in Arhgef1fl/fl Cd4cre mice (hereafter Arhgef1-cKO mice) resulted in markedly reduced lung metastasis compared with Arhgef1+/+ Cd4cre (hereafter cWT) controls (Fig. 1i–l and Extended Data Fig. 3a), recapitulating the resistance to metastasis observed in mice lacking ARHGEF1 in all tissues.
+Cytokine polyfunctionality is a hallmark of effective anti-viral and anti-tumour immune responses20,21. To better understand how ARHGEF1-deficient T cells control pulmonary metastasis, we analysed lung-infiltrating T cells using flow cytometry. Although a similar number of CD4+ and CD8+ T cells were found in tumour-bearing lungs of cWT and Arhgef1-cKO mice (Extended Data Fig. 3b), intracellular cytokine staining of T cells from tumour-bearing lungs revealed markedly increased frequencies of polyfunctional cells that co-express two or more cytokines among IFNγ, IL-2 and TNF in Arhgef1-cKO mice compared with cWT mice (Fig. 2a–c).
+a–c, Representative flow cytometry plots of TNF, IL-2 and IFNγ expression (a) and frequency of cells expressing TNF, IL-2 and IFNγ, presented in terms of cytokine polyfunctionality (b) and relative frequency (c), following intracellular cytokine staining of CD8+ T cells from lungs of Cd4cre (cWT, n = 11) and Arhgef1fl/fl Cd4cre (Arhgef1 cKO, n = 10) mice 17 days after intravenous injection of B78ChOva melanoma cells. d, Uniform manifold approximation and projection (UMAP) analysis of the phenotype of concatenated CD8+ T cells from lungs of B78ChOva tumour-bearing (cWT, n = 11; Arhgef1 cKO, n = 10) and non-tumour-bearing mice (cWT, n = 3; cKO, n = 4). Colours and numbering depict cell clusters identified by Phenograph. e, Relative expression of indicated markers by CD8+ T cells in d. f, Mean expression of indicated markers by CD8+ T cells in indicated clusters in d. g, Relative frequency of CD8+ T cells in indicated Phenograph clusters in d. h, PD-1 and TIM3 expression on effector CD8+ T cells in tumour-bearing lungs from mice described in d of the indicated genotypes. Representative flow cytometry plots (left) and replicate measurements (right). i,j, Frequency of OVA257–264 tumour antigen-specific CD8+ T cells as detected by peptide–MHC tetramer staining from tumour-bearing lungs (i) of mice in d and representative flow cytometry plots and replicate measurements of PD-1 and TOX expression on OVA257–264 tumour antigen-specific CD8+ T cells (j). Data are representative of two independent experiments. Unpaired two-tailed Student t-tests with Holm–Šídák correction for multiple hypothesis testing (c); two-way analysis of variance (ANOVA) with Tukey multiple comparisons test (g); one-way ANOVA with Tukey multiple comparisons test (h,i); and unpaired two-tailed Student t-tests (j). Data are mean ± s.e.m.
+Source data
+T cell exhaustion is associated with reduced cytokine polyfunctionality and anti-tumour activity22,23,24. Analysing the phenotype of T cells in the lungs by high-dimensional flow cytometry, we found that metastatic colonization induces populations of CD4+ and CD8+ T cells that express high levels of the exhaustion marker PD-1, including both terminally exhausted TIM3+TIGIT+TOX+CD39+TCF1low (cluster 10) cells and progenitor exhausted SLAMF6+TIM3−TIGIT−TCF1hi (cluster 14) cells, whose frequency was reduced in Arhgef1-cKO mice compared with cWT mice (Fig. 2d–h and Extended Data Figs. 3c,d and 4a). Of note, we observed increased cytokine polyfunctionality and reduced expression of the exhaustion markers PD-1 and TOX among tumour antigen-specific CD8+ T cells responding to ovalbumin (OVA) expressed by B78ChOva metastases in lungs of Arhgef1-cKO mice (Fig. 2i,j and Extended Data Fig. 4b).
+Corresponding to augmented adaptive immune responses to metastasis, Arhgef1 deletion reduced the late accumulation of mCherry-labelled cancer cells in the lungs at days 11 and 17 after tumour injection, but did not affect their early accumulation and growth at days 1 and 7 after tumour injection (Extended Data Fig. 4c). PD-1 expression is induced upon sustained exposure to tumour antigen25. We found that the frequency of PD-1+ cells among antigen-experienced CD8+ T cells did not correlate with the number of metastases when either wild-type or Arhgef1-deficient mice were analysed, suggesting that reduced PD-1 expression was unlikely to be the consequence of decreased tumour burden in the lungs of Arhgef1-deficient mice (Extended Data Fig. 4d). Moreover, the function of ARHGEF1 was not restricted to tumour-specific T cell responses, since OVA antigen-specific CD8+ T cells responding to infection with Listeria monocytogenes expressing OVA exhibited a less terminally differentiated phenotype with increased levels of the memory marker CD127 in Arhgef1-cKO compared with cWT mice26 (Extended Data Fig. 5a–c). Collectively, these experiments show that ARHGEF1 functions intrinsically in T cells to limit effector functions and anti-metastatic immunity in vivo.
+We sought to define upstream receptors and ligands that drive the immunosuppressive function of ARHGEF1 in T cells so as to reveal extracellular components of the pathway that might be amenable to therapeutic targeting. G-protein-coupled receptors (GPCRs) sense a variety of extracellular signals and control diverse cellular responses. ARHGEF1 is activated by a subset of GPCRs coupled to the G-protein subunits Gα12 and Gα13, and in turn activates the GTPase RHOA to drive intracellular signal transduction27,28,29. To identify candidate GPCRs that act upstream of ARHGEF1 in T cells, we performed a bioinformatic analysis to identify Gα12/13-coupled GPCRs expressed by T cells. Previous work has biochemically quantified ligand-induced interactions between 148 GPCRs and known G-protein subunits30. Using these data, we generated a list of Gα12/13-coupled GPCRs and examined their expression at an mRNA level in naive and activated CD8+ T cells. This revealed 18 Gα12/13-coupled GPCRs that were expressed at significant mRNA levels by naive or activated CD8+ T cells (Fig. 3a).
+a, Identification of Gα12/13-coupled GPCRs expressed by T cells. Left, expression in naive and activated T cells of genes encoding Gα12/13-coupled GPCRs with moderate to high coupling index to Gα12 or Gα13 (log relative intrinsic activity > –1) identified in ref. 30. Right, known ligands or agonists of expressed receptors. 9-HODE, 9-hydroxyoctadecadienoic acid; LPA, lysophosphatidic acid; LysoPI, lysophosphatidylinositol; LysoPS, lysophosphatidylserine; PGE2, prostaglandin E2. b, In vitro ligand screen of identified Gα12/13-coupled GPCRs. Naive FACS-sorted CD8+ T cells were stimulated in vitro with anti-CD3/28 antibodies and recombinant human IL-2 (rhIL-2) in the presence of indicated ligands or agonists. The ratio of activated CD44+ cells among wild-type and Arhgef1-deficient CD8+ T cells was measured at day 5. n = 3–4 independent replicates per condition. S1P, sphingosine 1-phosphate. c, Differentiation state of naive wild-type and Arhgef1-deficient CD8+ T cells stimulated in vitro with anti-CD3/28 antibodies and rhIL-2 in the presence of indicated concentrations of TXA2 analogue U46619. d,e, CellTrace Violet (CTV) proliferation analysis (d) and cell number (e) on day 5 for naive wild-type and Arhgef1-deficient CD8+ T cells stimulated with anti-CD3/28 antibodies and rhIL-2 in the presence or absence of 5μM TXA2 analogue U46619. f, Naive wild-type and Arhgef1-deficient CD8+ T cells were electroporated with nucleoprotein complexes of Cas9 and single guide RNAs (sgRNAs) targeting Tbxa2r or scrambled sgRNA control (Ctrl) and stimulated with anti-CD3/28 antibodies and rhIL-2 in the presence or absence of 5 μM TXA2 analogue U46619. n = 5 independent replicates per condition. g, Photomicrographs of cells 5 days after stimulation of naive CD8+ T cells with anti-CD3/28 antibodies and rhIL-2 in the presence of TXA2 analogue U46619 or vehicle control, and treatment with the TXA2 receptor inhibitor (SQ 29548, 10 μM). Data are representative of two (b,f,g) or three (c–e) independent experiments. Two-tailed Student t-tests with Bonferroni–Dunn (b) and Holm–Šídák (c,e,f) correction for multiple hypothesis testing. Data are mean ± s.e.m.
+Source data
+To determine which among the identified Gα12/13-coupled GPCRs act upstream of ARHGEF1 to suppress T cell activation, we performed a screen to test whether their known ligands or agonists suppress T cells in an ARHGEF1-dependent manner in vitro. The majority of ligands had little effect on T cell activation, or affected T cell activation in a manner that was independent of ARHGEF1. However, T cell activation was suppressed in the presence of a stable analogue of TXA2, U46619, which is a ligand of the Gα12/13-coupled TXA2 receptor (TP (also known as TXA2-R)), in a manner that was almost completely dependent on ARHGEF1 (Fig. 3b and Extended Data Fig. 6). Confirming the results of the screen, we found that U46619 (hereafter TXA2 analogue) potently suppressed the activation and proliferation of fluorescence-activated cell sorting (FACS)-purified wild-type naive CD8+ T cells upon stimulation, whereas it had a minimal effect on Arhgef1-deficient cells (Fig. 3c,d and Extended Data Fig. 7a,b). Moreover, TXA2 analogue treatment limited the expansion of wild-type but not Arhgef1-deficient CD8+ T cells in a manner that was dependent on the activity of its receptor TP (encoded by Tbxa2r), since the effect of TXA2 was reversed upon genetic or pharmacological disruption of TP in Arhgef1-proficient cells (Fig. 3e–g and Extended Data Fig 8a–d). Notably, TXA2 receptor signalling suppressed T cell proliferation and activation in the absence of any other cell type, suggesting that TXA2 can suppress T cells independently of effects on T cell–dendritic cell interactions31. We did not observe differences in apoptosis upon treatment of T cells with the TXA2 analogue (Extended Data Fig. 7c). These findings suggest that ARHGEF1 has a critical role in transducing TXA2 signalling in T cells, limiting T cell activation and proliferation in response to T cell receptor (TCR) signalling.
+To better define the effect of TXA2-driven ARHGEF1 activity on the global T cell activation programme, we performed whole-transcriptome RNA sequencing (RNA-seq) of naive FACS-sorted wild-type and Arhgef1-deficient CD8+ T cells undergoing stimulation with anti-CD3ε and anti-CD28 antibodies in the presence of TXA2 analogue. Consistent with phenotypic analyses, we observed that treatment of cells with TXA2 analogue suppressed the expression of genes involved in T cell activation and effector differentiation, including Gzma, Fasl, Ccl5, Ccr5 and Prdm1 in an ARHGEF1-dependent manner (Fig. 4a and Supplementary Table 2). Accordingly, we observed highly significant enrichment in the expression of genes upregulated in memory versus naive CD8+ T cells in TXA2 analogue-treated Arhgef1-deficient cells compared with wild-type cells32 (Fig. 4b, Extended Data Fig. 9 and Supplementary Tables 3–5). Together, these findings show that TXA2 signalling acts via ARHGEF1 to regulate the global TCR-driven transcriptional programme in T cells.
+a, Heat map showing differentially expressed genes 5 days after stimulation of naive CD8+ T cells with anti-CD3/28 antibodies and rhIL-2 in the presence of TXA2 analogue or vehicle (q < 0.05; |FC| > 1.5). b, Enrichment analysis of indicated gene set in global transcriptional differences between TXA2-treated Arhgef1-KO versus wild-type CD8+ T cells. NES, normalized enrichment score. c, S6 and ERK phosphorylation in splenic CD8+ T cells stimulated ex vivo with crosslinked anti-CD3 antibodies and TXA2 analogue or vehicle (5 min). d, Quantity of GTP-bound (active) and total RHOA from wild-type or Arhgef1-deficient OT-1 CD8+ T cells stimulated with TXA2 analogue or vehicle (5 min). e, Complementation of Arhgef1-deficient OT-1 CD8+ T cells with RHOACA using retroviral expression. S6 and ERK phosphorylation was measured in THY1.1+ (transduced) cells after stimulation with crosslinked anti-CD3 antibodies. f, Confocal imaging (left) and computational analysis (right) of PTEN, F-actin and DAPI localization in wild-type and Arhgef1-deficient OT-1 CD8+ T cells stimulated with TXA2 analogue after pre-treatment with ROCK inhibitor (Y-27632, 30 μM), TXA2 receptor inhibitor (SQ 29548, 10 μM) or vehicle. Arrows show PTEN and F-actin colocalization. n = 2 independent replicates per condition. One-way ANOVA with Tukey multiple comparisons test. Scale bars, 20 μm. MFI, mean fluorescence intensity. g, AKT and ERK phosphorylation in wild-type and Arhgef1-deficient OT-1 CD8+ T cells stimulated with TXA2 analogue and crosslinked anti-CD3 antibodies following inhibitor pre-treatment as in f. h, Ex vivo S6 phosphorylation in splenic naive CD8+ T cells after anti-CD3 antibody crosslinking (5 min) after AKT inhibitor VIII (AKTi, 1 μM) or vehicle pre-treatment. NS, no stimulation. i, TNF expression by splenic naive CD8+ T cells 5 h after stimulation in the presence of 1 μM AKTi or vehicle. Data are representative of three (c,d) and two (e–i) independent experiments. Data are mean ± s.e.m.
+Source data
+ARHGEF1 activates RHOA to control a variety of processes including cellular differentiation, motility, proliferation and kinase signalling33,34,35. Kinase signalling has a key role in TCR-driven T cell activation, proliferation and differentiation36. We found that treatment of T cells with TXA2 analogue profoundly inhibited TCR stimulation-driven phosphorylation of S6 and ERK in a manner that was almost entirely dependent on ARHGEF1 (Fig. 4c and Extended Data Fig. 10a,b), suggesting that ARHGEF1 restricts TCR-driven PI3K and MAPK signalling in response to TXA2 signalling. We also observed increased phosphorylation of S6 and ERK following in vitro stimulation of Arhgef1-deficient cells with phorbol 12-myristate 13-acetate (PMA) plus ionomycin (Extended Data Fig. 10c), suggesting effects on signal transduction downstream of proximal TCR signal transduction37. Active RHOA pull-down assays using Rhotekin beads showed that stimulation of wild-type but not Arhgef1-deficient T cells with TXA2 analogue increased the abundance of GTP-bound active RHOA, demonstrating that ARHGEF1 is critical to TXA2-mediated RHOA activation (Fig. 4d). Consistent with a critical role of RHOA activation in the suppressive function of ARHGEF1, complementation of Arhgef1-deficient CD8+ T cells with a constitutively active mutant RHOA-Q63L (RHOACA)38 was sufficient to reverse hyper-phosphorylation of S6 and ERK following anti-CD3 crosslinking (Fig. 4e). Moreover, genetic disruption of Rhoa using CRISPR-based mutagenesis in primary Cas9-expressing CD8+ T cells resulted in increased stimulation-driven S6 and ERK phosphorylation (Extended Data Fig. 10d,e).
+Activation of PTEN by the RHOA effector ROCK enables RHOA to negatively regulate the AKT–S6 pathway, providing a means for crosstalk between small G-protein and kinase signalling33,35. ROCK recruits PTEN to the cell cortex upon activation33. Confocal immunofluorescence microscopy of wild-type and Arhgef1-deficient T cells in vitro showed that T cells respond rapidly to TXA2 sensing by recruiting PTEN to the cell cortex in a manner dependent on both the TXA2 receptor TP and ROCK, since pre-treatment of cells with either the ROCK inhibitor Y-27632 or the TP inhibitor SQ 29548 prevented TXA2-mediated PTEN recruitment to the cell cortex (Fig. 4f and Extended Data Fig. 11a). Biochemical analysis of cell lysates showed that TXA2-driven suppression of AKT phosphorylation is dependent on the activity of TP, ARHGEF1, ROCK and PTEN, whereas TXA2-driven suppression of ERK phosphorylation is dependent on TP and ARHGEF1, but not ROCK or PTEN (Fig. 4g and Extended Data Fig. 11b). The PI3K–AKT pathway has a critical role in T cell activation, differentiation and cytokine production39,40,41. Pharmacological inhibition of AKT using the well-characterized allosteric AKT inhibitor, AKT inhibitor VIII, reduced excessive S6 phosphorylation and cytokine production following stimulation of Arhgef1-deficient CD8+ T cells (Fig. 4h,i). This suggests that inhibition of kinase pathway activation by ARHGEF1 is critical to its suppressive function in T cells. Collectively, these findings show that ARHGEF1 and downstream activation of RHOA are required for suppression of TCR-driven kinase pathway phosphorylation and T cell activation upon TXA2 signalling in vitro.
+The biosynthesis of TXA2 is blocked by inhibitors of COX enzymes, including aspirin. Meta-analyses of large randomized controlled trials have shown that aspirin use is associated with protection against metastatic recurrence at multiple sites after primary cancer diagnosis in humans6,7. Our observation that TXA2 limits T cell activation in an ARHGEF1-dependent manner in vitro led us to hypothesize that aspirin exerts an anti-metastatic effect by releasing T cells from TXA2-driven suppression mediated by ARHGEF1 in vivo.
+Supplementation of the drinking water of mice with the TXA2 analogue U46619 increased the frequency of pulmonary metastases following intravenous administration of B16 cells (Fig. 5a). Treatment of mice with aspirin decreased the abundance of TXA2 as determined by measurement of its stable metabolite TXB2 in the serum of mice (Fig. 5b). Of note, aspirin treatment reduced metastasis frequency in control mice but not in mice bearing a T cell-specific conditional deletion of ARHGEF1 (Fig. 5c), suggesting that its activity is immune-dependent. Moreover, aspirin treatment in vivo resulted in increased capacity for TCR-driven S6 phosphorylation among antigen-experienced CD4+ and CD8+ T cells from tumour-bearing lungs of wild-type mice, to increased levels observed in Arhgef1-deficient mice treated with either aspirin or vehicle control (Fig. 5d and Extended Data Fig. 12a,b). Notably, supplementation of aspirin-treated wild-type mice with TXA2 analogue U46619 reversed the anti-metastatic activity of aspirin, but neither aspirin nor TXA2 analogue affected metastasis frequency in mice carrying a T cell-specific conditional deletion of ARHGEF1 (Fig. 5e), showing that the anti-metastatic activity of aspirin is dependent on its ability to reduce TXA2 abundance, releasing T cells from TXA2-driven suppression by ARHGEF1. The importance of TXA2 receptor signalling to the anti-metastatic activity of aspirin was further supported by bone marrow reconstitution experiments that showed that the anti-metastatic activity of aspirin is dependent on TP expression by cells of the haematopoietic lineage (Fig. 5f). Additionally, the anti-metastatic activity of aspirin was dependent on adaptive immune cells, since we observed no difference in metastasis frequency when Rag2-deficient mice (which lack all T cells and B cells, resulting in NK cell expansion and a reduced background rate of metastasis)12 were treated with aspirin (Extended Data Fig. 12c).
+a, Photographs (left) and frequency (right) of lung metastases in mice treated with TXA2 analogue (n = 10) or vehicle (veh; n = 10) 17 days after intravenous injection of B16 cells. b, Serum TXB2 abundance in vehicle (n = 15) or aspirin-treated (n = 13) B16-bearing mice. c, Frequency of B16 lung metastases in Cd4cre (cWT) and Arhgef1fl/fl Cd4cre (cKO) mice treated with vehicle (cWT, n = 19; cKO, n = 18) or aspirin (cWT, n = 23; cKO, n = 24). d, Ex vivo S6 phosphorylation among CD44+ CD8+ T cells in lungs of vehicle- or aspirin-treated cWT and Arhgef1 cKO mice 17 days after intravenous injection of B16 cells. Grey, non-crosslinking control. Numbers show percentages within indicated gate. e, Frequency of B16 lung metastases in mice of indicated genotype treated with vehicle (cWT, n = 24; cKO, n = 21), aspirin (cWT, n = 25; cKO, n = 21), or aspirin and TXA2 analogue (cWT, n = 26; cKO, n = 23). f, Frequency of B16 lung metastases in bone marrow chimeras reconstituted with wild-type or Tbxa2r-KO bone marrow cells49 and treated with vehicle (wild type, n = 27; KO, n = 25) or aspirin (wild type, n = 28; KO, n = 28). g,h, Frequency of B16 lung metastases and serum TXB2 abundance in cWT or cKO mice treated with COX-1 inhibitor SC-560 (cWT, n = 19; cKO, n = 17) or vehicle (cWT, n = 20; cKO, n = 19) (g), and COX-2 inhibitor celecoxib (cWT, n = 10; cKO, n = 10) or vehicle (cWT, n = 8; cKO, n = 10) (h). i, Proliferation of wild-type and Arhgef1-deficient naive CD8+ T cells in contact-independent co-culture with platelets. j, Frequency of lung B16 metastases (left; wild type, n = 20; Pf4cre Ptgs1fl/fl, n = 18) and mass spectrometry of urinary prostanoids (right) in mice of indicated genotypes. PGDM, 11,15-dioxo-9α-hydroxy-2,3,4,5-tetranorprostan-1,20-dioic acid; PGEM, 7-hydroxy-5,11-diketotetranorprostane-1,16-dioic acid; PGIM, 2,3-dinor-6-keto-PGF1α; TXM, 2,3-dinor-TXB2. k, Frequency of B16 lung metastases in wild-type (n = 26), Tbxas1-KO (n = 30), Arhgef1-KO (n = 27) and Tbxas1-KO Arhgef1-KO (n = 28) mice. Data are representative of two (a,b) or pooled from two (e–j) or three (c,k) independent experiments. Unpaired two-tailed Student’s t-test (a); one-way ANOVA with Tukey (c,e,f–i) and Holm–Šídák (k) adjustment; two-tailed Mann–Whitney U-test (b,j). Data are mean ± s.e.m.
+Source data
+Aspirin can inhibit both COX-1 and COX-25,10. We sought to determine their relative contribution to the observed effect of aspirin on metastasis. We found that selective COX-1 inhibition was able to recapitulate the effect of aspirin, reducing metastasis frequency in a manner that was dependent on T cell-restricted expression of ARHGEF1 (Fig. 5g). Reduction in metastasis frequency upon COX-1 inhibition was associated with a decrease in the abundance of the stable TXA2 catabolite TXB2 in the serum of mice treated with COX-1 inhibitors. By contrast, COX-2 inhibition did not result in a decrease in either metastasis frequency or the systemic abundance of TXB2 (Fig. 5h). Moreover, inhibition of P2Y12, which is involved in alternative ADP-driven platelet activation, did not affect the rate of pulmonary metastasis (Extended Data Fig. 12d).
+We next tested whether platelets are the primary source of TXA2 responsible for promoting metastasis. Platelet transwell co-culture experiments revealed contact-independent suppression of T cell activation by platelets in a manner that was partially dependent on T cell expression of ARHGEF1 (Fig. 5i and Extended Data Fig. 13a–c). Moreover, antibody-mediated platelet depletion resulted in a profound reduction in metastasis frequency in mice that were inoculated intravenously with B16 cells, in which context ARHGEF1 proficiency was unable to promote metastasis (Extended Data Fig. 13d,e). Platelets produce TXA2 in a manner that is dependent on the expression of COX-1. Given that COX-1 inhibition resulted in an anti-metastatic effect dependent on expression of ARHGEF1 in T cells, we tested whether the rate of metastasis is affected in Pf4cre Ptgs1fl/fl mice, which harbour a platelet and megakaryocyte-specific conditional deletion of COX-142,43 (Fig. 5j). Of note, platelet and megakaryocyte-specific conditional deletion of COX-1 resulted in a marked reduction in metastasis, accompanied by decreased urinary abundance of the TXA2 catabolite TXM, but not of other prostanoid metabolites that we evaluated. To formally test the role of TXA2 in ARHGEF1-dependent suppression of anti-metastatic immunity in vivo, we crossed mice with a genetic deficiency in the thromboxane synthase gene Tbxas144 with Arhgef1-deficient mice. This allowed us to examine the effect of absence of systemic TXA2 on metastasis frequency in the presence or absence of ARHGEF1. Among ARHGEF1-proficient mice, genetic absence of thromboxane synthase resulted in a reduction in metastasis frequency, whereas in mice lacking ARHGEF1, loss of thromboxane synthase did not affect the rate of metastasis (Fig. 5k). Collectively, these data show that a critical anti-metastatic function of aspirin and COX-1 inhibitors is to release T cells from suppression by TXA2 produced in a platelet COX-1-dependent manner.
+Here we show that platelet-derived TXA2 functions as a potent immunoregulatory molecule that suppresses T cell immunity to cancer metastasis by inducing the immunosuppressive function of ARHGEF1. Consequently, COX-1 inhibition, including using aspirin, enhances anti-metastatic immunity by releasing T cells from TXA2–ARHGEF1-mediated suppression (Extended Data Fig. 14). These findings add to our mechanistic understanding of the observed anti-metastatic effects of aspirin6,7,8,9.
+Although aspirin provides a potentially attractive opportunity for anti-metastatic therapy given its low cost, more selective targeting of the TXA2–ARHGEF1 pathway could enable enhanced anti-metastatic activity and/or reduced bleeding risk and gastric toxicity. Understanding of the immunostimulatory effect of aspirin raises the possibility that aspirin may be used to synergize with other adjuvant immunotherapies. These findings build on previous data that show that in patients with colon cancer, the association of aspirin use with improved survival appears to be restricted to cancers with high HLA class I expression9, and suggest that additional immune biomarkers may help to stratify patients who are most likely to benefit from the anti-metastatic activity of aspirin. Given contradictory evidence relating to aspirin efficacy in distinct groups of patients6,8,45, our findings underscore the need for detailed biomarker identification studies in the context of prospective randomized controlled trials to definitively establish the cancer types and patient populations in which aspirin has the greatest efficacy.
+We observed that genetic disruption of ARHGEF1 reduced the frequency of exhausted T cells at the metastatic site and increased the frequency of memory-precursor effector cells (MPECs) in pathogen-specific CD8+ T cell responses in vivo. How the observed modulation of kinase pathways by TXA2–ARHGEF1 relates to phenotypic changes in exhaustion and MPEC differentiation is unclear and remains an important topic for future investigation. The findings also suggest that the TXA2–ARHGEF1 pathway may have broader roles in immune regulation, including in control of T cell memory and exhaustion during chronic viral infection24,25,46,47. We observed mild effects of ARHGEF1 deficiency on T cells cultured ex vivo in the absence of TXA2, which were more pronounced in short-term assays directly ex vivo than in longer-term culture experiments. Whether ARHGEF1 is mildly basally active in the absence of TXA2 signalling, or tonically active after exposure to homeostatic levels of TXA2 or a stable metabolite in vivo are interesting questions for future study.
+Our findings build on a broader understanding of the importance of prostanoids in cancer development and immune evasion. In particular, COX-2 has well-established and multifaceted roles in carcinogenesis, and prostaglandin E2 production by tumour cells has a significant role in immune evasion by established tumours48. Recent findings also suggest that platelet TXA2 can act directly on cancer cells to promote COX-2-dependent carcinogenesis43, although it remains to be determined whether the ability of TXA2 to stimulate prostaglandin E2 production adds to the immunomodulatory potential of TXA2 in the context of metastasis by COX-2-expressing tumours.
+This work establishes TXA2 as a regulator of T cell immunity, with implications for cancer prevention and therapy. The identification of this pathway provides mechanistic insights into the anti-metastatic effects of aspirin, a potential basis for its more targeted use, and targets for development of new therapeutic strategies for preventing metastatic disease.
+All animal experiments were conducted in accordance with UK Home Office guidelines and were approved by the University of Cambridge Animal Welfare and Ethics Review Board. Littermate controls or age- and sex-matched mice were used in experiments as indicated. All mice, unless otherwise stated, were housed at the University of Cambridge University Biomedical Services Gurdon Facility or the Babraham Institute Biological Support Unit. Wild-type C57BL/6 mice were obtained from Charles River. Ptprca (CD45.1) congenic, OT-1 TCRtg, Rag2–/– and MMTV-PyMT (B6.FVB-Tg(MMTV-PyVT)634Mul/LellJ) mice were obtained from the Jackson Laboratory. Arhgef1-KO (Arhgef1Tm1a) mice have previously been described12. Tbxas1-KO (Tbxas1tm1Swl) and Tbxa2R-KO (Tbxa2rtm1Cof) mice, as previously described44,49, were provided by S.-W. Lin. Arhgef1fl/fl mice were generated by crossing Arhgef1Tm1a mice with FlpO-deleter mice50, and subsequently crossed with Cre-expressing strains, Ncr1cre (Ncr1tm1.1(icre)Viv), Lyz2cre (Lyz2tm1(cre)Ifo) and Cd4cre (Tg(Cd4-cre)1Cwi) mice to generate conditional-knockout mice, respectively17,18,19. Mice were genotyped by Transnetyx. Pf4cre Ptgs1fl/fl mice have been described previously42 and were housed at the animal facility of the “G. d’Annunzio” University of Chieti-Pescara and the animal experiments were performed under the European Communities Council (EEC) Directive of 22 September 2010 (2010/63/EU) and the National Ethical Committee (authorization no. 434/2024-PR).
+Mouse metastatic melanoma cell lines B16-F10 (purchased from Kerafast) and B78ChOva-mCherry (provided by M. F. Krummel)51 were passaged in DMEM (Thermo Fisher Scientific) supplemented with 10% FBS and antibiotics. For lung metastasis model: mice were injected intravenously with 5 × 105 B16-F10 cells or B78ChOva-mCherry cells in 150 µl Dulbecco’s PBS (DPBS) and lungs were dissected between day 14 and 17 for metastasis enumeration and subsequent analysis. LL/2 murine Lewis lung carcinoma cells were passaged in DMEM supplemented with 10% FBS and antibiotics. Mice were injected with 1 × 106 LL/2 cells in 150 μl DPBS and lungs were dissected on day 17. Lungs were fixed in 4% formalin before being embedded in paraffin. Sections were taken from the centre of the lungs and stained with H&E. Slide images were taken using a Pannoramic digital slide scanner (3DHistech) and analysed using QuPath Software. Tumour burden was calculated as a percentage of total tissue area for each sample. For the liver metastasis model: mice were anaesthetized with isoflurane and a small incision was made in the left flank to expose the spleen. 3.5 × 105 B16-F10 cells suspended in 50 μl DPBS were injected into the spleen. The wound was closed with sutures and skin staples. Mice were euthanized and livers were dissected on day 11 for metastasis enumeration and subsequent analyses. Aspirin (Aspégic, Sanofi Aventis and Sigma) was resuspended in drinking water at 600 mg l−1. TXA2 analogue U46619 (Cayman) was diluted in DMSO and delivered in drinking water at 50 μg kg−1. All the drinking water contained 1% sucrose and was replaced 3–4 times per week. For platelet depletion, mice were administered R300 antibody (Emfret) intraperitoneally at 0.25 mg kg−1 every 2–3 days from 1 day before intravenous injection of tumour cells. For inhibition studies, COX-1 inhibitor SC-560 (SelleckChem and Abcam), COX-2 inhibitor Celecoxib (SelleckChem), P2Y12 inhibitor Ticagrelor (SelleckChem) or vehicle control were administered at 30 mg kg−1 via daily oral gavage 5 days before intravenous injection of tumour cells and continuing throughout the study.
+Mice were palpated for mammary tumours once per week. Mammary tumours were assessed by taking length and width measurements with digital callipers three times a week after the first palpable mammary tumour was detected. When the total mammary tumour area exceeded 2.25 cm2, mice were euthanized and lungs were collected and fixed in 4% formalin before being embedded in paraffin. Sections were taken from the centre of the lungs and stained with H&E. Slide images were taken using a Pannoramic digital slide scanner (3DHistech) and analysed using QuPath Software. Tumour burden was calculated as a percentage of total tissue area for each sample.
+MC38 mouse colorectal cancer cells were passaged in DMEM supplemented with 10% FBS and antibiotics. Mice were injected subcutaneously into one flank with 2.5 × 105 cells in 100 µl PBS. Tumour growth was assessed by taking length and width measurements with digital calipers 3 times a week starting from day 7 after injection.
+For experiments assessing the response of CD8+ T cells to bacterial infections, bacteria were grown in BHI medium to an OD600 of 0.1 before each experiment. The mice were infected with a sub-lethal dose of 5 × 106 colony-forming units attenuated (ΔactA) L. monocytogenes expressing OVA by intravenous administration52. Blood samples were collected via the tail vein at serial time points following infection. CD8+ T cell responses were detected and their phenotypes were analysed by flow cytometry.
+For bone marrow reconstitution experiments, C57BL/6 mice were administered 1,000 Gy total-body γ-radiation from a 137Cs source before intravenous injection of bone marrow cells from single-cell bone marrow preparations from 8- to 12-week-old mice. Mice were administered neomycin for two weeks following irradiation and reconstitution to limit infection risk, and were used in flow cytometry and cancer metastasis experiments at two to three months after reconstitution.
+Single-cell suspensions from lymphoid tissues were prepared by mechanical dissociation through 40-µm cell strainers (BD Biosciences). Lungs were minced in media containing 20 µg ml−1 DNase I (Roche) and 1 mg ml−1 collagenase (Sigma Aldrich) and incubated with agitation at 37 °C for 40 min before also being dissociated through 40-µm cell strainers. Erythrocytes were lysed using ice-cold ACK Lysing Buffer (Gibco) for 5 min. Cells requiring intracellular staining of cytokines were stimulated prior to flow cytometry analysis using PMA, ionomycin, brefeldin A and monensin for 4 h in complete RPMI 1640 (Thermo Fisher Scientific). Viable cells were discriminated by first staining alone with Zombie UV fixable viability dye (Biolegend) or eFluor 780 fixable viability dye (eBioscience) in PBS, according to the manufacturer’s instructions. Cells were then incubated with specific surface antibodies on ice for 40 min in FACS buffer, in the presence of 2.4G2 monoclonal antibodies to block FcγR binding. Cell surface phosphatidylserine was labelled using the eBioscience Annexin V Apoptosis Detection Set (Thermo Fisher Scientific) according to the manufacturer’s protocol. For intracellular staining, the eBioscience Foxp3/Transcription Factor Staining Buffer Set (Thermo Fisher Scientific) or BD Cytofix/Cytoperm Fixation/Permeabilization Kit was used in accordance with the manufacturer’s instructions followed by intracellular staining with fluorochrome-conjugated antibodies for 40 min. Samples were acquired using Cytek Aurora (Cytek), BD LSR Fortessa (BD Biosciences) or Beckman CytoFLEX (Beckman Coulter) cytometers with their respective software: SpectroFlo (v3.3.0), BD FACSDiva (v8.0.1), and CytExpert (v2.5.0.77). Data were analysed using FlowJo v10.10.0 software (TreeStar LLC).
+Antibodies used for flow cytometry are as follows: anti-CD103-Pacific Blue (2E 7, BioLegend, 121418, 1/200), anti-CD127-BV650 (A7R34, BioLegend, 135043, 1/200), anti-CD127-PE-Cy7-A7R34 (BioLegend, 135014, 1/200), anti-CD16/CD32 (93, BioLegend, 101302, 1/200), anti-CD25-PE-Cy7 (PC61, Invitrogen, 25-0251-82, 1/200), anti-CD25-BUV395 (PC61, BD, 564022, 1/200), anti-CD39-AF647 (Duha59, BioLegend, 143808, 1/400), anti-CD4-AF700 (RM4-5, BioLegend, 100536, 1/200), anti-CD4-BV650 (RM4-5, BioLegend, 100546, 1/400), anti-CD44-BV510 (IM7, BioLegend, 103044, 1/200), anti-CD44-BV786 (IM7, BD, 563736, 1/400), anti-CD44-PerCP-Cy5.5 (IM7, Invitrogen, 45-0441-82, 1/400), anti-CD44-APC (IM7, Invitrogen, 17-0441-83, 1/400), anti-CD45.2-ef506 (104, Invitrogen, 69-0454-82, 1/100), anti-CD45.2-FITC (104, BioLegend, 109805, 1/200), anti-CD61-PE (2C9.G3, Invitrogen, 12-0611-82, 1/200), anti-CD62L-BUV737 (MEL-14, BD, 612833, 1/400), anti-CD62L-APC (MEL-14, BioLegend, 104412, 1/400), anti-CD69-PECy5 (H1.2F3, BioLegend, 15-0691-82, 1/300), anti-CD69-PE-Dazzle (H1.2F3, BioLegend, 104536, 1/200), anti-CD8α-BUV395 (53-6.7, BD Horizon, 563786, 1/200), anti-CD8α-BUV805 (53-6.7, BD, 612898, 1/200), anti-CD8α-BV510 (53-6.7, BioLegend, 100752, 1/200), anti-CD8α-FITC, (53-6.7, Invitrogen, 11-0081-86, 1/200), anti-CD90.1-FITC (OX-7, BioLegend, 202503,1/100), anti-CD90.1-PerCP (OX-7, BD, 557266, 1/100), anti-Foxp3-APC (FJK-16S, eBioscience, 17-5773-82, 1/200), anti-IFNγ-BUV737 (XMG1.2, BD, 612769, 1/400), anti-IFNγ-FITC (XMG1.2, BioLegend, 505806, 1/200), anti-IL-2-PE (JES6-5H4, BioLegend, 503808, 1/200), anti-Ki67-PerCP-ef710 (SolA15, Invitrogen, 46-5698-80, 1/200), anti-KLRG1-APC (2F1/KLRG1, BioLegend, 138412, 1/200), anti-KLRG1-BV605(2F1/KLRG1, BioLegend, 138419, 1/200), anti-Ly108-APC (330-AJ, BioLegend, 134610, 1/200), anti-Ly6G-FITC (RB6-8C5, eBioscience, 11-5931-85, 1/400), anti-PD-1-APCef780 (J43, Invitrogen, 47-9985-82, 1/200), anti-PD-1-PE-Cy7 (RMP1-30, BioLegend, 109110, 1/200), anti-pErk T202/Y204-AF488, (197G2, Cell Signalling, 13214S, 1/100), anti-pErk T202/Y204-AF647 (197G2, Cell Signalling, 13148S, 1/100), anti-pS6 S235/6-PE (D57.2.2E, Cell Signalling, 5316S, 1/150), anti-ST2-PerCP-ef710 (RMST2-2, eBioscience, 46-9335-82, 1/200), anti-TCF-1-AF488 (C63D9, Cell Signalling, 6444S, 1/200), anti-TCRβ-BV570, (H57-597, BioLegend, 109231, 1/200), anti-TCRβ-FITC (H57-597, BioLegend, 109206, 1/200), anti-TCRβ-PerCP-Cy5.5 (H57-597, BioLegend, 109228, 1/200), anti-TIGIT-PE-Dazzle (1G9, BioLegend, 142110, 1/100), anti-TIGIT-PE (GIGD7, Invitrogen, 12-9501-82, 1/100), anti-TIM3-BV421 (RMT3-23, BioLegend, 119723, 1/100), anti-TIM3-BV785 (RMT3-23, BioLegend, 119725, 1/100), anti-TNF-APC (MP6-XT22, BioLegend, 506308, 1/200), anti-TNF-BV650 (MP6-XT22, BioLegend, 506333, 1/200), anti-TOX-PE (REA473, Miltenyi, 130-120-716, 1/200) and TER119-FITC (TER119, Invitrogen, MA5-17822, 1/200)
+Data were processed as previously described53,54. In brief, Flow Cytometry Standard (FCS) 3.0 files were first imported in FlowJo version 10.10.0 to eliminate dead cells by manual gating, and select CD45+ leukocytes, subjected to biexponential transformation, then exported for computational analysis by a custom-made script making use of PhenoGraph (K value set at 30). Here, we modified the Linux-community and the core.py script to fix the seed to “123456” (run in Python version 3.7.3). Data were then converted in comma-separated value (CSV) files and merged into a single file by using the pandas package. The obtained data, exported as new CSV file (one for each cluster), were further imported in FlowJo and analysed to define the percentage of cells positive for each protein as well as their median fluorescent intensity. Data were finally metaclustered using the gplots R package. UMAP was performed with the UMAP Python package.
+Pre-enrichment of CD8+ T cells from single-cell suspensions was done using the MagniSort Mouse CD8+ T cell Enrichment Kit (Thermo Fisher Scientific) according to the manufacturer’s protocol. Markers required for cell sorting were stained using flow cytometry cell surface antibodies, diluted 1/100, while cell suspensions were being labelled with the Enrichment Antibody Cocktail from the kit. Cells were filtered again and resuspended in RPMI 1640 containing DAPI for live/dead discrimination before sorting. Cell sorting was performed using a BD Fusion or Aria instrument (BD Biosciences). Cells were sorted into solutions of RPMI 1640 supplemented with 25% Charcoal-Stripped FBS (Gibco) before being prepared for experiments as described below.
+Naive CD8+ T cells were isolated by FACS from the spleens and lymph nodes of wild-type and Arhgef1-KO mice and stimulated with immobilized Ultra-LEAF purified anti-mouse CD3ε (BioLegend) and Ultra-LEAF purified anti-mouse CD28 (37.51; BioLegend) in culture medium containing rhIL-2 (5 ng ml−1; Peprotech) for 4–5 days. In some cases, cells were labelled with 2.5 μM CTV proliferation dye (Thermo Fisher) before stimulation, according to the manufacturer’s instructions.
+Naive CD8+ T cells were purified as described above by FACS from the spleens and lymph nodes of wild-type and Arhgef1-KO mice. Purified naive CD8+ T cells (0.8 × 105) labelled with 2.5 μM CTV were activated by plate-bound anti-CD3ε and soluble anti-CD28 (5 µg ml−1 each; BioLegend) in lipid-free medium containing 10% charcoal-stripped FBS for 5 days in the presence of rhIL-2 (5 ng ml−1) and Gα12/13 GPCR ligands as follows: CXCL12 (1 μg ml−1; R&D), Thrombin (10 units ml−1; Sigma Aldrich), PAR1 peptide (10 μM; Abcam), PAR2 peptide (10 μM; Abcam), S1P (5 μM; Acros Organics), 20:4 LysoPI (1 μM; Avanti Polar Lipids), 18:1 LysoPS (1 μM; Avanti Polar Lipids), LPA (1 μM; Avanti Polar Lipids), 9-HODE (1 μM; Cayman), histamine dihydrochloride (5 mM; Sigma Aldrich), prostaglandin E2 (0.5 μM; Cayman) and U46619 (5 μM; Calbiochem). At the end of the cell culture, cells were collected, and cell proliferation and activation were measured by flow cytometry. For the inhibition study, cells were treated with the TP inhibitor SQ 29548 (Cayman) at the concentration of 10 μM, beginning 1 h before stimulation and continuing until the end of the cell culture.
+CD8+ T cells from wild-type and Arhgef1-KO OT-1 TCRtg mice were stimulated in vitro with 10 nM OVA257–264 peptide in the presence of rhIL-2 for 2 days, followed by a 3-day expansion with rhIL-2. Before TCR crosslinking, cells were serum-starved overnight in RPMI 1640 containing 0.1% fatty acid-free BSA (Sigma Aldrich). Cells were then incubated with soluble anti-CD3ε antibody (Thermo Fisher Scientific) at 4 °C for 20 min. After washing, CD3 molecules bound with anti-CD3ε antibodies were crosslinked using goat anti-Armenian hamster IgG (H+L) (Jackson ImmunoResearch) in a lipid-free medium containing 5 μM U46619 or DMSO control for 5 min. For western blots, following crosslinking, cells were immediately lysed in Pierce RIPA buffer with cOmplete Mini protease and PhosSTOP phosphatase inhibitor cocktails (Roche). Cells were then denatured in 2× Laemmli buffer (Bio-Rad) with 2-mercaptoethanol and boiled for 10 min at 98 °C before gel loading. Western blotting on PVDF membrane was performed using TGX reagents (Bio-Rad Laboratories) and protocols. Following transfer, blots were blocked with 5% BSA then incubated with primary antibodies against pAkt-Ser 473 (193H12, Cell Signaling), pan-Akt (9272, Cell Signaling), pS6-Ser 235/236 (D57.2.2E, Cell Signaling), S6 (5G10, Cell Signaling), pMEK1/2-Ser 217/221 (9121, Cell Signaling), MEK1/2 (9122, Cell Signaling), pERK1/2-Thr202/Tyr204 (D13.14.4E, Cell Signaling), ERK1/2 (3A7, Cell Signaling), ARHGEF1 (D25D2, Cell Signaling), β-actin (AC74, Sigma Aldrich) and GAPDH (1E6D9, Proteintech) with appropriate horseradish peroxidase-conjugated secondary antibodies (Bio-Rad). Horseradish peroxidase-conjugated secondary antibodies blots were developed using chemiluminescence (Thermo Fisher) and gel images were captured in the darkroom using photographic films. For inhibition studies, cells were pre-treated for 1 h with the following inhibitors: AKT inhibitor VIII (1 μM, Calbiochem), TP inhibitor SQ 29548 (10 μM, Cayman), ROCK inhibitors Y-27632 (30 μM, Tocris) and GSK269962A (10 μM, ApexBio) or PTEN inhibitor bpV(pic) (2.5 μM, Sigma Aldrich) before TCR crosslinking.
+Single-cell suspensions from the spleens and lymph nodes and lungs from mice of indicated genotype and treatments were prepared as described above except for using lipid-free medium throughout the procedure. Two-to-three million cells were incubated with specific surface antibodies and soluble anti-CD3ε antibody (Thermo Fisher Scientific) at 4 °C for 30 min. After washing, CD3 molecules bound with anti-CD3ε antibodies were crosslinked using goat anti-Armenian hamster IgG (H+L) (Jackson ImmunoResearch) in a lipid-free medium containing 5 μM U46619 or vehicle control for 5 min. Following crosslinking, the cells were immediately fixed with ice-cold 2% formaldehyde at 4 °C for 20 min. After fixation, the cells were permeabilized with ice-cold 90% methanol at 4 °C for 20 min. Phosphorylation of S6 and ERK was measured by flow cytometry using anti-pERK T202/Y204 AF488- or AF647-conjugated antibodies (197G2) and anti-pS6 S235/6-PE or -AF647 (D57.2.2E) antibodies.
+The activity of RHOA was measured using the RHOA Pull-Down Activation Assay Biochem Kit (Cytoskeleton). Following overnight serum starvation, 10 × 106 wild-type and Arhgef1-KO OT-1 TCRtg CD8+ T cells were stimulated with 5 μM U46619 for 5 min at 37 °C. Cells were immediately spun down, washed and lysed in the lysis buffer with the phosphatase and protease inhibitor cocktails at 4 °C. Fifty micrograms of Rhotekin-RBD beads (Cytoskeleton) were added to the lysates and rotated for 1 h at 4 °C. The samples were spun down, washed three times, denatured in 2× Laemmli buffer with 2-mercaptoethanol and boiled for 10 min at 98 °C before gel loading. The primary antibody against RHOA (Abcam) was used for western blotting.
+Platinum-E ecotropic packaging cells (Cell Biolabs) were plated one day before transfections on poly-d-lysine-coated 10-cm plates (Corning) at a concentration of 6 × 106 cells per plate. Packaging cells were transfected with 10 μg of retroviral plasmid DNA encoding MSCV-IRES-Thy1.1 (pMIT) or pMIT-RHOACA along with 6 μg pCL-Eco plasmid DNA using Transit293 (Sigma Aldrich) in OptiMEM (Thermo Fisher Scientific) for 8 h in antibiotic-free medium. Medium was replaced 8 h after transfection and cells were incubated for a further 48 h. Retroviral supernatants were used to spinfect Cas9-expressing OT-1 TCRtg CD8+ T cells following stimulation with 10 nM OVA257–264 peptide for 24 h. In brief, CD8+ T cells were collected, suspended in viral supernatant and spun at 2,000g for 2 h at 32 °C in 24-well plates in the presence of 8 μg ml−1 polybrene (Sigma Aldrich) with slow acceleration and deceleration. Cells were cultured for 3–4 further days in rhIL-2-containing media prior to acute restimulation and phospho-flow assays.
+For CRISPR–Cas9 mutagenesis, three different pairs of sgRNAs for Rhoa were designed using the CRISPick tool (Broad Institute), subcloned into optimized retroviral MSCV-sgRNA-puro-Thy1.1 vectors and retrovirally transduced to Cas9-expressing CD8+ T cells as described above. Deletion of Tbxa2r in naive T cells was as previously described55. In brief, three different sgRNAs targeting Tbxa2r: 5′-CCAGAGAAGCTCATGACAGG-3′, 5′-UUAGGAGCCAUGUGGCCCAA-3′ and 5′-CGAGGUGCCAUUGGGCCACA-3′ or their negative control: scrambled sgRNA#1 (Synthego) were incubated with Alt-R S.p.HiFi Cas9 Nuclease V3 Cas9 (Integrated DNA Technologies) to form sgRNA–Cas9 ribonuclear protein complexes before electroporating into naive MACS-sorted CD8+ T cells labelled with CTV using a Lonza 4D-Nucleofector system (DS137). Cells were rested overnight before activation in culture for 3 days by plate-bound anti-CD3ε and soluble anti-CD28 (2 µg ml−1 each; BioLegend) and rhIL-2 (5 ng ml−1) in lipid-free medium containing 5 μM U46619 or vehicle control.
+Lung tissues were immediately immersed in the RNAlater Stabilization solution (Thermo Fisher Scientific) for storage at −80 °C. The whole tissue was homogenized in 1 ml RLT Plus lysis buffer (Qiagen) by using a Qiagen TissueLyser II homogenizer and RNA was isolated by using the RNeasy Plus Mini kit (Qiagen) according to the manufacturer’s instructions. Naive CD8+ T cells (CD62L+CD44−CD8+) were purified by total CD8+ T cells enrichment followed by FACS, as described above and activated by plate-bound anti-CD3 and soluble anti-CD28 (5 µg ml−1 each) in lipid-free medium containing 10% Charcoal-Stripped FBS for 5 days in the presence of recombinant rhIL-2 (5 ng ml−1) and U46619 (1 μM). Cells were then pelleted and resuspended in 40 µl RNAlater Stabilization solution for storage at −80 °C. Processing of cell samples was performed using the QIAshredder Kit (Qiagen) and RNA was then extracted using the RNeasy Plus Mini Plus Kit (Qiagen) according to the manufacturer’s protocol. RNA libraries were prepared by Novogene using the mRNA library preparation kit (poly A enrichment) and sequencing was performed by Novogene on NovaSeq PE150. The FastQ files were then subjected to quality control using FastQC and then alignment to the NCBIM37 Mus musculus genome annotation using the STAR workflow. Differential gene expression analysis was performed on all expressed genes (>20 detected reads) using DESeq256, and differentially expressed genes were further analysed and visualized using R. Expression heat maps were generated with the R package heatmap.
+Lungs were fixed in 4% formalin before being embedded in paraffin. Sections were taken from the centre of the lungs and stained with H&E, using routine histology methods. Slides were genotype-blinded and independently scored for pathological features.
+Urine samples from mice that received intravenous injections of B16-F10 cells were collected using metabolic cages. Systemic biosynthesis of prostaglandin E2, prostaglandin D2, prostaglandin I2 and TXA2 was evaluated by quantifying their major urinary enzymatic metabolites: PGEM, PGDM, PGIM and TXM, respectively, using liquid chromatography–tandem mass spectrometry as previously described42,57,58. Urine samples (0.2 ml aliquots) were added with internal standards: tetranor PGEM-d6 (final concentration of 10 ng ml−1, Cayman), tetranor PGDM-d6 (final concentration of 10 ng ml−1, Cayman), 2,3-dinor-6-keto-PGF1α-d9 (sodium salt) (final concentration of 10 ng ml−1, Cayman) and 2,3-dinor-TXB2-d9 (final concentration of 10 ng ml−1, Cayman). Samples were incubated at room temperature for 15 min, followed by addition of formic acid (5 μl). After 15 min of incubation, methoxyamine HCl (1 g ml−1, 0.1 ml) (Sigma Aldrich) was added. Following 30 min of incubation at room temperature, urine samples were diluted to 1 ml with water adjusted to pH 3 with HCl and extracted with Number Strata-X 33u polymeric reversed phase (30 mg ml−1, Phenomenex) that had been preconditioned with 1 ml of acetonitrile and 1 ml of water58,59. The Number Strata-X 33u polymeric reversed phase column loaded with samples was washed with 1 ml of water (5% acetonitrile) and then eluted with 1 ml of 5% acetonitrile in ethyl acetate. The eluate was evaporated, and the dried residue was resuspended in 100 μl mobile phase (10% acetonitrile in water), and 30 μl was injected into an ACQUITY UPLC I-Class/Xevo TQS micro-IVD System (Waters) equipped with an electrospray ionization source (ESI Z-Spray), under negative ionization conditions, as previously described58.
+Platelets were isolated as previously described60. In brief, blood was collected via cardiac puncture using syringes containing 100 μl of acid citrate dextrose (Sigma Aldrich) from B16-F10 bearing mice. Samples were immediately mixed with modified Tyrode’s buffer to prevent premature activation of platelets. Blood was centrifuged at 300g for 5 min and the uppermost platelet-rich plasma (PRP) layer was collected. PRP was subsequently centrifuged at 200g for 8 min to increase purity. Prostacyclin I2 (Sigma Aldrich) was added at a final concentration of 1 μg ml−1 to limit premature platelet activation and the sample was immediately centrifuged for 11 min at 1,000g. The cells were resuspended in modified Tyrode’s buffer. Platelet count and purity were determined by flow cytometry using the following antibodies: Armenian hamster anti-mouse/rat CD61-PE antibody (2C9.G2, BioLegend), rat anti-mouse Ter119-FITC antibody (TER119, eBioscience) and anti-mouse CD45.2-PerCp-Cy5.5 antibody (Ly5.2). Platelet purity was greater than 90%.
+Platelets and naive FACS-sorted CD8+ T cells labelled with 2.5 μM CTV were co-cultured with a ratio of 30:1 in 24-well transwell plates (0.4 μm pore size, Corning). Naive CD8+ T cells on the bottom of the transwell were activated by plate-bound anti-CD3ε and soluble anti-CD28 (5 µg ml−1 each) in a lipid-free medium in the presence of rhIL-2 (5 ng ml−1) as described above. After 5 days, supernatants were carefully collected and TXB2 levels were measured using a Thromboxane B2 ELISA Kit (Cayman) according to the manufacturer’s instructions. T cells were collected and processed for flow cytometry as previously described.
+CD8+ T cells from wild-type and Arhgef1-KO OT-1 TCRtg mice were generated in vitro for 5 days as described above. 5 × 105 serum-starved cells were seeded on 13-mm coverslips (VWR) pre-coated with 10 μg ml−1 Ultra-LEAF™ purified anti-mouse CD3ε in a 24-well plate. Cells were stimulated with 10 μM U-46619 or DMSO control for 10 min at 37 °C. After fixation and washing with 15 mM glycine and PBS. Coverslips were blocked with Fc blocking anti-FcR antibody (clone 2.4G2, BD). Cells were then incubated with the rabbit anti-mouse PTEN (138G6, Cell Signalling) antibody, followed by the donkey anti-rabbit IgG-Alexa Fluor 647 (A31573, Thermo-Fischer) antibody and Coralite 594-Phalloidin (Proteintech). Coverslips were mounted onto VWR SuperFrost Microscopy Slides (Appleton Woods MS527) using ProLong Diamond Antifade Mountant with DAPI (Thermo-Fischer P36962). For inhibition experiments, cells were pre-treated with 10 μM TP inhibitor SQ 29548, ROCK inhibitors 30 μM Y-27632 and 10 μM GSK269962A or DMSO for 1 h before seeding.
+Images were captured on a Leica TCS SP8 inverted confocal microscope using the Leica Application Suite X (LAS X) software (v1.4.6.28433) with a 63× oil-immersion objective lens, in three channels, F-actin (yellow) and PTEN (red) plus a DAPI nuclear counterstain (blue) to locate the cells. z-stacks were obtained to capture the entirety of cells in each region. Three to five distinct locations were imaged for each replicate of each treatment condition. Images analysed were maximum intensity projections of four consecutive z-slices selected from the centre of a cross-volume image stack. An image analysis pipeline was constructed using Cellprofiler 461. In brief, cell masks were generated from the F-actin image using as a seed a nuclei mask segmented from the DAPI image. These cell masks could be further compartmentalized into membrane and cytoplasmic regions by using the F-actin image. Ratiometric measurements of mean fluorescence intensity of PTEN on the membrane versus intracellular were used to report its re-localization to the membrane.
+Every expressed gene detected in the RNA-seq experiment in Fig. 4a (14,025 genes; Supplementary Table 3) was subject to single-sample Gene Set Enrichment Analysis (ssGSEA) analysis62. ssGSEA was used to test the relative enrichment of each gene set comprising the MsigDB C7 Immunologic signature gene sets in the total expressed gene transcriptional profile of each replicate sample. ssGSEA first calculates for each sample the differential expression of each expressed gene between that sample and the remainder of the samples. The list of expressed genes in each sample is then ranked by their level of differential expression compared to the other samples. The non-random distribution (enrichment) of genes within each C7 gene set for each sample is then calculated, yielding a sample enrichment score for each gene set per sample. This is achieved by analysing the distribution of the genes in each C7 gene set in the list of expressed genes rank ordered by their differential expression for each sample. The sample enrichment score for each differentially enriched gene set (false discovery rate (FDR) < 0.2, |FC| > 1.5) is represented in the heat map provided and the identity of each gene set in the heat map is given in Supplementary Table 4. Each gene within each of the gene sets included in the analysis can be looked up using the following link: https://www.gsea-msigdb.org/gsea/msigdb/human/genesets.jsp?collection=C7.
+Validated B16-F10 melanoma cells were obtained from ATCC. Plat-E cells were obtained from Cell Biolabs. Validated MC38 colorectal adenocarcinoma cells were obtained from Kerafast. All lines were validated as mycoplasma-free by suppliers and expanded at low passage frequency before cryopreservation.
+Data were analysed using unpaired two-tailed Student’s t tests, Mann–Whitney U-test, ordinary one-way ANOVA or two-way ANOVA test where stated. Most experiments did not require blinding since objective quantitative assays, such as flow cytometry, were used. For tumour experiments littermate controls or age- and sex-matched mice of different genotypes were randomized and the operator blinded to genotype before injection and again before counting of metastatic nodules or assessment of histology images to allow for objective assessment. Experimental sample sizes were chosen using power calculations, preliminary experiments, or were based on previous experience of variability in similar experiments. Samples which had undergone technical failure during processing were excluded from subsequent analysis.
+Further information on research design is available in the Nature Portfolio Reporting Summary linked to this article.
+RNA-seq data are deposited in the Gene Expression Omnibus (GEO) database under the accession numbers GSE281884 and GSE281885. Source data are provided with this paper.
+Valastyan, S. & Weinberg, R. A. Tumor metastasis: molecular insights and evolving paradigms. Cell 147, 275–292 (2011).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Sung, H. et al. Global Cancer Statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J. Clin. 71, 209–249 (2021).
+Article 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Massagué, J. & Obenauf, A. C. Metastatic colonization by circulating tumour cells. Nature 529, 298–306 (2016).
+Article 
+    ADS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+Sosa, M. S., Bragado, P. & Aguirre-Ghiso, J. A. Mechanisms of disseminated cancer cell dormancy: an awakening field. Nat. Rev. Cancer 14, 611–622 (2014).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+Patrono, C., García Rodríguez, L. A., Landolfi, R. & Baigent, C. Low-dose aspirin for the prevention of atherothrombosis. N. Engl. J. Med. 353, 2373–2383 (2005).
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar
+Rothwell, P. M. et al. Effect of daily aspirin on risk of cancer metastasis: a study of incident cancers during randomised controlled trials. Lancet 379, 1591–1601 (2012).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Elwood, P. C. et al. Aspirin and cancer survival: a systematic review and meta-analyses of 118 observational studies of aspirin and 18 cancers. ecancermedicalscience 15, 1258 (2021).
+Article 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Mills, E. J. et al. Low-dose aspirin and cancer mortality: a meta-analysis of randomized trials. Am. J. Med. 125, 560–567 (2012).
+Article 
+    ADS 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Reimers, M. S. et al. Expression of HLA class I antigen, aspirin use, and survival after a diagnosis of colon cancer. JAMA Intern. Med. 174, 732–739 (2014).
+Article 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Smith, W. L., DeWitt, D. L. & Garavito, R. M. Cyclooxygenases: structural, cellular, and molecular biology. Annu. Rev. Biochem. 69, 145–182 (2000).
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar
+Ricciotti, E. & FitzGerald, G. A. Prostaglandins and inflammation. Arterioscler. Thromb. Vasc. Biol. 31, 986–1000 (2011).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+van der Weyden, L. et al. Genome-wide in vivo screen identifies novel host regulators of metastatic colonization. Nature 541, 233–236 (2017).
+Article 
+    ADS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+Whitehead, I. P. et al. Expression cloning of lsc, a novel oncogene with structural similarities to the Dbl family of guanine nucleotide exchange factors. J. Biol. Chem. 271, 18643–18650 (1996).
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar
+Girkontaite, I. et al. Lsc is required for marginal zone B cells, regulation of lymphocyte motility and immune responses. Nat. Immunol. 2, 855–862 (2001).
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar
+Guy, C. T., Cardiff, R. D. & Muller, W. J. Induction of mammary tumors by expression of polyomavirus middle T oncogene: a transgenic mouse model for metastatic disease. Mol. Cell. Biol. 12, 954–961 (1992).
+CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Aasheim, H. C., Pedeutour, F. & Smeland, E. B. Characterization, expression and chromosomal localization of a human gene homologous to the mouse Lsc oncogene, with strongest expression in hematopoetic tissues. Oncogene 14, 1747–1752 (1997).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Narni-Mancinelli, E. et al. Fate mapping analysis of lymphoid cells expressing the NKp46 cell surface receptor. Proc. Natl Acad. Sci. USA 108, 18324–18329 (2011).
+Article 
+    ADS 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+Clausen, B. E., Burkhardt, C., Reith, W., Renkawitz, R. & Förster, I. Conditional gene targeting in macrophages and granulocytes using LysMcre mice. Transgenic Res. 8, 265–277 (1999).
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar
+Lee, P. P. et al. A critical role for Dnmt1 and DNA methylation in T cell development, function, and survival. Immunity 15, 763–774 (2001).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+De Groot, R. et al. Polyfunctional tumor-reactive T cells are effectively expanded from non-small cell lung cancers, and correlate with an immune-engaged T cell profile. OncoImmunology 8, e1648170 (2019).
+Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+Spranger, S. et al. Mechanism of tumor rejection with doublets of CTLA-4, PD-1/PD-L1, or IDO blockade involves restored IL-2 production and proliferation of CD8+ T cells directly within the tumor microenvironment. J. Immunother. Cancer 2, 3 (2014).
+Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+Zajac, A. J. et al. Viral immune evasion due to persistence of activated T cells without effector function. J. Exp. Med. 188, 2205–2213 (1998).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Sakuishi, K. et al. Targeting Tim-3 and PD-1 pathways to reverse T cell exhaustion and restore anti-tumor immunity. J. Exp. Med. 207, 2187–2194 (2010).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Wherry, E. J. T cell exhaustion. Nat. Immunol. 12, 492–499 (2011).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Wherry, E. J. & Kurachi, M. Molecular and cellular insights into T cell exhaustion. Nat. Rev. Immunol. 15, 486–499 (2015).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+Kaech, S. M. et al. Selective expression of the interleukin 7 receptor identifies effector CD8 T cells that give rise to long-lived memory cells. Nat. Immunol. 4, 1191–1198 (2003).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Hart, M. J. et al. Direct stimulation of the guanine nucleotide exchange activity of p115 RhoGEF by Gα13. Science 280, 2112–2114 (1998).
+Article 
+    ADS 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Kozasa, T. et al. p115 RhoGEF, a GTPase activating protein for Gα12 and Gα13. Science 280, 2109–2111 (1998).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Glaven, J. A., Whitehead, I. P., Nomanbhoy, T., Kay, R. & Cerione, R. A. Lfc and Lsc oncoproteins represent two new guanine nucleotide exchange factors for the Rho GTP-binding protein. J. Biol. Chem. 271, 27374–27381 (1996).
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar
+Inoue, A. et al. Illuminating G-protein-coupling selectivity of GPCRs. Cell 177, 1933–1947.e1925 (2019).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Kabashima, K. et al. Thromboxane A2 modulates interaction of dendritic cells and T cells and regulates acquired immunity. Nat. Immunol. 4, 694–701 (2003).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Luckey, C. J. et al. Memory T and memory B cells share a transcriptional program of self-renewal with long-term hematopoietic stem cells. Proc. Natl Acad. Sci. USA 103, 3304–3309 (2006).
+Article 
+    ADS 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Li, Z. et al. Regulation of PTEN by Rho small GTPases. Nat. Cell Biol. 7, 399–404 (2005).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Takata, M. et al. Fasudil, a rho kinase inhibitor, limits motor neuron loss in experimental models of amyotrophic lateral sclerosis. Br. J. Pharmacol. 170, 341–351 (2013).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Bouafia, A. et al. Loss of ARHGEF1 causes a human primary antibody deficiency. J. Clin. Invest. 129, 1047–1060 (2019).
+Article 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Cantrell, D. T cell antigen receptor signal transduction pathways. Annu. Rev. Immunol. 14, 259–274 (1996).
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar
+Brown, J. P. et al. Arhgef1 is required by T cells for the development of airway hyperreactivity and inflammation. Am. J. Respir. Crit. Care Med. 176, 10–19 (2007).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Longenecker, K. et al. Structure of a constitutively activated RhoA mutant (Q63L) at 1.55 A resolution. Acta Crystallogr. D 59, 876–880 (2003).
+Article 
+    ADS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Macintyre, A. N. et al. Protein kinase B controls transcriptional programs that direct cytotoxic T cell fate but is dispensable for T cell metabolism. Immunity 34, 224–236 (2011).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+Crompton, J. G. et al. Akt inhibition enhances expansion of potent tumor-specific lymphocytes with memory cell characteristics. Cancer Res. 75, 296–305 (2015).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Lindsley, C. W. et al. Allosteric Akt (PKB) inhibitors: discovery and SAR of isozyme selective inhibitors. Bioorg. Med. Chem. Lett. 15, 761–764 (2005).
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar
+Sacco, A. et al. Platelet-specific deletion of cyclooxygenase-1 ameliorates dextran sulfate sodium–induced colitis in mice. J. Pharmacol. Exp. Ther. 370, 416–426 (2019).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Bruno, A. et al. The specific deletion of cyclooxygenase-1 in megakaryocytes/platelets reduces intestinal polyposis in ApcMin/+ mice. Pharmacol. Res. 185, 106506 (2022).
+Article 
+    ADS 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Yu, I.-S. et al. TXAS-deleted mice exhibit normal thrombopoiesis, defective hemostasis, and resistance to arachidonate-induced death. Blood 104, 135–142 (2004).
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar
+McNeil, J. J. et al. Effect of aspirin on cancer incidence and mortality in older adults. J. Natl Cancer Inst. 113, 258–265 (2021).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Joshi, N. S. et al. Inflammation directs memory precursor and short-lived effector CD8+ T cell fates via the graded expression of T-bet transcription factor. Immunity 27, 281–295 (2007).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+Gebhardt, T., Park, S. L. & Parish, I. A. Stem-like exhausted and memory CD8+ T cells in cancer. Nat. Rev. Cancer 23, 780–798 (2023).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Zelenay, S. et al. Cyclooxygenase-dependent tumor growth through evasion of immunity. Cell 162, 1257–1270 (2015).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Thomas, D. W. et al. Coagulation defects and altered hemodynamic responses in mice lacking receptors for thromboxane A2. J. Clin. Invest. 102, 1994–2001 (1998).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Kranz, A. et al. An improved Flp deleter mouse in C57Bl/6 based on Flpo recombinase. Genesis 48, 512–520 (2010).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Broz, M. L. et al. Dissecting the tumor myeloid compartment reveals rare activating antigen-presenting cells critical for T cell immunity. Cancer Cell 26, 638–652 (2014).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Pearce, E. L. & Shen, H. Generation of CD8 T cell memory is regulated by IL-121. J. Immunol. 179, 2074–2081 (2007).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Brummelman, J. et al. Development, application and computational analysis of high-dimensional fluorescent antibody panels for single-cell flow cytometry. Nat. Protoc. 14, 1946–1969 (2019).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Alvisi, G. et al. IRF4 instructs effector Treg differentiation and immune suppression in human cancer. J. Clin. Invest. 130, 3137–3150 (2020).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Seki, A. & Rutz, S. Optimized RNP transfection for highly efficient CRISPR/Cas9-mediated gene knockout in primary T cells. J. Exp. Med. 215, 985–997 (2018).
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+Love, M. I., Huber, W. & Anders, S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol. 15, 550 (2014).
+Article 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+D’Agostino, I. et al. Low-dose aspirin prevents hypertension and cardiac fibrosis when thromboxane A2 is unrestrained. Pharmacol. Res. 170, 105744 (2021).
+Article 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Song, W. L., Lawson, J. A., Wang, M., Zou, H. & FitzGerald, G. A. in Methods in Enzymology, vol. 433 (ed. Brown, H. A.) 51–72 (Academic Press, 2007).
+Saul, M. J. et al. miR-574-5p as RNA decoy for CUGBP1 stimulates human lung tumor growth by mPGES−1 induction. FASEB J. 33, 6933–6947 (2019).
+Article 
+    CAS 
+    PubMed 
+    MATH 
+    
+                    Google Scholar
+Aurbach, K., Spindler, M., Haining, E. J., Bender, M. & Pleines, I. Blood collection, platelet isolation and measurement of platelet count and size in mice-a practical guide. Platelets 30, 698–707 (2019).
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar
+Stirling, D. R. et al. CellProfiler 4: improvements in speed, utility and usability. BMC Bioinformatics 22, 433 (2021).
+Article 
+    PubMed 
+    PubMed Central 
+    MATH 
+    
+                    Google Scholar
+Barbie, D. A. et al. Systematic RNA interference reveals that oncogenic KRAS-driven cancers require TBK1. Nature 462, 108–112 (2009).
+Article 
+    ADS 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar
+Download references
+The authors thank members of University of Cambridge Biomedical Services and the Babraham Institute Biological Support Facility for technical support with mouse experiments; members of the flow cytometry facilities at the University of Cambridge Department of Pathology and the Babraham Institute Flow Cytometry Facilities for their assistance with cell sorting and analysis. The research was supported by Medical Research Council grants MR/Y013301/1, MR/W018454/1 and MR/S024468/1, Wellcome Trust/Royal Society grant 105663/Z/14/Z and an ERC Consolidator Award EP/X024709/1 awarded to R.R. and a JSPS Overseas Research Fellowship awarded to Y.Y.-K. E.L. is supported by the CRI Lloyd J. Old STAR (CRI award 3914) and by the Associazione Italiana per la Ricerca sul Cancro (AIRC, IG 2022–ID 27391 and AIRC 5×1000 programme UniCanVax 22757). P.P. is supported by the Associazione Italiana per la Ricerca sul Cancro (AIRC, IG 2017, ID 20365).
+Annalisa Bruno
+Present address: A. B. Department of Innovative Technologies in Medicine and Dentistry, “G. d’Annunzio” University of Chieti-Pescara, Chieti, Italy
+Department of Pathology, University of Cambridge, Cambridge, UK
+Jie Yang, Yumi Yamashita-Kanemaru, Benjamin I. Morris, Jingru Xu, Ilinca Patrascan, Jayme Benson, Alexander C. Evans, Alberto G. Conti, Aws Al-Deka, Layla Dahmani, Adnan Avdic-Belltheus, Baojie Zhang, Sarah K. Whiteside, Charlotte J. Imianowski, Alexander J. Wesolowski, Klaus Okkenhaug & Rahul Roychoudhuri
+Systems Pharmacology and Translational Therapeutics Laboratory, Center for Advanced Studies and Technology (CAST), “G. d’Annunzio” University of Chieti-Pescara, Chieti, Italy
+Annalisa Contursi, Stefania Tacconelli, Annalisa Bruno, Sara Di Berardino, Alessandra De Michele & Paola Patrignani
+Department of Neuroscience, Imaging and Clinical Science, “G. d’Annunzio” University of Chieti-Pescara, Chieti, Italy
+Annalisa Contursi, Stefania Tacconelli, Annalisa Bruno, Sara Di Berardino, Alessandra De Michele & Paola Patrignani
+Department of Surgery, University of Cambridge and NIHR Cambridge Biomedical Research Centre, Cambridge, UK
+Daniel Trajkovski & Kourosh Saeb-Parsy
+Babraham Institute, Babraham, UK
+Hanneke Okkenhaug & Heidi C. E. Welch
+Francis Crick Institute, London, UK
+Louise V. Webb
+Laboratory of Translational Immunology, IRCCS Humanitas Research Hospital, Rozzano, Italy
+Simone Puccio & Enrico Lugli
+Laboratory Animal Center, College of Medicine, National Taiwan University, Taipei, Taiwan
+I-Shing Yu
+Department of Clinical Laboratory Science and Medical Biotechnology, College of Medicine, National Taiwan University, Taipei, Taiwan
+Shu-Wha Lin
+Inserm UMR1277, CNRS UMR9020-CANTHER, Université de Lille, Lille University Hospital, Lille, France
+Suman Mitra
+Wellcome Sanger Institute, Wellcome Genome Campus, Cambridge, UK
+Louise van der Weyden & David J. Adams
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+You can also search for this author in
+                        PubMed Google Scholar
+J.Y., Y.Y.-K., B.I.M., A.A.-D., A.C., D.T., J.X., I.P., J.B., A.C.E., A.G.C., L.D., A.A.-B., B.Z., S.T., A.B., S.D.B. and A.D.M. performed experiments. J.Y., B.I.M., J.X., I.P., J.B., A.J.W., H.O., L.V.W., P.P. and R.R. analysed data. S.K.W., C.J.I., L.V.W., S.P., H.C.E.W., I.-S.Y., S.-W.L., S.M., E.L., L.v.d.W., K.O., K.S.-P., P.P. and D.J.A. provided tools, reagents and discussed results. J.Y. and R.R. wrote the manuscript.
+Correspondence to
+                Jie Yang or Rahul Roychoudhuri.
+R.R. is a scientific advisor for Enhanc3D Genomics and OligoTune Ltd and holds industrially funded collaborations with AstraZeneca PLC and F-Star Therapeutics on topics unrelated to this study. E.L. receives research grants from Bristol Meyers Squibb on a topic unrelated to this study and served as a consultant for BD Biosciences. The remaining authors declare no competing interests.
+Nature thanks Andrew Chan, Shuh Narumiya and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+a, Representative flow cytometry plots (left) and number (right) of mCherry+ CD45– tumour cells in lungs of WT and Arhgef1 KO littermates 17 days after intravenous (i.v.) injection of B78ChOva-mCherry cells. b, Representative photomicrographs of haematoxylin and eosin (H&E) stains of lung sections from wildtype and Arhgef1-deficient animals 17 days after intravenous injection of syngeneic LL/2 lung adenocarcinoma cells. Arrows indicate metastatic deposits. c, Representative photomicrographs of H&E stains of liver sections from wildtype and Arhgef1-deficient animals 11 days after intrasplenic injection of syngeneic B16-F10 melanoma cells. Arrows indicate metastatic deposits. d, Cumulative area of primary mammary tumours arising in Arhgef1-WT (n = 15) and -KO (n = 9) MMTV-PyMT female littermate mice at the indicated ages (left) and survival time to cumulative area of 2.25 cm2, at which time point lungs were harvested for histopathology analysis. Log-rank test; P = 0.31. e, Area of tumours of WT (n = 7) and Arhgef1 KO (n = 5) littermates was measured at the indicated time points following subcutaneous implantation of MC38 colorectal adenocarcinoma cells. Data are representative of five (a) and two (e) independent experiments or pooled from three (d) independent experiments. Unpaired two-tailed Student’s t test (a). Graphs show mean ± s.e.m.
+Source data
+Frequency of mature haematopoietic lineages within tumour-bearing lungs of WT (n = 9) and Arhgef1 KO (n = 9) littermates 16 days after intravenous injection of B16 cells. Data are pooled from two independent experiments. Unpaired two-tailed Student’s t test. Graphs show mean ± s.e.m.
+Source data
+a, Flow cytometry plots (left) and replicate measurements (right) of the number of mCherry+ CD45– tumour cells in lungs of Cd4Cre (cWT = 9) and Arhgef1fl/fl Cd4Cre (cKO =10) animals 17 days after intravenous (i.v.) injection of B78ChOva cells. b, Quantification of CD4+ (left) and CD8+ (right) T cells from tumour-bearing lungs of cWT (n = 21) and cKO (n = 20) mice 17 days after i.v. injection of tumour cells. c, Relative frequency of CD8+ T cells within all 15 phenograph clusters (data for clusters 4, 9, 10 and 14 also shown in Fig. 2g, as noted in Source Data) from lungs of B78ChOva tumour-bearing and non-tumour-bearing mice of the indicated genotypes (tumour-bearing cWT, n = 11; tumour-bearing Arhgef1 cKO, n = 10; cWT, n = 3; cKO, n = 4). d, PD-1 and TIGIT expression on effector CD8+ T cells within tumour-bearing lungs of animals in (c) of the indicated genotypes. Representative flow cytometry plots (left) and replicate measurements (right). Data are representative of five (a) and two (c, d) independent experiments or pooled from three (b) independent experiments. Unpaired two-tailed Student’s t test (b); 2-way ANOVA with Tukey multiple comparisons test (c); One-way ANOVA with Tukey multiple comparisons test (d) and two-tailed Mann-Whitney U test (a). Graphs show mean ± s.e.m.
+Source data
+a, PD-1, TIM-3 and TIGIT expression on effector CD4+ T cells within tumour-bearing lungs of Cd4Cre (cWT) and Arhgef1fl/fl Cd4Cre (Arhgef1 cKO) animals. Flow cytometry plots (left) show CD4+ T cells from tumour-bearing lungs, and graphs show replicate measurements from tumour-bearing (cWT = 11; Arhgef1 cKO = 10) and non-bearing (cWT = 4; Arhgef1 cKO = 4) animals (right). b, Intracellular cytokine staining of OVA257-264-specific CD8+ T cells from tumor-bearing lungs of Cd4Cre (cWT = 11) and Arhgef1fl/fl Cd4Cre (Arhgef1 cKO = 10) animals 17 days after intravenous (i.v.) injection of B78ChOva melanoma cells. Flow cytometry plots of TNF, IL-2 and IFN-γ expression (left) and frequency of cells expressing indicated cytokines upon brief stimulation ex vivo, presented in terms of cytokine polyfunctionality (right). c, Kinetic analysis of mCherry+ CD45− melanoma cells within lungs from WT (n = 6-8) and Arhgef1 KO mice (n = 4-8) at the indicated time points after i.v. injection of B78ChOva cells. d, Relationship between tumour burden and PD-1 expression by CD44+ CD8+ T cells of lungs of Cd4Cre (cWT = 17) and Arhgef1fl/fl Cd4Cre (Arhgef1 cKO = 18) animals 17 days after i.v. injection of tumour cells. Data are representative of two (a-c) or pooled from two (d) independent experiments. One-way ANOVA with Tukey multiple comparisons test (a); unpaired two-tailed Student t tests with Holm-Šídák correction for multiple hypothesis testing (b, c) and Simple Linear Regression (d). Graphs show mean ± s.e.m.
+Source data
+a, Experimental schema showing timeline of Cd4Cre (cWT) and Arhgef1fl/fl Cd4Cre (Arhgef1 cKO) littermates following attenuated LM-Ova infection. b, c, Representative flow cytometry plots (b) and frequency (c) of tetramer+ CD8+ T cells and its subsets in blood samples of Cd4Cre (cWT, n = 5-9) and Arhgef1fl/fl Cd4Cre (Arhgef1 cKO, n = 5-10) littermates at indicated time points following attenuated LM-Ova infection. MPEC, memory precursor effector cells; SLEC, short-lived effector cells; Data are pooled from two independent experiments. Multiple unpaired two-tailed Student’s t-test with Holm-Šídák correction (c). Graphs show mean ± s.e.m.
+Source data
+Naïve FACS-sorted CD8+ T cells were stimulated in vitro with anti-CD3/28 antibodies and rhIL-2 in the presence of indicated ligands and photomicrographs of cell culture at day 5 post-stimulation for indicated genotypes were shown. Data are representative of two independent experiments.
+a-c, Naïve FACS-sorted CD8+ T cells were stimulated in vitro with anti-CD3/28 antibodies and rhIL-2 in the presence of TXA2 analogue or vehicle control. The differentiation state based on surface marker expression (a), proliferation measured by CellTrace Violet (CTV) (b), and apoptosis measured by Annexin V and Propidium Iodide (c) of WT and Arhgef1 KO CD8+ T cells at indicated time points post-stimulation were assessed by flow cytometry. n = 3 independent replicates per condition. Data are representative of two independent experiments. Multiple unpaired two-tailed Student’s t-test with Holm-Šídák correction (b, c). Graphs show mean ± s.e.m.
+Source data
+a-b, Proliferation WT and Arhgef1-deficient naïve CD8+ T cells electroporated with nucleoprotein complexes of Cas9 and 3 different sgRNAs targeting Tbxa2r or scrambled sgRNA control and stimulated in vitro with anti-CD3/28 antibodies and rhIL-2 in the presence or absence of 5 μM TXA2 analogue U46619. Proliferation is assessed as dilution of the CellTrace Violet. n = 5 independent replicates per condition. c, Confirmation of Tbxa2r deletion using SDS-PAGE and Western blotting of cell lysates from cells in (a, b). d, Number of cells 5 days after stimulation of naïve FACS-sorted CD8+ T cells with anti-CD3/28 antibodies and rhIL-2 in the presence of TXA2 analogue U46619 or vehicle control and the treatment with TP inhibitor SQ 29548 (10 μM). n = 4 independent replicates per condition. Data are representative of two independent experiments (a-d). Multiple two-tailed Student’s t-test with Holm-Šídák correction (b) and 2-way ANOVA with Tukey multiple comparisons test (d). Graphs show mean ± s.e.m.
+Source data
+Heatmap showing single-sample Gene Set Enrichment Analysis (ssGSEA) of the global gene expression changes between TXA2 analogue and Vehicle-treated-WT and Arhgef1 KO CD8+ T cells. Enrichment of all gene sets comprising the MSigDB C7 Immunologic signature gene sets was tested. Significantly differentially enriched gene sets shown (FDR < 0.2, |FC| > 1.5). Data are show results from three to four biological replicates per group.
+a, Replicate measurements of S6 and ERK phosphorylation within splenic WT (n = 3) and Arhgef1-deficient (n = 3) CD8+ T cells stimulated ex vivo with crosslinked anti-CD3 antibodies for 5 min in the presence of TXA2 analogue or vehicle control. b, Immunoblot analysis of MEK, ERK, AKT and S6 phosphorylation in day 5 stimulated WT or Arhgef1 KO OT-1 TCR transgenic CD8+ T cells stimulated in vitro with crosslinked anti-CD3 antibodies for 5 min in the presence of TXA2 analogue or vehicle control. c, Representative flow cytometry plots of increased phosphorylation of AKT, S6 and ERK following PMA/Iono stimulation of WT and Arhgef1 KO cells ex vivo. Gated on CD44– naïve CD8+ T cells. NS, no stimulation. d, Experimental schema of ablation of Rhoa using CRISPR/Cas9 mutagenesis. e, Cas9-expressing OT-1 TCR transgenic CD8+ T cells were stimulated and transduced with retroviruses expressing sgRNAs targeting Rhoa or non-targeting (NT) control. Cells were stimulated with crosslinked anti-CD3 antibodies for 5 min and S6 and ERK phosphorylation was measured on Thy1.1+ (transduced) cells. n = 4 independent replicates per condition. Data are representative of two independent experiments (a-e). Multiple two-tailed Student’s t-test with Holm-Šídák correction (a, e). Graphs show mean ± s.e.m.
+Source data
+a, Confocal immunofluorescence imaging of WT and Arhgef1-KO OT-1 CD8 T-cells 5 days after primary stimulation and subsequently seeded on anti-CD3 antibody-coated coverslips with or without 10 min of stimulation with U-46619 (10 μM) and/or 1 h of preincubation with the TP inhibitor (SQ 29548, 10 μM) or ROCK inhibitor (Y-27632, 30 μM). Images were captured on a Leica confocal microscope using a 63x oil objective lens, in three channels, F-actin (yellow) and PTEN (red) plus a DAPI nuclear counter stain (blue) to locate the cells. Images analysed were maximum intensity projections of four consecutive z-slices selected from the centre of a cross-volume image stack. b, Immunoblot analysis of protein phosphorylation pre-activated (day 5) WT or Arhgef1 KO OT-1 TCR transgenic CD8+ T cells stimulated in vitro with crosslinked anti-CD3 antibodies for 5 min in the presence of TXA2 analogue or vehicle control and treatments with the PTEN inhibitor (bpV(pic), 2.5 μM) or ROCK inhibitor (GSK269962A, 10 μM). Data are representative of two independent experiments.
+a-b, Phosflow analysis of S6 phosphorylation gated on antigen-experienced (CD44+) CD4+ and CD8+ T cells from lungs of vehicle- or aspirin-treated Cd4Cre and Arhgef1fl/fl Cd4Cre mice 17 days (a) and 8 days (b) after i.v. injection of B16 cells upon 5 min stimulation ex vivo with crosslinked anti-CD3 antibodies. Grey, non-crosslinking control. cWT treated with vehicle (n = 5) and aspirin (n = 4); cKO treated with vehicle (n = 5) and aspirin (n = 5) in (a). cWT treated with vehicle (n = 4) and aspirin (n = 5); cKO treated with vehicle (n = 4) and aspirin (n = 5) in (b). c, Frequency of metastatic nodules on lungs of vehicle- or aspirin-treated WT and Rag2-deficient (KO) mice 17 days after i.v. injection of B16 cells (NK cell activation in Rag2-deficient animals results in reduced background rate of metastasis). WT treated with vehicle (n = 15) and aspirin (n = 13); Rag2 KO treated with vehicle (n = 9) and aspirin (n = 8). d, Effect of treatment with the P2Y12 inhibitor Ticagrelor on the rate of metastasis to the lungs of Cd4Cre (cWT, vehicle = 8 and Ticagrelor = 10) and Arhgef1fl/fl Cd4Cre (cKO, vehicle = 10 and Ticagrelor = 10) mice 17 days after i.v. injection of B16 cells. Data from vehicle-treated cWT and cKO groups were also used as controls in Fig. 5h (as noted in Source Data). Data are representative of two (a-c) or pooled from two (d) independent experiments. P values show the results of unpaired two-tailed Student’s t test (c); One-way ANOVA with Tukey multiple comparisons adjustment (a, b, d). Graphs show mean ± s.e.m.
+Source data
+a, Schema showing isolation of platelets and transwell co-culture with proliferation dye CellTrace Violet (CTV)-labelled naïve CD8+ T cells. Transwell plates were pre-coated with anti-CD3 and soluble anti-CD28 antibodies to stimulate CD8+ T cells. b, Flow cytometry plots showing proliferation and activation of naïve and Arhgef1-decifient T cells in (a) as determined by dilution of CTV dye and expression of CD44. c, Abundance of TXB2 as determined by enzyme-linked immunosorbent assay (ELISA) of transwell co-culture supernatants of cells in (b) at day 5 post-stimulation. n = 4 independent replicates per condition. d, Effect of platelet depletion on the frequency of metastases on lungs of Cd4Cre (cWT, vehicle = 18 and R300 = 19) and Arhgef1fl/fl Cd4Cre (cKO, vehicle = 18 and R300 = 20) mice 17 days after i.v. B16 injection. e, Frequencies of platelets in blood as determined by flow cytometry from animals in (d). cWT treated with vehicle (n = 5) and R300 (n = 6), and cKO treated with R300 (n = 8). Data are representative of two (b, c, e) or pooled from two (d) independent experiments. One-way ANOVA with Tukey multiple comparisons test. Graphs show mean ± s.e.m.
+Source data
+Graphical schema of study findings. Platelets produce TXA2 which binds to its receptor (TP) on T cells, triggering the activation of ARHGEF1, a guanine exchange factor which facilitates the conversion of inactive GDP-bound RhoA into its active GTP-bound conformation. Activation of RhoA inhibits TCR-driven kinase pathways, proliferation and effector functions of T cells, thereby suppressing anti-metastatic immunity. Production of TXA2 by platelets is COX1-dependent and inhibited by aspirin and COX-1 selective inhibitors, which release T cells from TXA2-mediated suppression. Created in BioRender. Roychoudhuri, R. (2025) https://BioRender.com/u42p292.
+Supplementary Fig. 1. Western blot source data and flow cytometry gating strategy
+Differentially expressed genes in B16 tumour-bearing lungs (Arhgef1 KO versus WT)
+Differentially expressed genes in TXA2 analogue-treated CD8 T cells (Arhgef1 KO versus WT)
+Gene expression profiles in treated CD8 T cells
+ssGSEA of gene expression changes in TXA2 analogue-treated CD8 T cells (Arhgef1 KO versus WT)
+Geneset enrichment analysis genes significantly downregulated in naive versus memory CD8 T cells
+Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+Reprints and permissions
+Yang, J., Yamashita-Kanemaru, Y., Morris, B.I. et al. Aspirin prevents metastasis by limiting platelet TXA2 suppression of T cell immunity.
+                    Nature  (2025). https://doi.org/10.1038/s41586-025-08626-7
+Download citation
+Received: 23 February 2023
+Accepted: 08 January 2025
+Published: 05 March 2025
+DOI: https://doi.org/10.1038/s41586-025-08626-7
+Anyone you share the following link with will be able to read this content:
+Sorry, a shareable link is not currently available for this article.
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+--------------------------------------------------------------------------------
+
+TITLE: Daily briefing: PubMed blackout stokes fears about database’s future
+DATE: 
+URL: https://nature.com/articles/d41586-025-00711-1
+CONTENT:
+You can also search for this author in PubMed
+ Google Scholar
+You have full access to this article via your institution.
+
+Hello Nature readers, would you like to get this Briefing in your inbox free every day? Sign up here.
+One nest, dubbed the ‘Rokin nest’ after the canal it was found in, contained 635 bits of plastic. (Auke-Florian Hiemstra)
+Researchers have unpicked a bird nest made of layers of plastic going back 30 years. The Eurasian coot (Fulica atra) nest was taken from an Amsterdam canal. The outer layers contained a dozen face masks from the pandemic and the base held a Mars bar wrapper promoting the 1994 FIFA World Cup. Usually, coots build a fresh nest every year; but in cities, “reusing the foundation of older plastic nests may save time, giving these birds more opportunities to forage or defend their territory”, suggests biologist Auke-Florian Hiemstra, who led the work. “But all these face masks in their nests — our pandemic layer — are a dangerous trap for coots, with their chunky, dinosaur-like feet.”
+Science | 4 min read
+Reference: Ecology paper
+
+From the 30-year-old expiration dates printed on some of the plastic pieces recovered from the nest, researchers believe it has been home to three generations of coot. (Menno Schilthuizen, Barbara Gravendeel, Auke‐Florian Hiemstra/Ecology)
+Sticking to the current approach and technologies used to build and improve artificial-intelligence (AI) tools is unlikely to produce systems with human-level reasoning, say experts in the field. More than three-quarters of respondents to a survey said that enlarging AI systems probably won’t lead to what is known as artificial general intelligence (AGI) and it’s doubtful that the neural networks underpinning AI can match human intelligence by themselves. What’s more, less than one-quarter of respondents said that achieving AGI should be the core mission of the AI community.
+Nature | 5 min read
+Reference: Association for the Advancement of Artificial Intelligence survey results
+A temporary blackout of PubMed — a US government-funded database of biomedical literature — over the weekend sent many researchers globally into a panic. The platform, which indexes more than 37 million articles, is an essential resource for researchers, health-care providers and students. Although the disruption does not seem to have been deliberate, and the service has since been restored, the episode highlights scientists’ reliance on the website and raises concerns about how they access essential scientific information should disruptions happen again.
+Nature | 3 min read
+China’s supreme court says research fraud should be severely punished and that lower courts should crack down on paper mills — businesses that churn out fraudulent or poor-quality manuscripts and sell authorships. Some researchers are cautiously optimistic that the court’s guidance will help curb the use of these services, while others think the impact will be minimal. “Paper mills are very popular in China and there is a very huge business” involving them, says Gengyan Tang, who studies research integrity in China.
+Nature | 4 min read
+The appetite for electricity to power artificial intelligence (AI) systems is certainly growing, but by how much? And how much is too much? In the US state of Virginia — known as the data-centre capital of the world — communities are worried that facilities could drive up costs for residents and strain the area's power infrastructure beyond its capacity. The same questions are being asked all over the world, and they have researchers struggling to answer. “The real problem is that we’re operating with very little detailed data and knowledge of what’s happening,” says Jonathan Koomey, who has studied the energy use of computing for more than 30 years. Companies are close-lipped about what they consume, and “nobody has any idea what data centres, either AI or conventional, will use even a few years from now”.
+Nature | 12 min read
+Source: HuggingFace AI Energy Score Leaderboard
+“Communities that might be affected by research should be asked for input respectfully, early and often,” says Raeka Aiyar, who, in 2013, co-authored the first reported genome sequence of a HeLa cell line — and was unprepared for the backlash from the family of Henrietta Lacks, whose tumour sample was used to create HeLa cells in the 1950s without her knowledge. Aiyar is one of four health-equity specialists who share lessons about how to do research that engages under-represented people. Don’t fall into the trap of thinking that your scientific knowledge makes you an expert on everything, advises biomedical scientist Uma Palanisamy, who has developed an app to help Deaf Malaysians access healthcare. “The benefit is obvious: ensuring that the product, intervention or other outcome is useful in the real world.”
+Nature | 9 min read
+In her hit 2013 book, Braiding Sweetgrass, botanist Robin Wall Kimmerer, who is a member of the Citizen Potawatomi Nation, made the argument for bringing together knowledge from Western and Indigenous science. In The Serviceberry, she turns her microscope on the damaging disconnects between capitalist economics and the circular economy of nature. “What are the boundaries of the self?” she asks. “If we define the self to be just an individual and their material needs in the world, that’s one kind of economy… I want to say, “Oh, okay, what would an economy look like if we advanced self-interest when the self is expanded to our natural kinfolk?”
+Yale Environment 360 | 10 min read
+The International Health Economics Association had to move its conference halfway around the globe — from Calgary, Alberta to Bali, Indonesia — because researchers were finding it impossible to obtain visitor visas, writes IHEA president Kara Hanson. It was a stark reminder that event organizers must think deeply about where their meetings take place. (Nature | 5 min read)
+doi: https://doi.org/10.1038/d41586-025-00711-1
+Today I’m enjoying a delicious glass of London tap water — one of my favourites — while I read about the best of the rest. At the Berkeley Springs International Water Tasting festival, judges assess the taste and terroir of waters from still to sparkling — including seven-time ‘best municipal water the the world’ winner from the Clearbrook Waterworks District in Abbotsford, Canada. Lucky for me, being adjacent to my home town, I’ll be able to make a pilgrimage to an Abbotsford public drinking fountain soon enough.
+While I stay hydrated, why not send us your feedback on this newsletter? Your e-mails are always welcome at briefing@nature.com.
+Thanks for reading,
+Flora Graham, senior editor, Nature Briefing
+With contributions by Jacob Smith and Smriti Mallapaty
+Want more? Sign up to our other free Nature Briefing newsletters:
+• Nature Briefing: Careers — insights, advice and award-winning journalism to help you optimize your working life
+• Nature Briefing: Microbiology — the most abundant living entities on our planet — microorganisms — and the role they play in health, the environment and food systems
+• Nature Briefing: Anthropocene — climate change, biodiversity, sustainability and geoengineering
+• Nature Briefing: AI & Robotics — 100% written by humans, of course
+• Nature Briefing: Cancer — a weekly newsletter written with cancer researchers in mind
+• Nature Briefing: Translational Research — covers biotechnology, drug discovery and pharma
+Daily briefing: US scientists rise up against Trump’s efforts to dismantle federal science
+Daily briefing: What another round of layoffs means for US science
+Daily briefing: An unvaccinated child is first US measles death in a decade
+Daily briefing: Nature denounces Trump’s attack on US research
+Tampa, Florida
+H. Lee Moffitt Cancer Center & Research Institute
+APPLICATION CLOSING DATE: April 13th, 2025 The integration of Artificial Intelligence, mathematical modelling, and advanced computational simulati...
+Milan (IT)
+Human Technopole
+The Center for Computational Life Sciences offers multiple faculty positions in contemporary AI/ML and/or quantum computational sciences.
+Cleveland, Ohio
+Cleveland Clinic - Computational Life Sciences
+HT is an interdisciplinary research institute, created and supported by the Italian government, whose aim is to develop innovative strategies to pr...
+Milan (IT)
+Human Technopole
+Das Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft (Max Delbrück Center) ist ein international führendes biomedizinische...
+Berlin (DE)
+Max Delbrück Center for Molecular Medicine (MDC)
+--------------------------------------------------------------------------------
+
+TITLE: 1
+DATE: 
+URL: https://sciencedaily.com/newsfeeds.htm
+CONTENT:
+ScienceDaily offers free access to the latest news via RSS newsfeeds that you can subscribe to at no charge. In order to subscribe, you'll need a separate program or a plug-in for your web browser or email client that can read RSS (Really Simple Syndication) -- an XML-based format for distributing content.
+Once you have the RSS software installed on your computer, add the corresponding URL (web address) to your RSS subscriptions. For example, our main RSS feeds are available at the following URLs marked by an RSS icon ():
+Each item contained in a feed includes the story's headline, summary, and link back to the full-text version on the ScienceDaily web site. Feeds are updated with new stories as they are posted to the site, as frequently as every hour.
+If you're a webmaster, we encourage you to integrate our RSS feeds into your web site, so long as you do not post our full-text articles, and so long as you provide proper attribution to ScienceDaily with a link back to our site (https://www.sciencedaily.com). See our terms of use for more information.
+We also offer more than 400 specific RSS feeds in a variety of topics. Click on the headings below to jump to the full list of topics within each of ScienceDaily's main sections. The URL for each topical RSS feed is embedded in the link marked by an RSS icon.
+--------------------------------------------------------------------------------
+
+TITLE: Paralyzed man moves robotic arm with his thoughts
+DATE: Oct. 17, 2024 —
+URL: https://sciencedaily.com/releases/2025/03/250306153135.htm
+CONTENT:
+Researchers at UC San Francisco have enabled a man who is paralyzed to control a robotic arm through a device that relays signals from his brain to a computer.
+He was able to grasp, move and drop objects just by imagining himself performing the actions.
+The device, known as a brain-computer interface (BCI), worked for a record 7 months without needing to be adjusted. Until now, such devices have only worked for a day or two.
+The BCI relies on an AI model that can adjust to the small changes that take place in the brain as a person repeats a movement -- or in this case, an imagined movement -- and learns to do it in a more refined way.
+"This blending of learning between humans and AI is the next phase for these brain-computer interfaces," said neurologist, Karunesh Ganguly, MD, PhD, a professor of neurology and a member of the UCSF Weill Institute for Neurosciences. "It's what we need to achieve sophisticated, lifelike function."
+The study, which was funded by the National Institutes of Health, appears March 6 in Cell.
+The key was the discovery of how activity shifts in the brain day to day as a study participant repeatedly imagined making specific movements. Once the AI was programmed to account for those shifts, it worked for months at a time.
+Location, location, location
+Ganguly studied how patterns of brain activity in animals represent specific movements and saw that these representations changed day-to-day as the animal learned. He suspected the same thing was happening in humans, and that was why their BCIs so quickly lost the ability to recognize these patterns.
+Ganguly and neurology researcher Nikhilesh Natraj, PhD, worked with a study participant who had been paralyzed by a stroke years earlier. He could not speak or move.
+He had tiny sensors implanted on the surface of his brain that could pick up brain activity when he imagined moving.
+To see whether his brain patterns changed over time, Ganguly asked the participant to imagine moving different parts of his body, like his hands, feet or head.
+Although he couldn't actually move, the participant's brain could still produce the signals for a movement when he imagined himself doing it. The BCI recorded the brain's representations of these movements through the sensors on his brain.
+Ganguly's team found that the shape of representations in the brain stayed the same, but their locations shifted slightly from day to day.
+From virtual to reality
+Ganguly then asked the participant to imagine himself making simple movements with his fingers, hands or thumbs over the course of two weeks, while the sensors recorded his brain activity to train the AI.
+Then, the participant tried to control a robotic arm and hand. But the movements still weren't very precise.
+So, Ganguly had the participant practice on a virtual robot arm that gave him feedback on the accuracy of his visualizations. Eventually, he got the virtual arm to do what he wanted it to do.
+Once the participant began practicing with the real robot arm, it only took a few practice sessions for him to transfer his skills to the real world.
+He could make the robotic arm pick up blocks, turn them and move them to new locations. He was even able to open a cabinet, take out a cup and hold it up to a water dispenser.
+Months later, the participant was still able to control the robotic arm after a 15-minute "tune-up" to adjust for how his movement representations had drifted since he had begun using the device.
+Ganguly is now refining the AI models to make the robotic arm move faster and more smoothly, and planning to test the BCI in a home environment.
+For people with paralysis, the ability to feed themselves or get a drink of water would be life changing.
+Ganguly thinks this is within reach.
+"I'm very confident that we've learned how to build the system now, and that we can make this work," he said.
+Story Source:
+Materials provided by University of California - San Francisco. Original written by Robin Marks. Note: Content may be edited for style and length.
+Related Multimedia:
+Journal Reference:
+Cite This Page:
+--------------------------------------------------------------------------------
+
+TITLE: Study raises the possibility of a country without butterflies
+DATE: Sep. 4, 2024 —
+URL: https://sciencedaily.com/releases/2025/03/250306152922.htm
+CONTENT:
+Butterflies are disappearing in the United States. All kinds of them. With a speed scientists call alarming, and they are sounding an alarm.
+A sweeping new study published in Science for the first time tallies butterfly data from more than 76,000 surveys across the continental United States. The results: between 2000 and 2020, total butterfly abundance fell by 22% across the 554 species counted. That means that for every five individual butterflies within the contiguous U.S. in the year 2000, there were only four in 2020.
+"Action must be taken," said Elise Zipkin, a Red Cedar Distinguished Professor of quantitative ecology at Michigan State University and a co-author of the paper. "To lose 22 percent of butterflies across the continental U.S. in just two decades is distressing and shows a clear need for broad-scale conservation interventions."
+Zipkin and her MSU colleague and co-author Nick Haddad, professor of integrative biology, have been major figures in drilling down the state of U.S. butterflies. Zipkin has been a formidable numbers cruncher with successes gleaning hard facts from imperfect data sets to better understand the natural world.
+Haddad is a terrestrial ecologist -- a scientist on the ground specializing in the fates of the most fragile and rare butterfly populations. The widespread decline of butterflies found in this study have shaken Haddad, and reports that the mountain of data is on display in his Michigan neighborhood.
+"My neighbors notice it," Haddad said. "Unprompted, they'll say, 'I'm seeing fewer butterflies in my garden, is that real?' My neighbors are right. And it's so shocking."
+In this paper, Zipkin and Haddad were among a working group of scientists with the USGS Powell Center for Analysis and Synthesis that aggregated decades of butterfly data from 35 monitor programs that included records of over 12.6 million butterflies. Using data integration approaches, the team examined how butterfly abundances changed regionally and individually for the 342 species with enough data.
+Abundance is a term that threatens to become ironic. Butterfly populations dropped an average of 1.3% annually across the country, except for the Pacific Northwest. But even that encouraging result came with a caveat. Further scrutiny of the apparent 10% increase in overall abundance in the Pacific Northwest over the 20-year study period was credited largely to the California tortoiseshell butterfly, which was enjoying a population boom not expected to be sustained.
+Butterflies are the most surveyed insect groups, courtesy of extensive volunteer-based and expert science monitoring programs. Until now, studies have focused on individual species -- most notably monarch butterflies -- or limited to specific locations.
+This new study uses all the available regional butterfly monitoring data within the continental United States and then develops a method of analysis that appropriately accounts for variations in collection protocols across programs and regions to produce comparable results for hundreds of species.
+"This is the definitive study of butterflies in the U.S.," said Collin Edwards, the study's lead author. "For those who were not already aware of insect declines, this should be a wake-up call. We urgently need both local- and national-scale conservation efforts to support butterflies and other insects. We have never had as clear and compelling a picture of butterfly declines as we do now."
+Edwards had been a postdoctoral research associate at Washington State University, Vancouver, and now works at the Washington Department of Fish and Wildlife.
+The results reveal that 13 times as many species declined as increased -- with 107 species losing more than half their populations.
+Zipkin and Haddad say butterflies are more than fluttering symbols of freedom and beauty. They play important roles in cycling nutrients and are a significant food source for other organisms such as birds. Over the last 50 years, North America has lost nearly 3 billion birds, a decline at almost identical rates of the butterflies.
+Butterflies are important and forgotten pollinators. People often think of bees first, but butterflies (and flies) are responsible for $120 million of cotton production in Texas, for example.
+Zipkin said she sees this paper as an important heads up to the country's policymakers. "People depend on plants, microbes, and animals for the air we breathe, the water we drink, and the food we eat. Yet, we are losing species at rates that rival the major mass extinction events on our planet," Zipkin said. "The U.S. plays an important role in setting policies and creating laws that conserve and protect biodiversity from local to global scales. Our leaders and the federal government, in particular, are responsible for making sure future generations have the necessary resources to thrive."
+In 2024, Haddad was part of a study published by the journal PLOS ONE that pinpointed the danger of insecticides, that rose above other threats such as habitat loss and climate change in reducing butterfly abundance and diversity. He points out that saving butterflies isn't a hopeless problem, just one that requires will.
+A lot of insecticide use, he said, lacks strategy and results in overuse. Some 20 percent of cropland suffers from poor yields. Creating policies that return under-producing land to nature could help the butterflies to rally.
+"Prophylactic and near-universal application of insecticides harms butterflies and other beneficial insects, with no proven benefit to crop yield," Haddad said. "What is applied as 'insurance' is extracting a great debt to agroecosystems. The good news is that the widespread application of insecticides can be reversed, and butterflies and other pollinators will recover."
+In addition to Zipkin, Haddad, and Edwards, "Rapid butterfly declines across the United States during the 21st century" was written by Erica Henry, Matthew Forister, Kevin Burls, Steven Campbell, Elizabeth Crone, Jay Diffendorfer, Margaret Douglas, Ryan Drum, Candace Fallon, Jeffrey Glassberg, Eliza Grames, Rich Hatfield, Shiran Hershcovich, Scott Hoffman-Black, Elise Larsen, Wendy Leuenberger, Mary Linders, Travis Longcore, Daniel Marschalek, James Michielini, Naresh Neupane, Leslie Ries, Arthur Shapiro, Ann Swenger, Scott Swengel, Douglas Taron, Braeden Van Deynze, Jerome Wiedmann, Wayne Thogmartin, and Cheryl Schultz.
+Zipkin and Haddad are members of MSU's Ecology, Evolution, and Behavior Program, of which Zipkin is director.
+Story Source:
+Materials provided by Michigan State University. Note: Content may be edited for style and length.
+Journal Reference:
+Cite This Page:
+--------------------------------------------------------------------------------
+
+TITLE: World's oldest impact crater found, rewriting Earth's ancient history
+DATE: Feb. 22, 2023 —
+URL: https://sciencedaily.com/releases/2025/03/250306122924.htm
+CONTENT:
+Curtin University researchers have discovered the world's oldest known meteorite impact crater, which could significantly redefine our understanding of the origins of life and how our planet was shaped.
+The team from Curtin's School of Earth and Planetary Sciences and the Geological Survey of Western Australia (GSWA) investigated rock layers in the North Pole Dome -- an area of the Pilbara region of Western Australia -- and found evidence of a major meteorite impact 3.5 billion years ago.
+Study co-lead Professor Tim Johnson, from Curtin University, said the discovery significantly challenged previous assumptions about our planet's ancient history.
+"Before our discovery, the oldest impact crater was 2.2 billion years old, so this is by far the oldest known crater ever found on Earth," Professor Johnson said.
+Researchers discovered the crater thanks to 'shatter cones', distinctive rock formations only formed under the intense pressure of a meteorite strike.
+The shatter cones at the site, about 40 kilometres west of Marble Bar in WA's Pilbara region, were formed when a meteorite slammed into the area at more than 36,000km/h.
+This would have been a major planetary event, resulting in a crater more than 100km wide that would have sent debris flying across the globe.
+"We know large impacts were common in the early solar system from looking at the Moon," Professor Johnson said.
+"Until now, the absence of any truly ancient craters means they are largely ignored by geologists.
+"This study provides a crucial piece of the puzzle of Earth's impact history and suggests there may be many other ancient craters that could be discovered over time."
+Co-lead author Professor Chris Kirkland, also from Curtin's School of Earth and Planetary Sciences, said the discovery shed new light on how meteorites shaped Earth's early environment.
+"Uncovering this impact and finding more from the same time period could explain a lot about how life may have got started, as impact craters created environments friendly to microbial life such as hot water pools," Professor Kirkland said.
+"It also radically refines our understanding of crust formation: the tremendous amount of energy from this impact could have played a role in shaping early Earth's crust by pushing one part of the Earth's crust under another, or by forcing magma to rise from deep within the Earth's mantle toward the surface.
+"It may have even contributed to the formation of cratons, which are large, stable landmasses that became the foundation of continents."
+Story Source:
+Materials provided by Curtin University. Original written by Samuel Jeremic. Note: Content may be edited for style and length.
+Journal Reference:
+Cite This Page:
+--------------------------------------------------------------------------------
+
+TITLE: Prehistoric bone tool 'factory' hints at early development of abstract reasoning in human ancestors
+DATE: Feb. 9, 2023 —
+URL: https://sciencedaily.com/releases/2025/03/250305134707.htm
+CONTENT:
+The oldest collection of mass-produced prehistoric bone tools reveal that human ancestors were likely capable of more advanced abstract reasoning one million years earlier than thought, finds a new study involving researchers at UCL and CSIC- Spanish National Research Council.
+The paper, published in Nature, describes a collection of 27 now-fossilised bones that had been shaped into hand tools 1.5 million years ago by human ancestors.
+It's the earliest substantial collection of tools made from bone ever found, revealing that they were being systematically produced one million years earlier than archaeologists once thought.
+Early human ancestors known as hominins (human ancestors who could walk upright) had already been making tools out of stone in some capacity for at least a million years, but there's been scant evidence of widespread toolmaking out of bones before about 500,000 years ago.
+The hominins who shaped the recently-discovered bone tools did so in a manner similar to how they made tools out of stone, by chipping away small flakes to create sharp edges -- a process called 'knapping'.
+This transfer of techniques from one medium to another shows that the hominins who made the bone tools had an advanced understanding of toolmaking, and that they could adapt their techniques to different materials, a significant intellectual leap. It could indicate that human ancestors at that time possessed a greater level of cognitive skills and brain development than scientists thought.
+Co-author Dr Renata F. Peters (UCL Archaeology) said: "The tools show evidence that their creators carefully worked the bones, chipping off flakes to create useful shapes. We were excited to find these bone tools from such an early timeframe. It means that human ancestors were capable of transferring skills from stone to bone, a level of complex cognition that we haven't seen elsewhere for another million years."
+Lead author Dr Ignacio de la Torre of the CSIC-Spanish National Research Council added: "This discovery leads us to assume that early humans significantly expanded their technological options, which until then were limited to the production of stone tools and now allowed new raw materials to be incorporated into the repertoire of potential artifacts.
+"At the same time, this expansion of technological potential indicates advances in the cognitive abilities and mental structures of these hominins, who knew how to incorporate technical innovations by adapting their knowledge of stone work to the manipulation of bone remains."
+The tools were discovered in Olduvai Gorge in Tanzania, a site renowned for its long history of important archaeological discoveries revealing the origins of humans.
+The researchers found 27 bones that had been shaped into tools at the site. The bones mostly came from large mammals, mostly elephants and hippos. The tools are exclusively made from the animals' limb bones, as these are the most dense and strong.
+The tools originate from a time in prehistory where early hominin cultures were undergoing one of the first ever technological transitions.
+The very earliest stone tools come from the "Oldowan" age which stretched from about 2.7 million years ago to 1.5 million years ago. It employs a simple method for making stone tools, by chipping one or a few flakes off a stone core using a hammerstone.
+The bone tools reported in this study were from the time that the ancient human ancestors were progressing into the "Acheulean" age which began as far back as about 1.7 million years ago. The Acheulean technology is best characterised by the use of more intricate handaxes that were carefully shaped by knapping -- allowing the production of tools through more standardised means.
+The bone tools show that these more advanced techniques were carried over and adopted for use on bones as well, something previously unseen in the fossil record for another million years, much later into the Acheulean age.
+Prior to this find, bones shaped into tools had only been identified sporadically in rare, isolated instances in the fossil record and never in a manner that implied that human ancestors were systematically producing them.
+Though it's unclear precisely what the tools were used for, because of their overall shape, size and sharp edges, it's likely that they may have been employed to process animal carcasses for food.
+It's also unclear which species of human ancestor crafted the tools. No hominin remains were found alongside the collection of bone artefacts, though it's known that, at the time, our human ancestor Homo erectus and another hominin species known as Paranthropus boisei were inhabitants of the region.
+Because these tools were such an unexpected discovery, the researchers hope that their findings will prompt archaeologists to re-examine bone discoveries around the world in case other evidence of bone tools has been missed.
+This research was supported by the European Research Council (ERC).
+Story Source:
+Materials provided by University College London. Note: Content may be edited for style and length.
+Journal Reference:
+Cite This Page:
+--------------------------------------------------------------------------------
+
