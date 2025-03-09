@@ -1,36 +1,62 @@
-Multi-modal Data Analysis
-Scalable Data Collection
-📷 Image_Dataset.ipynb
-This notebook contains an automated script to download 50 images for 20 different categories. These categories are specified within the notebook. It also includes a use case of the generated data, which is assessing the feature representation capability of a model.
+# Multi-modal Data Analysis  
 
-📝 Text_Dataset.ipynb
-This notebook contains code to implement a web crawler to extract relevant text for different categories. It also explores how different models capture semantics in text and how they cluster closer sectors based on textual data.
+This repository contains multiple Jupyter notebooks designed for **scalable data collection** and **multi-modal analysis** across different data types.  
 
-🎙 Audio_Dataset.ipynb
-This notebook contains an automated script to record and store audio streams for a given duration (30–90 seconds). Then, it demonstrates Automated Speech Recognition (ASR) to transcribe the audio files, showcasing the strength of LLMs.
+---
 
-🌦 Weather_Dataset.ipynb
-This notebook uses the Open-Meteo API for historical weather data collection. It also includes various techniques to visualize time-series data.
+## 🚀 Scalable Data Collection  
 
-🇮🇳 Analyzing_India_with_Data.ipynb
-This notebook focuses on Air Quality analysis in India. The data is extracted from a government website and used for in-depth analysis.
+### 📷 Image Dataset (`Image_Dataset.ipynb`)  
+- This notebook contains an automated script to **download 50 images** for **20 different categories**.  
+- These categories are specified within the notebook.  
+- It also demonstrates a **use case of the generated data**, assessing the **feature representation capability of a model**.  
 
-Analyzing Flags and Anthems
-📜 Data Collection
-We use BeautifulSoup to collect data from nationalanthems.info.
+### 📝 Text Dataset (`Text_Dataset.ipynb`)  
+- Implements a **web crawler** to extract **relevant text** for different categories.  
+- Explores how different models **capture semantics in text**.  
+- Performs **clustering** to analyze **sector-wise similarities based on textual data**.  
 
-🎨 Visual Analysis
-This section focuses on:
+### 🎙 Audio Dataset (`Audio_Dataset.ipynb`)  
+- This notebook contains an **automated script to record and store audio streams** (duration: **30–90 seconds**).  
+- Uses **Automated Speech Recognition (ASR)** to transcribe the audio files.  
+- Showcases how **Large Language Models (LLMs)** interpret transcriptions.  
 
-Different flag aspect ratios
-Number of colors in different flags
-Correlation between flags
-📖 Textual Analysis
-Using pre-trained text embeddings, we analyze and cluster textual data to find correlations.
+### 🌦 Weather Dataset (`Weather_Dataset.ipynb`)  
+- Uses the **Open-Meteo API** to fetch **historical weather data**.  
+- Demonstrates various **time-series visualization techniques**.  
 
-🎶 Audio Analysis
-Extracting audio features from each anthem and exploring correlations.
+---
 
-🔄 Multimodal Correlation
-We attempt to match anthems (audio) with written versions, analyzing multimodal correlations.
+## 🎵 Analyzing Flags & Anthems  
 
+### 🌍 Data Collection  
+- Uses **BeautifulSoup** to scrape data from **[nationalanthems.info](https://nationalanthems.info/)**.  
+
+### 🏳️ Visual Analysis  
+- Analyzes **flag aspect ratios** and **color distributions**.  
+- Examines possible **correlations between flags** of different nations.  
+
+### 🔤 Textual Analysis  
+- Extracts **text embeddings** using **pretrained models**.  
+- Performs **clustering** to find semantic relationships among anthems.  
+
+### 🎼 Audio Analysis  
+- Extracts **audio features** from anthems.  
+- Investigates **correlations in musical structure** across different national anthems.  
+
+### 🔄 Multi-modal Correlation  
+- **Matches audio (anthems) with their written versions** to explore **multi-modal correlations**.  
+
+---
+
+## 📂 Directory Structure  
+
+
+---
+
+## 📜 How to Run  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/89P13-24/Multi-modal-Data-Analysis.git
+   cd Multi-modal-Data-Analysis
