@@ -1,0 +1,504 @@
+Text-Audio Anthem Matching Results:
+
+Text anthem for Afghanistan best matches with audio anthems:
+  - Afghanistan: similarity score = 0.1219
+  - Cook_Islands: similarity score = 0.0555
+  - Bulgaria: similarity score = 0.0445
+
+Text anthem for Albania best matches with audio anthems:
+  - Egypt: similarity score = 0.2355
+  - Cape_Verde: similarity score = 0.2189
+  - Honduras: similarity score = 0.2182
+
+Text anthem for Algeria best matches with audio anthems:
+  - Egypt: similarity score = 0.1657
+  - Europe: similarity score = 0.1655
+  - Bhutan: similarity score = 0.1634
+
+Text anthem for American_Samoa best matches with audio anthems:
+  - Cte_dIvoire: similarity score = 0.0485
+  - Afghanistan: similarity score = 0.0483
+  - Hungary: similarity score = 0.0417
+
+Text anthem for Andorra best matches with audio anthems:
+  - Afghanistan: similarity score = 0.1531
+  - Cte_dIvoire: similarity score = 0.1419
+  - Cook_Islands: similarity score = 0.1382
+
+Text anthem for Angola best matches with audio anthems:
+  - Eritrea: similarity score = 0.1312
+  - Armenia: similarity score = 0.1285
+  - Angola: similarity score = 0.1250
+
+Text anthem for Anguilla best matches with audio anthems:
+  - Austria: similarity score = 0.0684
+  - Bolivia_Plurinational_State_of: similarity score = 0.0645
+  - France: similarity score = 0.0632
+
+Text anthem for Antigua_and_Barbuda best matches with audio anthems:
+  - Afghanistan: similarity score = 0.1374
+  - Antigua_and_Barbuda: similarity score = 0.1333
+  - Bulgaria: similarity score = 0.1319
+
+Text anthem for Argentina best matches with audio anthems:
+  - Dominican_Republic: similarity score = 0.1659
+  - Azerbaijan: similarity score = 0.1644
+  - Australia: similarity score = 0.1639
+
+Text anthem for Armenia best matches with audio anthems:
+  - Egypt: similarity score = 0.1077
+  - Denmark: similarity score = 0.1048
+  - Guyana: similarity score = 0.1030
+
+Text anthem for Aruba best matches with audio anthems:
+  - Israel: similarity score = 0.1541
+  - Croatia: similarity score = 0.1533
+  - Falkland_Islands_Malvinas: similarity score = 0.1519
+
+Text anthem for Australia best matches with audio anthems:
+  - land_Islands: similarity score = 0.1127
+  - Guatemala: similarity score = 0.0760
+  - Western_Sahara: similarity score = 0.0729
+
+Text anthem for Austria best matches with audio anthems:
+  - United_Kingdom: similarity score = 0.1623
+  - Cte_dIvoire: similarity score = 0.1581
+  - Austria: similarity score = 0.1502
+
+Text anthem for Azerbaijan best matches with audio anthems:
+  - Croatia: similarity score = 0.1228
+  - Armenia: similarity score = 0.1224
+  - Israel: similarity score = 0.1219
+
+Text anthem for Bahamas best matches with audio anthems:
+  - United_Arab_Emirates: similarity score = 0.1217
+  - Ghana: similarity score = 0.1211
+  - Chile: similarity score = 0.1207
+
+Text anthem for Bahrain best matches with audio anthems:
+  - United_Kingdom: similarity score = 0.1415
+  - Cte_dIvoire: similarity score = 0.1407
+  - Afghanistan: similarity score = 0.1363
+
+Text anthem for Bangladesh best matches with audio anthems:
+  - Saint_Barthlemy: similarity score = 0.1649
+  - Falkland_Islands_Malvinas: similarity score = 0.1624
+  - Bangladesh: similarity score = 0.1623
+
+Text anthem for Barbados best matches with audio anthems:
+  - Angola: similarity score = 0.0569
+  - Armenia: similarity score = 0.0567
+  - Croatia: similarity score = 0.0558
+
+Text anthem for Belarus best matches with audio anthems:
+  - Angola: similarity score = 0.1371
+  - Croatia: similarity score = 0.1336
+  - Armenia: similarity score = 0.1322
+
+Text anthem for Belgium best matches with audio anthems:
+  - Austria: similarity score = 0.1586
+  - Cameroon: similarity score = 0.1508
+  - United_Kingdom: similarity score = 0.1445
+
+Text anthem for Belize best matches with audio anthems:
+  - Falkland_Islands_Malvinas: similarity score = 0.0922
+  - Saint_Barthlemy: similarity score = 0.0919
+  - Bangladesh: similarity score = 0.0904
+
+Text anthem for Benin best matches with audio anthems:
+  - Belarus: similarity score = 0.1389
+  - Botswana: similarity score = 0.1386
+  - Bangladesh: similarity score = 0.1368
+
+Text anthem for Bermuda best matches with audio anthems:
+  - Afghanistan: similarity score = 0.0213
+  - Cte_dIvoire: similarity score = 0.0170
+  - United_Kingdom: similarity score = 0.0079
+
+Text anthem for Bhutan best matches with audio anthems:
+  - Afghanistan: similarity score = 0.1272
+  - Equatorial_Guinea: similarity score = 0.1078
+  - Cook_Islands: similarity score = 0.1059
+
+Text anthem for Bolivia_Plurinational_State_of best matches with audio anthems:
+  - Australia: similarity score = 0.1254
+  - Burkina_Faso: similarity score = 0.1228
+  - Dominican_Republic: similarity score = 0.1220
+
+Text anthem for Bosnia_and_Herzegovina best matches with audio anthems:
+  - Iraq: similarity score = 0.1136
+  - Micronesia_Federated_States_of: similarity score = 0.1120
+  - Europe: similarity score = 0.1079
+
+Text anthem for Botswana best matches with audio anthems:
+  - Austria: similarity score = 0.1180
+  - Cameroon: similarity score = 0.1083
+  - Egypt: similarity score = 0.0993
+
+Text anthem for Brazil best matches with audio anthems:
+  - Western_Sahara: similarity score = 0.1819
+  - land_Islands: similarity score = 0.1788
+  - Guatemala: similarity score = 0.1759
+
+Text anthem for Brunei_Darussalam best matches with audio anthems:
+  - Afghanistan: similarity score = 0.1611
+  - Barbados: similarity score = 0.1409
+  - Cook_Islands: similarity score = 0.1392
+
+Text anthem for Bulgaria best matches with audio anthems:
+  - Afghanistan: similarity score = -0.0075
+  - Antigua_and_Barbuda: similarity score = -0.0217
+  - Hungary: similarity score = -0.0230
+
+Text anthem for Burkina_Faso best matches with audio anthems:
+  - Armenia: similarity score = 0.1324
+  - Djibouti: similarity score = 0.1287
+  - Germany: similarity score = 0.1280
+
+Text anthem for Burundi best matches with audio anthems:
+  - Afghanistan: similarity score = 0.0921
+  - Bulgaria: similarity score = 0.0902
+  - Cook_Islands: similarity score = 0.0899
+
+Text anthem for Cameroon best matches with audio anthems:
+  - Cameroon: similarity score = 0.0458
+  - Austria: similarity score = 0.0444
+  - Barbados: similarity score = 0.0413
+
+Text anthem for Canada best matches with audio anthems:
+  - Cte_dIvoire: similarity score = 0.1103
+  - Afghanistan: similarity score = 0.0989
+  - United_Kingdom: similarity score = 0.0971
+
+Text anthem for Cape_Verde best matches with audio anthems:
+  - Egypt: similarity score = 0.1201
+  - Guyana: similarity score = 0.1166
+  - Aruba: similarity score = 0.1150
+
+Text anthem for Central_African_Republic best matches with audio anthems:
+  - Egypt: similarity score = 0.1270
+  - Europe: similarity score = 0.1224
+  - Cameroon: similarity score = 0.1216
+
+Text anthem for Chile best matches with audio anthems:
+  - land_Islands: similarity score = 0.2084
+  - Western_Sahara: similarity score = 0.1848
+  - Guatemala: similarity score = 0.1846
+
+Text anthem for China_Peoples_Republic_of_China best matches with audio anthems:
+  - Armenia: similarity score = 0.1325
+  - Djibouti: similarity score = 0.1315
+  - Croatia: similarity score = 0.1309
+
+Text anthem for Colombia best matches with audio anthems:
+  - Western_Sahara: similarity score = 0.0914
+  - Israel: similarity score = 0.0892
+  - Fiji: similarity score = 0.0892
+
+Text anthem for Congo_the_Democratic_Republic_of_the best matches with audio anthems:
+  - Congo_the_Democratic_Republic_of_the: similarity score = 0.1768
+  - Egypt: similarity score = 0.1700
+  - Burkina_Faso: similarity score = 0.1677
+
+Text anthem for Cook_Islands best matches with audio anthems:
+  - Afghanistan: similarity score = 0.2292
+  - Cook_Islands: similarity score = 0.2053
+  - Cte_dIvoire: similarity score = 0.2039
+
+Text anthem for Costa_Rica best matches with audio anthems:
+  - land_Islands: similarity score = 0.1467
+  - Ecuador: similarity score = 0.1327
+  - Australia: similarity score = 0.1168
+
+Text anthem for Croatia best matches with audio anthems:
+  - land_Islands: similarity score = 0.0774
+  - Guatemala: similarity score = 0.0334
+  - Western_Sahara: similarity score = 0.0294
+
+Text anthem for Cte_dIvoire best matches with audio anthems:
+  - United_Kingdom: similarity score = 0.1561
+  - Cte_dIvoire: similarity score = 0.1557
+  - Equatorial_Guinea: similarity score = 0.1492
+
+Text anthem for Cuba best matches with audio anthems:
+  - Western_Sahara: similarity score = 0.0674
+  - land_Islands: similarity score = 0.0648
+  - Fiji: similarity score = 0.0644
+
+Text anthem for Curaao best matches with audio anthems:
+  - land_Islands: similarity score = 0.0380
+  - Guatemala: similarity score = 0.0317
+  - Western_Sahara: similarity score = 0.0277
+
+Text anthem for Czech_Republic best matches with audio anthems:
+  - land_Islands: similarity score = 0.0434
+  - Hungary: similarity score = 0.0018
+  - Antigua_and_Barbuda: similarity score = -0.0104
+
+Text anthem for Denmark best matches with audio anthems:
+  - Greenland: similarity score = 0.0477
+  - land_Islands: similarity score = 0.0457
+  - Hungary: similarity score = 0.0383
+
+Text anthem for Djibouti best matches with audio anthems:
+  - Ecuador: similarity score = 0.2220
+  - Australia: similarity score = 0.2197
+  - Denmark: similarity score = 0.2115
+
+Text anthem for Dominica best matches with audio anthems:
+  - Antigua_and_Barbuda: similarity score = 0.0371
+  - Greenland: similarity score = 0.0368
+  - Afghanistan: similarity score = 0.0207
+
+Text anthem for Dominican_Republic best matches with audio anthems:
+  - Curaao: similarity score = 0.1315
+  - Gibraltar: similarity score = 0.1294
+  - land_Islands: similarity score = 0.1250
+
+Text anthem for Ecuador best matches with audio anthems:
+  - Israel: similarity score = 0.1533
+  - Western_Sahara: similarity score = 0.1429
+  - Fiji: similarity score = 0.1420
+
+Text anthem for Egypt best matches with audio anthems:
+  - Angola: similarity score = 0.0817
+  - Israel: similarity score = 0.0771
+  - Armenia: similarity score = 0.0766
+
+Text anthem for Equatorial_Guinea best matches with audio anthems:
+  - Equatorial_Guinea: similarity score = 0.1413
+  - Iraq: similarity score = 0.1337
+  - Europe: similarity score = 0.1335
+
+Text anthem for Eritrea best matches with audio anthems:
+  - Eritrea: similarity score = 0.1452
+  - Republic_of_the_Congo: similarity score = 0.1352
+  - Angola: similarity score = 0.1351
+
+Text anthem for Estonia best matches with audio anthems:
+  - land_Islands: similarity score = 0.0737
+  - Aruba: similarity score = 0.0624
+  - Guatemala: similarity score = 0.0619
+
+Text anthem for Ethiopia best matches with audio anthems:
+  - Austria: similarity score = 0.1239
+  - Egypt: similarity score = 0.1218
+  - Cameroon: similarity score = 0.1212
+
+Text anthem for Europe best matches with audio anthems:
+  - Iraq: similarity score = 0.1136
+  - Micronesia_Federated_States_of: similarity score = 0.1120
+  - Europe: similarity score = 0.1079
+
+Text anthem for Falkland_Islands_Malvinas best matches with audio anthems:
+  - Saint_Barthlemy: similarity score = 0.1585
+  - Falkland_Islands_Malvinas: similarity score = 0.1564
+  - Bangladesh: similarity score = 0.1442
+
+Text anthem for Faroe_Islands best matches with audio anthems:
+  - land_Islands: similarity score = 0.0733
+  - Western_Sahara: similarity score = 0.0460
+  - Guatemala: similarity score = 0.0430
+
+Text anthem for Fiji best matches with audio anthems:
+  - land_Islands: similarity score = 0.0908
+  - Western_Sahara: similarity score = 0.0778
+  - Guatemala: similarity score = 0.0717
+
+Text anthem for Finland best matches with audio anthems:
+  - land_Islands: similarity score = 0.1125
+  - Ecuador: similarity score = 0.1069
+  - Denmark: similarity score = 0.1017
+
+Text anthem for France best matches with audio anthems:
+  - Western_Sahara: similarity score = 0.0538
+  - land_Islands: similarity score = 0.0517
+  - Guatemala: similarity score = 0.0504
+
+Text anthem for Gabon best matches with audio anthems:
+  - Israel: similarity score = 0.1111
+  - Cuba: similarity score = 0.1085
+  - Djibouti: similarity score = 0.1083
+
+Text anthem for Gambia best matches with audio anthems:
+  - Dominica: similarity score = 0.1507
+  - Cook_Islands: similarity score = 0.1501
+  - Equatorial_Guinea: similarity score = 0.1481
+
+Text anthem for Georgia best matches with audio anthems:
+  - Denmark: similarity score = 0.1406
+  - Egypt: similarity score = 0.1405
+  - Finland: similarity score = 0.1275
+
+Text anthem for Germany best matches with audio anthems:
+  - Egypt: similarity score = 0.1555
+  - United_Kingdom: similarity score = 0.1526
+  - Bhutan: similarity score = 0.1515
+
+Text anthem for Ghana best matches with audio anthems:
+  - Ghana: similarity score = 0.1647
+  - Bahrain: similarity score = 0.1616
+  - Canada: similarity score = 0.1611
+
+Text anthem for Gibraltar best matches with audio anthems:
+  - land_Islands: similarity score = 0.1222
+  - Ecuador: similarity score = 0.1096
+  - Guatemala: similarity score = 0.1050
+
+Text anthem for Greece best matches with audio anthems:
+  - land_Islands: similarity score = 0.1970
+  - Ecuador: similarity score = 0.1799
+  - Guatemala: similarity score = 0.1762
+
+Text anthem for Greenland best matches with audio anthems:
+  - Greenland: similarity score = 0.1114
+  - Antigua_and_Barbuda: similarity score = 0.1040
+  - Hungary: similarity score = 0.1030
+
+Text anthem for Grenada best matches with audio anthems:
+  - Cte_dIvoire: similarity score = 0.2147
+  - United_Kingdom: similarity score = 0.2121
+  - Grenada: similarity score = 0.2069
+
+Text anthem for Guam best matches with audio anthems:
+  - land_Islands: similarity score = 0.0463
+  - Curaao: similarity score = 0.0449
+  - Gibraltar: similarity score = 0.0431
+
+Text anthem for Guatemala best matches with audio anthems:
+  - land_Islands: similarity score = 0.1952
+  - Western_Sahara: similarity score = 0.1697
+  - Guatemala: similarity score = 0.1680
+
+Text anthem for Guernsey best matches with audio anthems:
+  - Bangladesh: similarity score = 0.1283
+  - Saint_Barthlemy: similarity score = 0.1250
+  - Falkland_Islands_Malvinas: similarity score = 0.1237
+
+Text anthem for Guinea best matches with audio anthems:
+  - Cameroon: similarity score = 0.1320
+  - Equatorial_Guinea: similarity score = 0.1307
+  - United_Kingdom: similarity score = 0.1301
+
+Text anthem for Guinea-Bissau best matches with audio anthems:
+  - Armenia: similarity score = 0.1475
+  - Croatia: similarity score = 0.1452
+  - Israel: similarity score = 0.1451
+
+Text anthem for Guyana best matches with audio anthems:
+  - Croatia: similarity score = 0.0261
+  - Israel: similarity score = 0.0251
+  - Saint_Barthlemy: similarity score = 0.0223
+
+Text anthem for Haiti best matches with audio anthems:
+  - Canada: similarity score = 0.1723
+  - Austria: similarity score = 0.1722
+  - Aruba: similarity score = 0.1718
+
+Text anthem for Honduras best matches with audio anthems:
+  - Western_Sahara: similarity score = 0.1501
+  - land_Islands: similarity score = 0.1453
+  - Israel: similarity score = 0.1396
+
+Text anthem for Hungary best matches with audio anthems:
+  - Hungary: similarity score = 0.0603
+  - Greenland: similarity score = 0.0537
+  - Antigua_and_Barbuda: similarity score = 0.0475
+
+Text anthem for Iceland best matches with audio anthems:
+  - Hungary: similarity score = 0.1405
+  - Greenland: similarity score = 0.1381
+  - Antigua_and_Barbuda: similarity score = 0.1301
+
+Text anthem for India best matches with audio anthems:
+  - Belize: similarity score = 0.1475
+  - United_Kingdom: similarity score = 0.1463
+  - Europe: similarity score = 0.1460
+
+Text anthem for Indonesia best matches with audio anthems:
+  - Israel: similarity score = 0.0247
+  - Falkland_Islands_Malvinas: similarity score = 0.0202
+  - Saint_Barthlemy: similarity score = 0.0191
+
+Text anthem for Iran_Islamic_Republic_of best matches with audio anthems:
+  - Canada: similarity score = 0.1393
+  - Austria: similarity score = 0.1385
+  - Egypt: similarity score = 0.1365
+
+Text anthem for Iraq best matches with audio anthems:
+  - Ecuador: similarity score = 0.0959
+  - land_Islands: similarity score = 0.0941
+  - Denmark: similarity score = 0.0866
+
+Text anthem for Ireland best matches with audio anthems:
+  - Egypt: similarity score = 0.0299
+  - Iraq: similarity score = 0.0295
+  - Europe: similarity score = 0.0284
+
+Text anthem for Isle_of_Man best matches with audio anthems:
+  - Greenland: similarity score = 0.0744
+  - Antigua_and_Barbuda: similarity score = 0.0674
+  - Afghanistan: similarity score = 0.0620
+
+Text anthem for Israel best matches with audio anthems:
+  - Israel: similarity score = 0.0889
+  - land_Islands: similarity score = 0.0862
+  - Croatia: similarity score = 0.0641
+
+Text anthem for Italy best matches with audio anthems:
+  - Egypt: similarity score = 0.0981
+  - Ecuador: similarity score = 0.0960
+  - Congo_the_Democratic_Republic_of_the: similarity score = 0.0934
+
+Text anthem for Jersey best matches with audio anthems:
+  - Afghanistan: similarity score = 0.1105
+  - Greenland: similarity score = 0.1048
+  - Antigua_and_Barbuda: similarity score = 0.0945
+
+Text anthem for Micronesia_Federated_States_of best matches with audio anthems:
+  - Antigua_and_Barbuda: similarity score = 0.0700
+  - Micronesia_Federated_States_of: similarity score = 0.0619
+  - Hungary: similarity score = 0.0618
+
+Text anthem for Republic_of_the_Congo best matches with audio anthems:
+  - Eritrea: similarity score = 0.1285
+  - Armenia: similarity score = 0.1262
+  - Canada: similarity score = 0.1249
+
+Text anthem for Saint_Barthlemy best matches with audio anthems:
+  - Saint_Barthlemy: similarity score = 0.0499
+  - Falkland_Islands_Malvinas: similarity score = 0.0467
+  - Bangladesh: similarity score = 0.0419
+
+Text anthem for Spain best matches with audio anthems:
+  - Iraq: similarity score = 0.1136
+  - Micronesia_Federated_States_of: similarity score = 0.1120
+  - Europe: similarity score = 0.1079
+
+Text anthem for Switzerland best matches with audio anthems:
+  - land_Islands: similarity score = 0.0741
+  - Western_Sahara: similarity score = 0.0423
+  - Guatemala: similarity score = 0.0348
+
+Text anthem for United_Arab_Emirates best matches with audio anthems:
+  - Cte_dIvoire: similarity score = 0.0823
+  - Georgia: similarity score = 0.0732
+  - Equatorial_Guinea: similarity score = 0.0731
+
+Text anthem for United_Kingdom best matches with audio anthems:
+  - Barbados: similarity score = 0.2196
+  - United_Kingdom: similarity score = 0.2193
+  - Cameroon: similarity score = 0.2059
+
+Text anthem for Western_Sahara best matches with audio anthems:
+  - land_Islands: similarity score = 0.0998
+  - Western_Sahara: similarity score = 0.0881
+  - Guatemala: similarity score = 0.0830
+
+Text anthem for land_Islands best matches with audio anthems:
+  - land_Islands: similarity score = 0.1648
+  - Western_Sahara: similarity score = 0.1128
+  - Guatemala: similarity score = 0.0921
+
+
+Overall matching accuracy: 11.00% (11/100)

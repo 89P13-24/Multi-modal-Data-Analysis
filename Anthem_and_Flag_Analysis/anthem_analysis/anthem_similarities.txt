@@ -1,0 +1,520 @@
+China_Peoples_Republic_of_China's anthem is most similar to:
+  - Costa_Rica: 0.4834
+  - Angola: 0.4825
+  - Guatemala: 0.4781
+
+Europe's anthem is most similar to:
+  - French_Guiana: 1.0000
+  - Spain: 1.0000
+  - Guadeloupe: 1.0000
+
+Antigua_and_Barbuda's anthem is most similar to:
+  - Bolivia_Plurinational_State_of: 0.6469
+  - Gambia: 0.6458
+  - Ghana: 0.6456
+
+French_Guiana's anthem is most similar to:
+  - Europe: 1.0000
+  - Spain: 1.0000
+  - Guadeloupe: 1.0000
+
+Algeria's anthem is most similar to:
+  - Ghana: 0.5522
+  - Western_Sahara: 0.5476
+  - Burkina_Faso: 0.5467
+
+Italy's anthem is most similar to:
+  - Republic_of_the_Congo: 0.6029
+  - Micronesia_Federated_States_of: 0.5383
+  - Gabon: 0.5253
+
+Finland's anthem is most similar to:
+  - Faroe_Islands: 0.6421
+  - Cameroon: 0.6336
+  - Iraq: 0.6289
+
+Belize's anthem is most similar to:
+  - Saint_Barthlemy: 0.6443
+  - Barbados: 0.6324
+  - Isle_of_Man: 0.6303
+
+Grenada's anthem is most similar to:
+  - Antigua_and_Barbuda: 0.6224
+  - Cte_dIvoire: 0.5597
+  - Canada: 0.5580
+
+Canada's anthem is most similar to:
+  - Antigua_and_Barbuda: 0.5673
+  - Grenada: 0.5580
+  - Guyana: 0.5274
+
+Botswana's anthem is most similar to:
+  - Cte_dIvoire: 0.6473
+  - Gabon: 0.6320
+  - Belarus: 0.6256
+
+Iran_Islamic_Republic_of's anthem is most similar to:
+  - United_Arab_Emirates: 0.5475
+  - Albania: 0.4737
+  - Guinea-Bissau: 0.4624
+
+Central_African_Republic's anthem is most similar to:
+  - Angola: 0.6290
+  - Republic_of_the_Congo: 0.6230
+  - Botswana: 0.6145
+
+Gambia's anthem is most similar to:
+  - Antigua_and_Barbuda: 0.6458
+  - Ghana: 0.6423
+  - Cte_dIvoire: 0.6255
+
+Gabon's anthem is most similar to:
+  - Republic_of_the_Congo: 0.7107
+  - Guinea-Bissau: 0.6811
+  - Barbados: 0.6784
+
+Colombia's anthem is most similar to:
+  - Gabon: 0.6507
+  - Ecuador: 0.6301
+  - Guinea-Bissau: 0.6280
+
+Faroe_Islands's anthem is most similar to:
+  - Switzerland: 0.7189
+  - Isle_of_Man: 0.6605
+  - Finland: 0.6421
+
+Albania's anthem is most similar to:
+  - Djibouti: 0.5726
+  - Costa_Rica: 0.5724
+  - Barbados: 0.5699
+
+Eritrea's anthem is most similar to:
+  - Ethiopia: 0.5182
+  - Angola: 0.5182
+  - Burkina_Faso: 0.4947
+
+Cape_Verde's anthem is most similar to:
+  - Equatorial_Guinea: 0.5446
+  - Republic_of_the_Congo: 0.5319
+  - Gibraltar: 0.5182
+
+Dominica's anthem is most similar to:
+  - Saint_Barthlemy: 0.6088
+  - Faroe_Islands: 0.6077
+  - Estonia: 0.5588
+
+Western_Sahara's anthem is most similar to:
+  - Angola: 0.5849
+  - France: 0.5815
+  - Burkina_Faso: 0.5515
+
+Spain's anthem is most similar to:
+  - Europe: 1.0000
+  - French_Guiana: 1.0000
+  - Guadeloupe: 1.0000
+
+Brazil's anthem is most similar to:
+  - Honduras: 0.6992
+  - Ecuador: 0.6208
+  - Faroe_Islands: 0.6094
+
+Argentina's anthem is most similar to:
+  - Bolivia_Plurinational_State_of: 0.6555
+  - Guatemala: 0.5833
+  - Antigua_and_Barbuda: 0.5811
+
+Egypt's anthem is most similar to:
+  - Iraq: 0.6944
+  - Ecuador: 0.6320
+  - Barbados: 0.5997
+
+Isle_of_Man's anthem is most similar to:
+  - Faroe_Islands: 0.6605
+  - Cameroon: 0.6437
+  - Switzerland: 0.6416
+
+Congo_the_Democratic_Republic_of_the's anthem is most similar to:
+  - Republic_of_the_Congo: 0.7046
+  - Gabon: 0.6396
+  - Burkina_Faso: 0.6260
+
+Croatia's anthem is most similar to:
+  - Hungary: 0.6551
+  - Estonia: 0.6469
+  - Isle_of_Man: 0.6291
+
+Ecuador's anthem is most similar to:
+  - Barbados: 0.6531
+  - Belarus: 0.6476
+  - Cameroon: 0.6355
+
+Guyana's anthem is most similar to:
+  - Antigua_and_Barbuda: 0.6425
+  - Benin: 0.6034
+  - Indonesia: 0.5545
+
+Brunei_Darussalam's anthem is most similar to:
+  - Gambia: 0.5098
+  - Antigua_and_Barbuda: 0.5053
+  - Indonesia: 0.4996
+
+Cuba's anthem is most similar to:
+  - Belize: 0.4771
+  - Guam: 0.4750
+  - Dominican_Republic: 0.4454
+
+Equatorial_Guinea's anthem is most similar to:
+  - Guinea: 0.6758
+  - Republic_of_the_Congo: 0.6252
+  - Angola: 0.6139
+
+Georgia's anthem is most similar to:
+  - Bermuda: 0.5787
+  - Grenada: 0.5575
+  - Indonesia: 0.5567
+
+Dominican_Republic's anthem is most similar to:
+  - Guatemala: 0.5838
+  - Bolivia_Plurinational_State_of: 0.5828
+  - France: 0.5327
+
+Azerbaijan's anthem is most similar to:
+  - Armenia: 0.5056
+  - Costa_Rica: 0.4826
+  - Djibouti: 0.4735
+
+Anguilla's anthem is most similar to:
+  - Guinea-Bissau: 0.5982
+  - Barbados: 0.5920
+  - Cameroon: 0.5705
+
+Guinea-Bissau's anthem is most similar to:
+  - Gabon: 0.6811
+  - Belarus: 0.6727
+  - Republic_of_the_Congo: 0.6703
+
+Belarus's anthem is most similar to:
+  - Guinea-Bissau: 0.6727
+  - Ecuador: 0.6476
+  - Botswana: 0.6256
+
+United_Arab_Emirates's anthem is most similar to:
+  - Afghanistan: 0.5593
+  - Iran_Islamic_Republic_of: 0.5475
+  - Iraq: 0.5391
+
+Iraq's anthem is most similar to:
+  - Egypt: 0.6944
+  - Finland: 0.6289
+  - Costa_Rica: 0.6224
+
+Czech_Republic's anthem is most similar to:
+  - Croatia: 0.5205
+  - Bulgaria: 0.4584
+  - Denmark: 0.4464
+
+American_Samoa's anthem is most similar to:
+  - Curaao: 0.6173
+  - Guam: 0.5941
+  - Indonesia: 0.5472
+
+Guinea's anthem is most similar to:
+  - Equatorial_Guinea: 0.6758
+  - Angola: 0.6259
+  - Central_African_Republic: 0.6018
+
+Guernsey's anthem is most similar to:
+  - Saint_Barthlemy: 0.4947
+  - Falkland_Islands_Malvinas: 0.4425
+  - Belize: 0.4202
+
+Bermuda's anthem is most similar to:
+  - Indonesia: 0.6154
+  - Curaao: 0.5907
+  - Georgia: 0.5787
+
+Belgium's anthem is most similar to:
+  - Angola: 0.6081
+  - Equatorial_Guinea: 0.5962
+  - Cte_dIvoire: 0.5943
+
+Ireland's anthem is most similar to:
+  - Belize: 0.5333
+  - Cameroon: 0.5039
+  - Albania: 0.4937
+
+Bulgaria's anthem is most similar to:
+  - Croatia: 0.5827
+  - Guinea-Bissau: 0.5624
+  - Hungary: 0.5577
+
+Denmark's anthem is most similar to:
+  - land_Islands: 0.5842
+  - Isle_of_Man: 0.5747
+  - Greenland: 0.5376
+
+Guadeloupe's anthem is most similar to:
+  - Europe: 1.0000
+  - French_Guiana: 1.0000
+  - Spain: 1.0000
+
+Barbados's anthem is most similar to:
+  - Cameroon: 0.7072
+  - Gabon: 0.6784
+  - Guinea-Bissau: 0.6615
+
+Guatemala's anthem is most similar to:
+  - Bolivia_Plurinational_State_of: 0.6781
+  - Costa_Rica: 0.6543
+  - Antigua_and_Barbuda: 0.6380
+
+Bosnia_and_Herzegovina's anthem is most similar to:
+  - Europe: 1.0000
+  - French_Guiana: 1.0000
+  - Spain: 1.0000
+
+Greenland's anthem is most similar to:
+  - Barbados: 0.5908
+  - Costa_Rica: 0.5777
+  - Fiji: 0.5698
+
+Cte_dIvoire's anthem is most similar to:
+  - Botswana: 0.6473
+  - Ghana: 0.6456
+  - Angola: 0.6327
+
+Andorra's anthem is most similar to:
+  - Canada: 0.4381
+  - Estonia: 0.4377
+  - Armenia: 0.4261
+
+Bahamas's anthem is most similar to:
+  - Cyprus: 0.4740
+  - Greece: 0.4740
+  - Guinea-Bissau: 0.4700
+
+Israel's anthem is most similar to:
+  - Barbados: 0.5478
+  - Egypt: 0.4927
+  - Guinea-Bissau: 0.4869
+
+Chile's anthem is most similar to:
+  - Honduras: 0.6361
+  - Brazil: 0.6004
+  - Belize: 0.5897
+
+Estonia's anthem is most similar to:
+  - Croatia: 0.6469
+  - Faroe_Islands: 0.5926
+  - Germany: 0.5734
+
+Indonesia's anthem is most similar to:
+  - Bermuda: 0.6154
+  - Egypt: 0.5721
+  - Guinea-Bissau: 0.5630
+
+Switzerland's anthem is most similar to:
+  - Faroe_Islands: 0.7189
+  - Isle_of_Man: 0.6416
+  - Finland: 0.5971
+
+Austria's anthem is most similar to:
+  - Cte_dIvoire: 0.6111
+  - Belarus: 0.5810
+  - Antigua_and_Barbuda: 0.5779
+
+India's anthem is most similar to:
+  - Cameroon: 0.5621
+  - United_Kingdom: 0.5249
+  - Faroe_Islands: 0.5104
+
+Bahrain's anthem is most similar to:
+  - United_Arab_Emirates: 0.5120
+  - Brunei_Darussalam: 0.4487
+  - Afghanistan: 0.4241
+
+Bolivia_Plurinational_State_of's anthem is most similar to:
+  - Guatemala: 0.6781
+  - Argentina: 0.6555
+  - Antigua_and_Barbuda: 0.6469
+
+Djibouti's anthem is most similar to:
+  - Costa_Rica: 0.6300
+  - Guinea-Bissau: 0.5814
+  - Albania: 0.5726
+
+Cameroon's anthem is most similar to:
+  - Barbados: 0.7072
+  - Ghana: 0.6498
+  - Isle_of_Man: 0.6437
+
+Micronesia_Federated_States_of's anthem is most similar to:
+  - Cameroon: 0.5536
+  - Italy: 0.5383
+  - Australia: 0.5295
+
+Haiti's anthem is most similar to:
+  - Barbados: 0.6274
+  - Iraq: 0.5721
+  - Angola: 0.5620
+
+land_Islands's anthem is most similar to:
+  - Denmark: 0.5842
+  - Finland: 0.5640
+  - Faroe_Islands: 0.5575
+
+Saint_Barthlemy's anthem is most similar to:
+  - Belize: 0.6443
+  - Falkland_Islands_Malvinas: 0.6330
+  - Dominica: 0.6088
+
+Gibraltar's anthem is most similar to:
+  - Georgia: 0.5255
+  - Belize: 0.5214
+  - Cape_Verde: 0.5182
+
+Cyprus's anthem is most similar to:
+  - Greece: 1.0000
+  - Ecuador: 0.5613
+  - Finland: 0.5451
+
+Fiji's anthem is most similar to:
+  - Antigua_and_Barbuda: 0.5710
+  - Greenland: 0.5698
+  - Barbados: 0.5648
+
+Benin's anthem is most similar to:
+  - Ghana: 0.6143
+  - Guyana: 0.6034
+  - Burkina_Faso: 0.5929
+
+Hong_Kong's anthem is most similar to:
+  - Europe: 1.0000
+  - French_Guiana: 1.0000
+  - Spain: 1.0000
+
+Burkina_Faso's anthem is most similar to:
+  - Angola: 0.6728
+  - Republic_of_the_Congo: 0.6618
+  - Gabon: 0.6471
+
+Bhutan's anthem is most similar to:
+  - Cook_Islands: 0.4049
+  - Croatia: 0.4005
+  - Isle_of_Man: 0.3912
+
+Ethiopia's anthem is most similar to:
+  - Cte_dIvoire: 0.5955
+  - Gambia: 0.5799
+  - Greenland: 0.5457
+
+Honduras's anthem is most similar to:
+  - Brazil: 0.6992
+  - Costa_Rica: 0.6362
+  - Chile: 0.6361
+
+Cook_Islands's anthem is most similar to:
+  - Guam: 0.5402
+  - Isle_of_Man: 0.5132
+  - Cte_dIvoire: 0.5097
+
+Falkland_Islands_Malvinas's anthem is most similar to:
+  - Saint_Barthlemy: 0.6330
+  - Belize: 0.5658
+  - land_Islands: 0.5561
+
+France's anthem is most similar to:
+  - Western_Sahara: 0.5815
+  - Belize: 0.5741
+  - Burkina_Faso: 0.5459
+
+Jersey's anthem is most similar to:
+  - Guam: 0.4963
+  - Bermuda: 0.4924
+  - American_Samoa: 0.4767
+
+Afghanistan's anthem is most similar to:
+  - United_Arab_Emirates: 0.5593
+  - Croatia: 0.5367
+  - Hungary: 0.5280
+
+Guam's anthem is most similar to:
+  - American_Samoa: 0.5941
+  - Curaao: 0.5824
+  - Bermuda: 0.5699
+
+Costa_Rica's anthem is most similar to:
+  - Guinea-Bissau: 0.6549
+  - Guatemala: 0.6543
+  - Honduras: 0.6362
+
+Ghana's anthem is most similar to:
+  - Angola: 0.6596
+  - Republic_of_the_Congo: 0.6545
+  - Cameroon: 0.6498
+
+Hungary's anthem is most similar to:
+  - Croatia: 0.6551
+  - Guatemala: 0.5632
+  - Bulgaria: 0.5577
+
+Curaao's anthem is most similar to:
+  - Republic_of_the_Congo: 0.6454
+  - Angola: 0.6448
+  - American_Samoa: 0.6173
+
+Greece's anthem is most similar to:
+  - Cyprus: 1.0000
+  - Ecuador: 0.5613
+  - Finland: 0.5451
+
+Burundi's anthem is most similar to:
+  - Antigua_and_Barbuda: 0.5648
+  - Ethiopia: 0.5343
+  - Gambia: 0.5177
+
+Republic_of_the_Congo's anthem is most similar to:
+  - Angola: 0.7207
+  - Gabon: 0.7107
+  - Congo_the_Democratic_Republic_of_the: 0.7046
+
+Angola's anthem is most similar to:
+  - Republic_of_the_Congo: 0.7207
+  - Burkina_Faso: 0.6728
+  - Ghana: 0.6596
+
+Aruba's anthem is most similar to:
+  - Curaao: 0.5308
+  - Republic_of_the_Congo: 0.5179
+  - Botswana: 0.5134
+
+United_Kingdom's anthem is most similar to:
+  - India: 0.5249
+  - Ghana: 0.4984
+  - Antigua_and_Barbuda: 0.4922
+
+Germany's anthem is most similar to:
+  - Estonia: 0.5734
+  - Belgium: 0.5706
+  - Austria: 0.5408
+
+Armenia's anthem is most similar to:
+  - Costa_Rica: 0.5813
+  - Guinea-Bissau: 0.5557
+  - Republic_of_the_Congo: 0.5537
+
+Australia's anthem is most similar to:
+  - Micronesia_Federated_States_of: 0.5295
+  - Antigua_and_Barbuda: 0.5196
+  - Fiji: 0.5176
+
+Iceland's anthem is most similar to:
+  - Isle_of_Man: 0.5600
+  - Faroe_Islands: 0.5543
+  - Estonia: 0.5468
+
+Bangladesh's anthem is most similar to:
+  - Estonia: 0.5625
+  - Croatia: 0.5475
+  - Honduras: 0.5339
+
