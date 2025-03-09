@@ -26,8 +26,8 @@ This repository contains multiple Jupyter notebooks designed for **scalable data
 - Demonstrates various **time-series visualization techniques**.  
 
 ### 🇮🇳 Analyzing_India_with_Data.ipynb
-- This notebook focuses on Air Quality analysis in India. T
-- he data is extracted from a government website and used for in-depth analysis
+- This notebook focuses on Air Quality analysis in India.
+- The data is extracted from a government website and used for in-depth analysis
 ---
 
 ## 🎵 Analyzing Flags & Anthems  
