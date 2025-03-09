@@ -25,6 +25,9 @@ This repository contains multiple Jupyter notebooks designed for **scalable data
 - Uses the **Open-Meteo API** to fetch **historical weather data**.  
 - Demonstrates various **time-series visualization techniques**.  
 
+### 🇮🇳 Analyzing_India_with_Data.ipynb
+- This notebook focuses on Air Quality analysis in India. T
+- he data is extracted from a government website and used for in-depth analysis
 ---
 
 ## 🎵 Analyzing Flags & Anthems  
@@ -46,11 +49,6 @@ This repository contains multiple Jupyter notebooks designed for **scalable data
 
 ### 🔄 Multi-modal Correlation  
 - **Matches audio (anthems) with their written versions** to explore **multi-modal correlations**.  
-
----
-
-## 📂 Directory Structure  
-
 
 ---
 
