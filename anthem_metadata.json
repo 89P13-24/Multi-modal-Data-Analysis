@@ -1,0 +1,702 @@
+{
+    "Andorra": {
+        "country_code": "ad",
+        "translation_file": "translations/Andorra.txt",
+        "mp3_file": "anthems/Andorra.mp3",
+        "mp3_url": "https://nationalanthems.info/ad.mp3",
+        "source_url": "https://nationalanthems.info/ad.htm"
+    },
+    "United Arab Emirates": {
+        "country_code": "ae",
+        "translation_file": "translations/United_Arab_Emirates.txt",
+        "mp3_file": "anthems/United_Arab_Emirates.mp3",
+        "mp3_url": "https://nationalanthems.info/ae.mp3",
+        "source_url": "https://nationalanthems.info/ae.htm"
+    },
+    "Afghanistan": {
+        "country_code": "af",
+        "translation_file": "translations/Afghanistan.txt",
+        "mp3_file": "anthems/Afghanistan.mp3",
+        "mp3_url": "https://nationalanthems.info/af.mp3",
+        "source_url": "https://nationalanthems.info/af.htm"
+    },
+    "Antigua and Barbuda": {
+        "country_code": "ag",
+        "translation_file": "translations/Antigua_and_Barbuda.txt",
+        "mp3_file": "anthems/Antigua_and_Barbuda.mp3",
+        "mp3_url": "https://nationalanthems.info/ag.mp3",
+        "source_url": "https://nationalanthems.info/ag.htm"
+    },
+    "Anguilla": {
+        "country_code": "ai",
+        "translation_file": "translations/Anguilla.txt",
+        "mp3_file": "anthems/Anguilla.mp3",
+        "mp3_url": "https://nationalanthems.info/ai.mp3",
+        "source_url": "https://nationalanthems.info/ai.htm"
+    },
+    "Albania": {
+        "country_code": "al",
+        "translation_file": "translations/Albania.txt",
+        "mp3_file": "anthems/Albania.mp3",
+        "mp3_url": "https://nationalanthems.info/al.mp3",
+        "source_url": "https://nationalanthems.info/al.htm"
+    },
+    "Armenia": {
+        "country_code": "am",
+        "translation_file": "translations/Armenia.txt",
+        "mp3_file": "anthems/Armenia.mp3",
+        "mp3_url": "https://nationalanthems.info/am.mp3",
+        "source_url": "https://nationalanthems.info/am.htm"
+    },
+    "Angola": {
+        "country_code": "ao",
+        "translation_file": "translations/Angola.txt",
+        "mp3_file": "anthems/Angola.mp3",
+        "mp3_url": "https://nationalanthems.info/ao.mp3",
+        "source_url": "https://nationalanthems.info/ao.htm"
+    },
+    "Argentina": {
+        "country_code": "ar",
+        "translation_file": "translations/Argentina.txt",
+        "mp3_file": "anthems/Argentina.mp3",
+        "mp3_url": "https://nationalanthems.info/ar.mp3",
+        "source_url": "https://nationalanthems.info/ar.htm"
+    },
+    "American Samoa": {
+        "country_code": "as",
+        "translation_file": "translations/American_Samoa.txt",
+        "mp3_file": "anthems/American_Samoa.mp3",
+        "mp3_url": "https://nationalanthems.info/as.mp3",
+        "source_url": "https://nationalanthems.info/as.htm"
+    },
+    "Austria": {
+        "country_code": "at",
+        "translation_file": "translations/Austria.txt",
+        "mp3_file": "anthems/Austria.mp3",
+        "mp3_url": "https://nationalanthems.info/at.mp3",
+        "source_url": "https://nationalanthems.info/at.htm"
+    },
+    "Australia": {
+        "country_code": "au",
+        "translation_file": "translations/Australia.txt",
+        "mp3_file": "anthems/Australia.mp3",
+        "mp3_url": "https://nationalanthems.info/au.mp3",
+        "source_url": "https://nationalanthems.info/au.htm"
+    },
+    "Aruba": {
+        "country_code": "aw",
+        "translation_file": "translations/Aruba.txt",
+        "mp3_file": "anthems/Aruba.mp3",
+        "mp3_url": "https://nationalanthems.info/aw.mp3",
+        "source_url": "https://nationalanthems.info/aw.htm"
+    },
+    "\u00c5land Islands": {
+        "country_code": "ax",
+        "translation_file": "translations/\u00c5land_Islands.txt",
+        "mp3_file": "anthems/\u00c5land_Islands.mp3",
+        "mp3_url": "https://nationalanthems.info/ax.mp3",
+        "source_url": "https://nationalanthems.info/ax.htm"
+    },
+    "Azerbaijan": {
+        "country_code": "az",
+        "translation_file": "translations/Azerbaijan.txt",
+        "mp3_file": "anthems/Azerbaijan.mp3",
+        "mp3_url": "https://nationalanthems.info/az.mp3",
+        "source_url": "https://nationalanthems.info/az.htm"
+    },
+    "Bosnia and Herzegovina": {
+        "country_code": "ba",
+        "translation_file": "translations/Bosnia_and_Herzegovina.txt",
+        "mp3_file": "anthems/Bosnia_and_Herzegovina.mp3",
+        "mp3_url": "https://nationalanthems.info/ba.mp3",
+        "source_url": "https://nationalanthems.info/ba.htm"
+    },
+    "Barbados": {
+        "country_code": "bb",
+        "translation_file": "translations/Barbados.txt",
+        "mp3_file": "anthems/Barbados.mp3",
+        "mp3_url": "https://nationalanthems.info/bb.mp3",
+        "source_url": "https://nationalanthems.info/bb.htm"
+    },
+    "Bangladesh": {
+        "country_code": "bd",
+        "translation_file": "translations/Bangladesh.txt",
+        "mp3_file": "anthems/Bangladesh.mp3",
+        "mp3_url": "https://nationalanthems.info/bd.mp3",
+        "source_url": "https://nationalanthems.info/bd.htm"
+    },
+    "Belgium": {
+        "country_code": "be",
+        "translation_file": "translations/Belgium.txt",
+        "mp3_file": "anthems/Belgium.mp3",
+        "mp3_url": "https://nationalanthems.info/be.mp3",
+        "source_url": "https://nationalanthems.info/be.htm"
+    },
+    "Burkina Faso": {
+        "country_code": "bf",
+        "translation_file": "translations/Burkina_Faso.txt",
+        "mp3_file": "anthems/Burkina_Faso.mp3",
+        "mp3_url": "https://nationalanthems.info/bf.mp3",
+        "source_url": "https://nationalanthems.info/bf.htm"
+    },
+    "Bulgaria": {
+        "country_code": "bg",
+        "translation_file": "translations/Bulgaria.txt",
+        "mp3_file": "anthems/Bulgaria.mp3",
+        "mp3_url": "https://nationalanthems.info/bg.mp3",
+        "source_url": "https://nationalanthems.info/bg.htm"
+    },
+    "Bahrain": {
+        "country_code": "bh",
+        "translation_file": "translations/Bahrain.txt",
+        "mp3_file": "anthems/Bahrain.mp3",
+        "mp3_url": "https://nationalanthems.info/bh.mp3",
+        "source_url": "https://nationalanthems.info/bh.htm"
+    },
+    "Burundi": {
+        "country_code": "bi",
+        "translation_file": "translations/Burundi.txt",
+        "mp3_file": "anthems/Burundi.mp3",
+        "mp3_url": "https://nationalanthems.info/bi.mp3",
+        "source_url": "https://nationalanthems.info/bi.htm"
+    },
+    "Benin": {
+        "country_code": "bj",
+        "translation_file": "translations/Benin.txt",
+        "mp3_file": "anthems/Benin.mp3",
+        "mp3_url": "https://nationalanthems.info/bj.mp3",
+        "source_url": "https://nationalanthems.info/bj.htm"
+    },
+    "Saint Barth\u00e9lemy": {
+        "country_code": "bl",
+        "translation_file": "translations/Saint_Barth\u00e9lemy.txt",
+        "mp3_file": "anthems/Saint_Barth\u00e9lemy.mp3",
+        "mp3_url": "https://nationalanthems.info/bl.mp3",
+        "source_url": "https://nationalanthems.info/bl.htm"
+    },
+    "Bermuda": {
+        "country_code": "bm",
+        "translation_file": "translations/Bermuda.txt",
+        "mp3_file": "anthems/Bermuda.mp3",
+        "mp3_url": "https://nationalanthems.info/bm.mp3",
+        "source_url": "https://nationalanthems.info/bm.htm"
+    },
+    "Brunei Darussalam": {
+        "country_code": "bn",
+        "translation_file": "translations/Brunei_Darussalam.txt",
+        "mp3_file": "anthems/Brunei_Darussalam.mp3",
+        "mp3_url": "https://nationalanthems.info/bn.mp3",
+        "source_url": "https://nationalanthems.info/bn.htm"
+    },
+    "Bolivia, Plurinational State of": {
+        "country_code": "bo",
+        "translation_file": "translations/Bolivia_Plurinational_State_of.txt",
+        "mp3_file": "anthems/Bolivia_Plurinational_State_of.mp3",
+        "mp3_url": "https://nationalanthems.info/bo.mp3",
+        "source_url": "https://nationalanthems.info/bo.htm"
+    },
+    "Brazil": {
+        "country_code": "br",
+        "translation_file": "translations/Brazil.txt",
+        "mp3_file": "anthems/Brazil.mp3",
+        "mp3_url": "https://nationalanthems.info/br.mp3",
+        "source_url": "https://nationalanthems.info/br.htm"
+    },
+    "Bahamas": {
+        "country_code": "bs",
+        "translation_file": "translations/Bahamas.txt",
+        "mp3_file": "anthems/Bahamas.mp3",
+        "mp3_url": "https://nationalanthems.info/bs.mp3",
+        "source_url": "https://nationalanthems.info/bs.htm"
+    },
+    "Bhutan": {
+        "country_code": "bt",
+        "translation_file": "translations/Bhutan.txt",
+        "mp3_file": "anthems/Bhutan.mp3",
+        "mp3_url": "https://nationalanthems.info/bt.mp3",
+        "source_url": "https://nationalanthems.info/bt.htm"
+    },
+    "Botswana": {
+        "country_code": "bw",
+        "translation_file": "translations/Botswana.txt",
+        "mp3_file": "anthems/Botswana.mp3",
+        "mp3_url": "https://nationalanthems.info/bw.mp3",
+        "source_url": "https://nationalanthems.info/bw.htm"
+    },
+    "Belarus": {
+        "country_code": "by",
+        "translation_file": "translations/Belarus.txt",
+        "mp3_file": "anthems/Belarus.mp3",
+        "mp3_url": "https://nationalanthems.info/by.mp3",
+        "source_url": "https://nationalanthems.info/by.htm"
+    },
+    "Belize": {
+        "country_code": "bz",
+        "translation_file": "translations/Belize.txt",
+        "mp3_file": "anthems/Belize.mp3",
+        "mp3_url": "https://nationalanthems.info/bz.mp3",
+        "source_url": "https://nationalanthems.info/bz.htm"
+    },
+    "Canada": {
+        "country_code": "ca",
+        "translation_file": "translations/Canada.txt",
+        "mp3_file": "anthems/Canada.mp3",
+        "mp3_url": "https://nationalanthems.info/ca.mp3",
+        "source_url": "https://nationalanthems.info/ca.htm"
+    },
+    "Congo, the Democratic Republic of the": {
+        "country_code": "cd",
+        "translation_file": "translations/Congo_the_Democratic_Republic_of_the.txt",
+        "mp3_file": "anthems/Congo_the_Democratic_Republic_of_the.mp3",
+        "mp3_url": "https://nationalanthems.info/cd.mp3",
+        "source_url": "https://nationalanthems.info/cd.htm"
+    },
+    "Central African Republic": {
+        "country_code": "cf",
+        "translation_file": "translations/Central_African_Republic.txt",
+        "mp3_file": "anthems/Central_African_Republic.mp3",
+        "mp3_url": "https://nationalanthems.info/cf.mp3",
+        "source_url": "https://nationalanthems.info/cf.htm"
+    },
+    "Republic of the Congo": {
+        "country_code": "cg",
+        "translation_file": "translations/Republic_of_the_Congo.txt",
+        "mp3_file": "anthems/Republic_of_the_Congo.mp3",
+        "mp3_url": "https://nationalanthems.info/cg.mp3",
+        "source_url": "https://nationalanthems.info/cg.htm"
+    },
+    "Switzerland": {
+        "country_code": "ch",
+        "translation_file": "translations/Switzerland.txt",
+        "mp3_file": "anthems/Switzerland.mp3",
+        "mp3_url": "https://nationalanthems.info/ch.mp3",
+        "source_url": "https://nationalanthems.info/ch.htm"
+    },
+    "C\u00f4te d'Ivoire": {
+        "country_code": "ci",
+        "translation_file": "translations/C\u00f4te_dIvoire.txt",
+        "mp3_file": "anthems/C\u00f4te_dIvoire.mp3",
+        "mp3_url": "https://nationalanthems.info/ci.mp3",
+        "source_url": "https://nationalanthems.info/ci.htm"
+    },
+    "Cook Islands": {
+        "country_code": "ck",
+        "translation_file": "translations/Cook_Islands.txt",
+        "mp3_file": "anthems/Cook_Islands.mp3",
+        "mp3_url": "https://nationalanthems.info/ck.mp3",
+        "source_url": "https://nationalanthems.info/ck.htm"
+    },
+    "Chile": {
+        "country_code": "cl",
+        "translation_file": "translations/Chile.txt",
+        "mp3_file": "anthems/Chile.mp3",
+        "mp3_url": "https://nationalanthems.info/cl.mp3",
+        "source_url": "https://nationalanthems.info/cl.htm"
+    },
+    "Cameroon": {
+        "country_code": "cm",
+        "translation_file": "translations/Cameroon.txt",
+        "mp3_file": "anthems/Cameroon.mp3",
+        "mp3_url": "https://nationalanthems.info/cm.mp3",
+        "source_url": "https://nationalanthems.info/cm.htm"
+    },
+    "China (People's Republic of China)": {
+        "country_code": "cn",
+        "translation_file": "translations/China_Peoples_Republic_of_China.txt",
+        "mp3_file": "anthems/China_Peoples_Republic_of_China.mp3",
+        "mp3_url": "https://nationalanthems.info/cn.mp3",
+        "source_url": "https://nationalanthems.info/cn.htm"
+    },
+    "Colombia": {
+        "country_code": "co",
+        "translation_file": "translations/Colombia.txt",
+        "mp3_file": "anthems/Colombia.mp3",
+        "mp3_url": "https://nationalanthems.info/co.mp3",
+        "source_url": "https://nationalanthems.info/co.htm"
+    },
+    "Costa Rica": {
+        "country_code": "cr",
+        "translation_file": "translations/Costa_Rica.txt",
+        "mp3_file": "anthems/Costa_Rica.mp3",
+        "mp3_url": "https://nationalanthems.info/cr.mp3",
+        "source_url": "https://nationalanthems.info/cr.htm"
+    },
+    "Cuba": {
+        "country_code": "cu",
+        "translation_file": "translations/Cuba.txt",
+        "mp3_file": "anthems/Cuba.mp3",
+        "mp3_url": "https://nationalanthems.info/cu.mp3",
+        "source_url": "https://nationalanthems.info/cu.htm"
+    },
+    "Cape Verde": {
+        "country_code": "cv",
+        "translation_file": "translations/Cape_Verde.txt",
+        "mp3_file": "anthems/Cape_Verde.mp3",
+        "mp3_url": "https://nationalanthems.info/cv.mp3",
+        "source_url": "https://nationalanthems.info/cv.htm"
+    },
+    "Cura\u00e7ao": {
+        "country_code": "cw",
+        "translation_file": "translations/Cura\u00e7ao.txt",
+        "mp3_file": "anthems/Cura\u00e7ao.mp3",
+        "mp3_url": "https://nationalanthems.info/cw.mp3",
+        "source_url": "https://nationalanthems.info/cw.htm"
+    },
+    "Czech Republic": {
+        "country_code": "cz",
+        "translation_file": "translations/Czech_Republic.txt",
+        "mp3_file": "anthems/Czech_Republic.mp3",
+        "mp3_url": "https://nationalanthems.info/cz.mp3",
+        "source_url": "https://nationalanthems.info/cz.htm"
+    },
+    "Germany": {
+        "country_code": "de",
+        "translation_file": "translations/Germany.txt",
+        "mp3_file": "anthems/Germany.mp3",
+        "mp3_url": "https://nationalanthems.info/de.mp3",
+        "source_url": "https://nationalanthems.info/de.htm"
+    },
+    "Djibouti": {
+        "country_code": "dj",
+        "translation_file": "translations/Djibouti.txt",
+        "mp3_file": "anthems/Djibouti.mp3",
+        "mp3_url": "https://nationalanthems.info/dj.mp3",
+        "source_url": "https://nationalanthems.info/dj.htm"
+    },
+    "Denmark": {
+        "country_code": "dk",
+        "translation_file": "translations/Denmark.txt",
+        "mp3_file": "anthems/Denmark.mp3",
+        "mp3_url": "https://nationalanthems.info/dk.mp3",
+        "source_url": "https://nationalanthems.info/dk.htm"
+    },
+    "Dominica": {
+        "country_code": "dm",
+        "translation_file": "translations/Dominica.txt",
+        "mp3_file": "anthems/Dominica.mp3",
+        "mp3_url": "https://nationalanthems.info/dm.mp3",
+        "source_url": "https://nationalanthems.info/dm.htm"
+    },
+    "Dominican Republic": {
+        "country_code": "do",
+        "translation_file": "translations/Dominican_Republic.txt",
+        "mp3_file": "anthems/Dominican_Republic.mp3",
+        "mp3_url": "https://nationalanthems.info/do.mp3",
+        "source_url": "https://nationalanthems.info/do.htm"
+    },
+    "Algeria": {
+        "country_code": "dz",
+        "translation_file": "translations/Algeria.txt",
+        "mp3_file": "anthems/Algeria.mp3",
+        "mp3_url": "https://nationalanthems.info/dz.mp3",
+        "source_url": "https://nationalanthems.info/dz.htm"
+    },
+    "Ecuador": {
+        "country_code": "ec",
+        "translation_file": "translations/Ecuador.txt",
+        "mp3_file": "anthems/Ecuador.mp3",
+        "mp3_url": "https://nationalanthems.info/ec.mp3",
+        "source_url": "https://nationalanthems.info/ec.htm"
+    },
+    "Estonia": {
+        "country_code": "ee",
+        "translation_file": "translations/Estonia.txt",
+        "mp3_file": "anthems/Estonia.mp3",
+        "mp3_url": "https://nationalanthems.info/ee.mp3",
+        "source_url": "https://nationalanthems.info/ee.htm"
+    },
+    "Egypt": {
+        "country_code": "eg",
+        "translation_file": "translations/Egypt.txt",
+        "mp3_file": "anthems/Egypt.mp3",
+        "mp3_url": "https://nationalanthems.info/eg.mp3",
+        "source_url": "https://nationalanthems.info/eg.htm"
+    },
+    "Western Sahara": {
+        "country_code": "eh",
+        "translation_file": "translations/Western_Sahara.txt",
+        "mp3_file": "anthems/Western_Sahara.mp3",
+        "mp3_url": "https://nationalanthems.info/eh.mp3",
+        "source_url": "https://nationalanthems.info/eh.htm"
+    },
+    "Eritrea": {
+        "country_code": "er",
+        "translation_file": "translations/Eritrea.txt",
+        "mp3_file": "anthems/Eritrea.mp3",
+        "mp3_url": "https://nationalanthems.info/er.mp3",
+        "source_url": "https://nationalanthems.info/er.htm"
+    },
+    "Spain": {
+        "country_code": "es",
+        "translation_file": "translations/Spain.txt",
+        "mp3_file": "anthems/Spain.mp3",
+        "mp3_url": "https://nationalanthems.info/es.mp3",
+        "source_url": "https://nationalanthems.info/es.htm"
+    },
+    "Ethiopia": {
+        "country_code": "et",
+        "translation_file": "translations/Ethiopia.txt",
+        "mp3_file": "anthems/Ethiopia.mp3",
+        "mp3_url": "https://nationalanthems.info/et.mp3",
+        "source_url": "https://nationalanthems.info/et.htm"
+    },
+    "Europe": {
+        "country_code": "eu",
+        "translation_file": "translations/Europe.txt",
+        "mp3_file": "anthems/Europe.mp3",
+        "mp3_url": "https://nationalanthems.info/eu.mp3",
+        "source_url": "https://nationalanthems.info/eu.htm"
+    },
+    "Finland": {
+        "country_code": "fi",
+        "translation_file": "translations/Finland.txt",
+        "mp3_file": "anthems/Finland.mp3",
+        "mp3_url": "https://nationalanthems.info/fi.mp3",
+        "source_url": "https://nationalanthems.info/fi.htm"
+    },
+    "Fiji": {
+        "country_code": "fj",
+        "translation_file": "translations/Fiji.txt",
+        "mp3_file": "anthems/Fiji.mp3",
+        "mp3_url": "https://nationalanthems.info/fj.mp3",
+        "source_url": "https://nationalanthems.info/fj.htm"
+    },
+    "Falkland Islands (Malvinas)": {
+        "country_code": "fk",
+        "translation_file": "translations/Falkland_Islands_Malvinas.txt",
+        "mp3_file": "anthems/Falkland_Islands_Malvinas.mp3",
+        "mp3_url": "https://nationalanthems.info/fk.mp3",
+        "source_url": "https://nationalanthems.info/fk.htm"
+    },
+    "Micronesia, Federated States of": {
+        "country_code": "fm",
+        "translation_file": "translations/Micronesia_Federated_States_of.txt",
+        "mp3_file": "anthems/Micronesia_Federated_States_of.mp3",
+        "mp3_url": "https://nationalanthems.info/fm.mp3",
+        "source_url": "https://nationalanthems.info/fm.htm"
+    },
+    "Faroe Islands": {
+        "country_code": "fo",
+        "translation_file": "translations/Faroe_Islands.txt",
+        "mp3_file": "anthems/Faroe_Islands.mp3",
+        "mp3_url": "https://nationalanthems.info/fo.mp3",
+        "source_url": "https://nationalanthems.info/fo.htm"
+    },
+    "France": {
+        "country_code": "fr",
+        "translation_file": "translations/France.txt",
+        "mp3_file": "anthems/France.mp3",
+        "mp3_url": "https://nationalanthems.info/fr.mp3",
+        "source_url": "https://nationalanthems.info/fr.htm"
+    },
+    "Gabon": {
+        "country_code": "ga",
+        "translation_file": "translations/Gabon.txt",
+        "mp3_file": "anthems/Gabon.mp3",
+        "mp3_url": "https://nationalanthems.info/ga.mp3",
+        "source_url": "https://nationalanthems.info/ga.htm"
+    },
+    "United Kingdom": {
+        "country_code": "gb",
+        "translation_file": "translations/United_Kingdom.txt",
+        "mp3_file": "anthems/United_Kingdom.mp3",
+        "mp3_url": "https://nationalanthems.info/gb.mp3",
+        "source_url": "https://nationalanthems.info/gb.htm"
+    },
+    "Grenada": {
+        "country_code": "gd",
+        "translation_file": "translations/Grenada.txt",
+        "mp3_file": "anthems/Grenada.mp3",
+        "mp3_url": "https://nationalanthems.info/gd.mp3",
+        "source_url": "https://nationalanthems.info/gd.htm"
+    },
+    "Georgia": {
+        "country_code": "ge",
+        "translation_file": "translations/Georgia.txt",
+        "mp3_file": "anthems/Georgia.mp3",
+        "mp3_url": "https://nationalanthems.info/ge.mp3",
+        "source_url": "https://nationalanthems.info/ge.htm"
+    },
+    "Guernsey": {
+        "country_code": "gg",
+        "translation_file": "translations/Guernsey.txt",
+        "mp3_file": "anthems/Guernsey.mp3",
+        "mp3_url": "https://nationalanthems.info/gg.mp3",
+        "source_url": "https://nationalanthems.info/gg.htm"
+    },
+    "Ghana": {
+        "country_code": "gh",
+        "translation_file": "translations/Ghana.txt",
+        "mp3_file": "anthems/Ghana.mp3",
+        "mp3_url": "https://nationalanthems.info/gh.mp3",
+        "source_url": "https://nationalanthems.info/gh.htm"
+    },
+    "Gibraltar": {
+        "country_code": "gi",
+        "translation_file": "translations/Gibraltar.txt",
+        "mp3_file": "anthems/Gibraltar.mp3",
+        "mp3_url": "https://nationalanthems.info/gi.mp3",
+        "source_url": "https://nationalanthems.info/gi.htm"
+    },
+    "Greenland": {
+        "country_code": "gl",
+        "translation_file": "translations/Greenland.txt",
+        "mp3_file": "anthems/Greenland.mp3",
+        "mp3_url": "https://nationalanthems.info/gl.mp3",
+        "source_url": "https://nationalanthems.info/gl.htm"
+    },
+    "Gambia": {
+        "country_code": "gm",
+        "translation_file": "translations/Gambia.txt",
+        "mp3_file": "anthems/Gambia.mp3",
+        "mp3_url": "https://nationalanthems.info/gm.mp3",
+        "source_url": "https://nationalanthems.info/gm.htm"
+    },
+    "Guinea": {
+        "country_code": "gn",
+        "translation_file": "translations/Guinea.txt",
+        "mp3_file": "anthems/Guinea.mp3",
+        "mp3_url": "https://nationalanthems.info/gn.mp3",
+        "source_url": "https://nationalanthems.info/gn.htm"
+    },
+    "Equatorial Guinea": {
+        "country_code": "gq",
+        "translation_file": "translations/Equatorial_Guinea.txt",
+        "mp3_file": "anthems/Equatorial_Guinea.mp3",
+        "mp3_url": "https://nationalanthems.info/gq.mp3",
+        "source_url": "https://nationalanthems.info/gq.htm"
+    },
+    "Greece": {
+        "country_code": "gr",
+        "translation_file": "translations/Greece.txt",
+        "mp3_file": "anthems/Greece.mp3",
+        "mp3_url": "https://nationalanthems.info/gr.mp3",
+        "source_url": "https://nationalanthems.info/gr.htm"
+    },
+    "Guatemala": {
+        "country_code": "gt",
+        "translation_file": "translations/Guatemala.txt",
+        "mp3_file": "anthems/Guatemala.mp3",
+        "mp3_url": "https://nationalanthems.info/gt.mp3",
+        "source_url": "https://nationalanthems.info/gt.htm"
+    },
+    "Guam": {
+        "country_code": "gu",
+        "translation_file": "translations/Guam.txt",
+        "mp3_file": "anthems/Guam.mp3",
+        "mp3_url": "https://nationalanthems.info/gu.mp3",
+        "source_url": "https://nationalanthems.info/gu.htm"
+    },
+    "Guinea-Bissau": {
+        "country_code": "gw",
+        "translation_file": "translations/Guinea-Bissau.txt",
+        "mp3_file": "anthems/Guinea-Bissau.mp3",
+        "mp3_url": "https://nationalanthems.info/gw.mp3",
+        "source_url": "https://nationalanthems.info/gw.htm"
+    },
+    "Guyana": {
+        "country_code": "gy",
+        "translation_file": "translations/Guyana.txt",
+        "mp3_file": "anthems/Guyana.mp3",
+        "mp3_url": "https://nationalanthems.info/gy.mp3",
+        "source_url": "https://nationalanthems.info/gy.htm"
+    },
+    "Honduras": {
+        "country_code": "hn",
+        "translation_file": "translations/Honduras.txt",
+        "mp3_file": "anthems/Honduras.mp3",
+        "mp3_url": "https://nationalanthems.info/hn.mp3",
+        "source_url": "https://nationalanthems.info/hn.htm"
+    },
+    "Croatia": {
+        "country_code": "hr",
+        "translation_file": "translations/Croatia.txt",
+        "mp3_file": "anthems/Croatia.mp3",
+        "mp3_url": "https://nationalanthems.info/hr.mp3",
+        "source_url": "https://nationalanthems.info/hr.htm"
+    },
+    "Haiti": {
+        "country_code": "ht",
+        "translation_file": "translations/Haiti.txt",
+        "mp3_file": "anthems/Haiti.mp3",
+        "mp3_url": "https://nationalanthems.info/ht.mp3",
+        "source_url": "https://nationalanthems.info/ht.htm"
+    },
+    "Hungary": {
+        "country_code": "hu",
+        "translation_file": "translations/Hungary.txt",
+        "mp3_file": "anthems/Hungary.mp3",
+        "mp3_url": "https://nationalanthems.info/hu.mp3",
+        "source_url": "https://nationalanthems.info/hu.htm"
+    },
+    "Indonesia": {
+        "country_code": "id",
+        "translation_file": "translations/Indonesia.txt",
+        "mp3_file": "anthems/Indonesia.mp3",
+        "mp3_url": "https://nationalanthems.info/id.mp3",
+        "source_url": "https://nationalanthems.info/id.htm"
+    },
+    "Ireland": {
+        "country_code": "ie",
+        "translation_file": "translations/Ireland.txt",
+        "mp3_file": "anthems/Ireland.mp3",
+        "mp3_url": "https://nationalanthems.info/ie.mp3",
+        "source_url": "https://nationalanthems.info/ie.htm"
+    },
+    "Israel": {
+        "country_code": "il",
+        "translation_file": "translations/Israel.txt",
+        "mp3_file": "anthems/Israel.mp3",
+        "mp3_url": "https://nationalanthems.info/il.mp3",
+        "source_url": "https://nationalanthems.info/il.htm"
+    },
+    "Isle of Man": {
+        "country_code": "im",
+        "translation_file": "translations/Isle_of_Man.txt",
+        "mp3_file": "anthems/Isle_of_Man.mp3",
+        "mp3_url": "https://nationalanthems.info/im.mp3",
+        "source_url": "https://nationalanthems.info/im.htm"
+    },
+    "India": {
+        "country_code": "in",
+        "translation_file": "translations/India.txt",
+        "mp3_file": "anthems/India.mp3",
+        "mp3_url": "https://nationalanthems.info/in.mp3",
+        "source_url": "https://nationalanthems.info/in.htm"
+    },
+    "Iraq": {
+        "country_code": "iq",
+        "translation_file": "translations/Iraq.txt",
+        "mp3_file": "anthems/Iraq.mp3",
+        "mp3_url": "https://nationalanthems.info/iq.mp3",
+        "source_url": "https://nationalanthems.info/iq.htm"
+    },
+    "Iran, Islamic Republic of": {
+        "country_code": "ir",
+        "translation_file": "translations/Iran_Islamic_Republic_of.txt",
+        "mp3_file": "anthems/Iran_Islamic_Republic_of.mp3",
+        "mp3_url": "https://nationalanthems.info/ir.mp3",
+        "source_url": "https://nationalanthems.info/ir.htm"
+    },
+    "Iceland": {
+        "country_code": "is",
+        "translation_file": "translations/Iceland.txt",
+        "mp3_file": "anthems/Iceland.mp3",
+        "mp3_url": "https://nationalanthems.info/is.mp3",
+        "source_url": "https://nationalanthems.info/is.htm"
+    },
+    "Italy": {
+        "country_code": "it",
+        "translation_file": "translations/Italy.txt",
+        "mp3_file": "anthems/Italy.mp3",
+        "mp3_url": "https://nationalanthems.info/it.mp3",
+        "source_url": "https://nationalanthems.info/it.htm"
+    },
+    "Jersey": {
+        "country_code": "je",
+        "translation_file": "translations/Jersey.txt",
+        "mp3_file": "anthems/Jersey.mp3",
+        "mp3_url": "https://nationalanthems.info/je.mp3",
+        "source_url": "https://nationalanthems.info/je.htm"
+    }
+}
