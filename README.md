@@ -30,7 +30,7 @@ This repository contains multiple Jupyter notebooks designed for **scalable data
 - Demonstrates various **time-series visualization techniques**.
 - The dataset generated is named as **Weather_Dataset**.  
 
-### 🇮🇳 Analyzing_India_with_Data.ipynb
+### 🇮🇳 Analyzing_India_with_Data
 - This notebook focuses on Air Quality analysis in India.
 - The data is extracted from a government website and used for in-depth analysis
 - The data is stored in **Air_Quality.csv**.
