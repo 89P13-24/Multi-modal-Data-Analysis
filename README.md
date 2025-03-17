@@ -62,7 +62,9 @@ This repository contains multiple Jupyter notebooks designed for **scalable data
 ---
 ## 📝 Search for a match
 
-- **Matches audio with the videos** using data processing.
+- **Matches audio with the muted videos** using data preprocessing.
+- Establishes the relation between **ball bouncing off** in the video and **beep sounds** in audio.
+- Final results are stored in **final_matches.csv**.
 ---
 ## 📜 How to Run  
 
